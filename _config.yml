@@ -45,10 +45,12 @@ logo: "Duxford-SBD-logo-header.png"
 
 # Plugins
 plugins:
+    - jekyll-remote-theme	
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
 
+remote_theme: Phlow/feeling-responsive
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
