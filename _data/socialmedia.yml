@@ -1,0 +1,34 @@
+- name: GitHub
+  url: http://github.com/phlow
+  class: icon-github
+  title: Code und mehr...
+
+- name: Twitter
+  url: http://twitter.com/duxford_soapbox
+  class: icon-twitter
+  title: "Twitter"
+  
+- name: Facebook
+  url: https://www.facebook.com/DuxfordSoapBoxDerby
+  class: icon-facebook
+  title: "Facebook"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

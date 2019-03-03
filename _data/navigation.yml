@@ -1,0 +1,56 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About The Derby
+  url: "/about/"
+  side: left
+  dropdown: 
+  - title: "With Thanks To"
+    url: "/about/with-thanks-to"
+    
+- title: "Taking Part"
+  url: "/particpating/rules"
+  side: left
+  dropdown:
+  - title: "General Rules"
+    url: "/particpating/rules"
+  - title: "Adult Race"
+    url: "/particpating/adult-rules"
+  - title: "Children's Race"
+    url: "/particpating/childrens-rules/"
+  - title: "Route Map"
+    url: "/participating/route-map"    
+  - title: "Terms and Conditions"
+    url: "/particpating/terms-and-conditions/"
+  - title: "Event Disclaimer"
+    url: "/particpating/event-disclaimer"
+
+- title: "Derby Results"
+  url: "/results/2018-results"
+  side: left
+  dropdown:
+  - title: "2018 Soapbox Derby Results"
+    url: "/results/2018-results"
+  - title: "2017 Soapbox Derby Results"
+    url: "/results/2017-results"
+  - title: "2016 Soapbox Derby Results"
+    url: "/results/2016-results"
+
+- title: Gallery
+  url: "/gallery/2018-photos"
+  side: left
+  dropdown:
+  - title: "2018-photos"
+    url: "/gallery/2018-photos"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
