@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/gallery/2018-photos/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/gallery/2018-photos/</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/results/2018-results</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/results/2018-results</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/about/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -65,9 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/particpating/adult-rules</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/404.html</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -80,9 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/about/</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -94,12 +64,25 @@
 	
 
 	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/particpating/adult-rules</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/blog/archive/</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,283 +97,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/changelog/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/atom.xml</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/particpating/childrens-rules</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/contact/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/documentation/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/particpating/event-disclaimer</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/getting-started/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/headers/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/info/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/redirect-page/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roadmap/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/particpating/rules</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -405,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/particpating/terms-and-conditions</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/changelog/</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/about/with-thanks-to</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -435,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page2/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/particpating/childrens-rules</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page3/</loc>
-	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -465,9 +144,330 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page4/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/contact/</loc>
 	
-		<lastmod>2019-03-03T19:09:09+00:00</lastmod>
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/documentation/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/particpating/event-disclaimer</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/feed.xml</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/getting-started/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/headers/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/humans.txt</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/blog/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/info/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/redirect-page/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/roadmap/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/robots.txt</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/particpating/rules</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/search/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/sitemap.xml</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/particpating/terms-and-conditions</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/about/with-thanks-to</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/blog/page2/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/blog/page3/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duxfordsbd.github.io/SBD_web/blog/page4/</loc>
+	
+		<lastmod>2019-03-04T16:55:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -483,7 +483,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Cheque-presentation-2018/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/news/Cheque-presentation-2018/</loc>
 	
 		<lastmod>2018-10-04T00:00:00+01:00</lastmod>
 	
@@ -498,7 +498,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/mediaelement_js/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/mediaelement_js/</loc>
 	
 		<lastmod>2015-10-15T00:00:00+01:00</lastmod>
 	
@@ -513,7 +513,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/typography/typography/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/typography/typography/</loc>
 	
 		<lastmod>2015-08-16T00:00:00+01:00</lastmod>
 	
@@ -528,7 +528,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/comments/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/comments/</loc>
 	
 		<lastmod>2015-08-15T00:00:00+01:00</lastmod>
 	
@@ -543,7 +543,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/no-header/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/no-header/</loc>
 	
 		<lastmod>2015-08-11T00:00:00+01:00</lastmod>
 	
@@ -558,7 +558,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/no-header-but-image/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/no-header-but-image/</loc>
 	
 		<lastmod>2015-03-12T00:00:00+00:00</lastmod>
 	
@@ -573,7 +573,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-with-text/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/header-with-text/</loc>
 	
 		<lastmod>2015-02-10T00:00:00+00:00</lastmod>
 	
@@ -588,7 +588,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-logo-only/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/header-logo-only/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+01:00</lastmod>
 	
@@ -603,7 +603,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-image-color/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/header-image-color/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+01:00</lastmod>
 	
@@ -618,7 +618,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-full-width-image/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/header-full-width-image/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+01:00</lastmod>
 	
@@ -633,7 +633,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-image-pattern/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/header-image-pattern/</loc>
 	
 		<lastmod>2014-10-08T00:00:00+01:00</lastmod>
 	
@@ -648,7 +648,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/gallery/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/gallery/</loc>
 	
 		<lastmod>2014-09-15T00:00:00+01:00</lastmod>
 	
@@ -663,7 +663,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/video/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/video/</loc>
 	
 		<lastmod>2014-09-14T00:00:00+01:00</lastmod>
 	
@@ -678,7 +678,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/grid/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/grid/</loc>
 	
 		<lastmod>2014-09-13T00:00:00+01:00</lastmod>
 	
@@ -693,7 +693,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/portfolio/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/portfolio/</loc>
 	
 		<lastmod>2014-09-10T00:00:00+01:00</lastmod>
 	
@@ -708,7 +708,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/page-fullwidth/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/page-fullwidth/</loc>
 	
 		<lastmod>2014-08-19T00:00:00+01:00</lastmod>
 	
@@ -723,7 +723,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/post-right-sidebar/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/post-right-sidebar/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+01:00</lastmod>
 	
@@ -738,7 +738,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/page/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/page/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+01:00</lastmod>
 	
@@ -753,7 +753,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/breadcrumb/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/breadcrumb/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+01:00</lastmod>
 	
@@ -768,7 +768,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/post-left-sidebar/</loc>
+	<loc>https://duxfordsbd.github.io/SBD_web/design/post-left-sidebar/</loc>
 	
 		<lastmod>2014-07-09T00:00:00+01:00</lastmod>
 	
