@@ -11,7 +11,7 @@ widget1:
   title: "About the Derby"
   url: '/about/'
   image: widget-1.jpg
-  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. It's a  wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
+  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phil Hill. It's a  wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
 widget2:
   title: "Taking part"
   url: '/particpating/rules'
@@ -21,7 +21,7 @@ widget3:
   title: "Photo and Video Gallery"
   url: '/gallery'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/widget-3.png" width="302" height="200" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://duxfordsbd.github.io/SBD_web/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
