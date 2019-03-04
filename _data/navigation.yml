@@ -27,7 +27,7 @@
     url: "/particpating/event-disclaimer"
 
 - title: "Derby Results"
-  url: "/results/"
+  url: "/results/2018-results"
   side: left
   dropdown:
   - title: "2018 Soapbox Derby Results"
@@ -38,7 +38,7 @@
     url: "/results/2016-results"
 
 - title: Gallery
-  url: "/gallery/"
+  url: "/gallery/2018-photos"
   side: left
   dropdown:
   - title: "2018-photos"
