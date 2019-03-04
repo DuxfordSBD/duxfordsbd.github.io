@@ -26,7 +26,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="Get in touch with me? Use the contact form.">
+	<meta name="description" content="Get in touch with us? Use the contact form.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -38,7 +38,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Contact and use our contact form">
-	<meta property="og:description" content="Get in touch with me? Use the contact form.">
+	<meta property="og:description" content="Get in touch with us? Use the contact form.">
 	<meta property="og:url" content="https://duxfordsbd.github.io/SBD_web/contact/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -53,7 +53,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="Contact and use our contact form">
-	<meta name="twitter:description" content="Get in touch with me? Use the contact form.">
+	<meta name="twitter:description" content="Get in touch with us? Use the contact form.">
 	
 	
 
@@ -265,7 +265,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://duxfordsbd.github.io/SBD_web/results/">Derby Results</a>
+                <a  href="https://duxfordsbd.github.io/SBD_web/results/2018-results">Derby Results</a>
 
                   <ul class="dropdown">
                     
@@ -301,7 +301,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://duxfordsbd.github.io/SBD_web/gallery/">Gallery</a>
+                <a  href="https://duxfordsbd.github.io/SBD_web/gallery/2018-photos">Gallery</a>
 
                   <ul class="dropdown">
                     
@@ -383,7 +383,7 @@
 				
 
 				<div itemprop="name">
-					<p class="subheadline">Wufoo-powered contact forms</p>
+					
 					<h1>Contact</h1>
 				</div>
 			</header>
@@ -391,13 +391,20 @@
 
 			
 			<p class="teaser" itemprop="description">
-				Get in touch with me? Use the contact form.
+				Get in touch with us? Use the contact form.
 			</p>
 			
 
 			<div itemprop="articleSection">
-			<p>If you need a fabulous contact form for your website, I suggest you use <a href="http://www.wufoo.com/">Wufoo</a>. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.</p>
-
+			<form name="contact" method="POST" action="https://formspree.io/cabbage_parsnip@hotmail.com">
+	Name: <input type="text" name="Name" placeholder="Your name" />
+	Email: <input type="email" name="_replyto" placeholder="Your email" />
+	Message: <textarea name="message" placeholder="Type your Message"></textarea>
+	<input type="submit" value="Send" />
+	<input type="hidden" name="_next" value="/thanks" />
+	<input type="hidden" name="_subject" value="New contact from website!" />
+	<input type="text" name="_gotcha" style="display:none" />
+</form>
 
 			</div>
 

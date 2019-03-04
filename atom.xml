@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://duxfordsbd.github.io/SBD_web/</id>
 	<title>Duxford Soapbox Derby</title>
-	<updated>2019-03-04T17:34:23+00:00</updated>
+	<updated>2019-03-04T16:23:10-06:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -33,7 +33,7 @@
 			<id>https://duxfordsbd.github.io/SBD_web/news/Cheque-presentation-2018/</id>
 			<title>Record Entrants, Record Crowds and £11,700 donated to Cancer Research UK</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/news/Cheque-presentation-2018/" rel="alternate" type="text/html" title="Record Entrants, Record Crowds and £11,700 donated to Cancer Research UK" />
-			<updated>2018-10-04T00:00:00+01:00</updated>
+			<updated>2018-10-04T00:00:00-05:00</updated>
 
 			
 				
@@ -64,14 +64,48 @@
 				<category term="news" />
 			
 
-			<published>2018-10-04T00:00:00+01:00</published>
+			<published>2018-10-04T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duxfordsbd.github.io/SBD_web/news/Brilliant-Day/</id>
+			<title>What a brilliant day!</title>
+			<link href="https://duxfordsbd.github.io/SBD_web/news/Brilliant-Day/" rel="alternate" type="text/html" title="What a brilliant day!" />
+			<updated>2018-09-24T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>SBD</name>
+					
+					
+					
+				</author>
+			
+			<summary>This year’s Soapbox Derby saw record crowds and record entries, the sun shone and a good day was had by all. It is hoped, we will have raised a significant amount for Cancer Research UK.</summary>
+			<content type="html" xml:base="https://duxfordsbd.github.io/SBD_web/news/Brilliant-Day/">&lt;p&gt;As usual we will not be announcing what that final amount is until after the cheque presentation. This will be held at &lt;strong&gt;The Plough Duxford 7.30pm Tuesday October 2nd&lt;/strong&gt; (all welcome). After this a full account of the day including a list of winners will be available.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Peter Stribling&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Chairman Duxford Soapbox Derby 2018&lt;/em&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2018-09-24T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
-			<updated>2015-10-15T00:00:00+01:00</updated>
+			<updated>2015-10-15T00:00:00-05:00</updated>
 
 			
 				
@@ -126,14 +160,14 @@
 				<category term="streaming music" />
 			
 
-			<published>2015-10-15T00:00:00+01:00</published>
+			<published>2015-10-15T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/typography/typography/</id>
 			<title>Wonderful Typography</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
-			<updated>2015-08-16T00:00:00+01:00</updated>
+			<updated>2015-08-16T00:00:00-05:00</updated>
 
 			
 				
@@ -592,14 +626,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-16T00:00:00+01:00</published>
+			<published>2015-08-16T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/comments/</id>
 			<title>Now with Comments!</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
-			<updated>2015-08-15T00:00:00+01:00</updated>
+			<updated>2015-08-15T00:00:00-05:00</updated>
 
 			
 				
@@ -623,14 +657,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-15T00:00:00+01:00</published>
+			<published>2015-08-15T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/no-header/</id>
 			<title>No Header</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/no-header/" rel="alternate" type="text/html" title="No Header" />
-			<updated>2015-08-11T00:00:00+01:00</updated>
+			<updated>2015-08-11T00:00:00-05:00</updated>
 
 			
 				
@@ -687,14 +721,14 @@ element&lt;/td&gt;
 				<category term="header" />
 			
 
-			<published>2015-08-11T00:00:00+01:00</published>
+			<published>2015-08-11T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/no-header-but-image/</id>
 			<title>No Header but Article Image</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
-			<updated>2015-03-12T00:00:00+00:00</updated>
+			<updated>2015-03-12T00:00:00-05:00</updated>
 
 			
 				
@@ -755,14 +789,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-03-12T00:00:00+00:00</published>
+			<published>2015-03-12T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/header-with-text/</id>
 			<title>Header With Text</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
-			<updated>2015-02-10T00:00:00+00:00</updated>
+			<updated>2015-02-10T00:00:00-06:00</updated>
 
 			
 				
@@ -824,14 +858,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-02-10T00:00:00+00:00</published>
+			<published>2015-02-10T00:00:00-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/header-logo-only/</id>
 			<title>Header With Logo Only</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00+01:00</updated>
+			<updated>2014-10-09T00:00:00-05:00</updated>
 
 			
 				
@@ -885,14 +919,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2014-10-09T00:00:00+01:00</published>
+			<published>2014-10-09T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duxfordsbd.github.io/SBD_web/design/header-image-color/</id>
 			<title>Header Image With Background Color</title>
 			<link href="https://duxfordsbd.github.io/SBD_web/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
-			<updated>2014-10-09T00:00:00+01:00</updated>
+			<updated>2014-10-09T00:00:00-05:00</updated>
 
 			
 				
@@ -958,76 +992,7 @@ image:
 				<category term="header" />
 			
 
-			<published>2014-10-09T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duxfordsbd.github.io/SBD_web/design/header-full-width-image/</id>
-			<title>Header with a Full-Width-Image</title>
-			<link href="https://duxfordsbd.github.io/SBD_web/design/header-full-width-image/" rel="alternate" type="text/html" title="Header with a Full-Width-Image" />
-			<updated>2014-10-09T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>SBD</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header with a &lt;em&gt;full-width-image&lt;/em&gt;.</summary>
-			<content type="html" xml:base="https://duxfordsbd.github.io/SBD_web/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://duxfordsbd.github.io/SBD_web/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00+01:00</published>
+			<published>2014-10-09T00:00:00-05:00</published>
 		</entry>
 	
 </feed>

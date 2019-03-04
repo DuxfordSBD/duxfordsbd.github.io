@@ -271,7 +271,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://duxfordsbd.github.io/SBD_web/results/">Derby Results</a>
+                <a  href="https://duxfordsbd.github.io/SBD_web/results/2018-results">Derby Results</a>
 
                   <ul class="dropdown">
                     
@@ -307,7 +307,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://duxfordsbd.github.io/SBD_web/gallery/">Gallery</a>
+                <a  href="https://duxfordsbd.github.io/SBD_web/gallery/2018-photos">Gallery</a>
 
                   <ul class="dropdown">
                     
