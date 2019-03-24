@@ -4,7 +4,7 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Event Terms and Conditions"
 meta_title: "Event Terms and Conditions for the Duxford Soapbox Derby"
-permalink: "/particpating/terms-and-conditions"
+permalink: "/participating/terms-and-conditions"
 ---
 
 These Rules (the “__Rules__”) apply to the Duxford Soapbox event taking place on Sunday 2nd September 2018 (the “__Event__”) and by registering for the Event, you agree to comply with them.

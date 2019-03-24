@@ -10,21 +10,21 @@
     url: "/about/with-thanks-to"
 
 - title: "Taking Part"
-  url: "/particpating/rules"
+  url: "/participating/rules"
   side: left
   dropdown:
   - title: "General Rules"
-    url: "/particpating/rules"
+    url: "/participating/rules"
   - title: "Adult Race"
-    url: "/particpating/adult-rules"
+    url: "/participating/adult-rules"
   - title: "Children's Race"
-    url: "/particpating/childrens-rules"
+    url: "/participating/childrens-rules"
   - title: "Route Map"
     url: "/participating/route-map"
   - title: "Terms and Conditions"
-    url: "/particpating/terms-and-conditions"
+    url: "/participating/terms-and-conditions"
   - title: "Event Disclaimer"
-    url: "/particpating/event-disclaimer"
+    url: "/participating/event-disclaimer"
 
 - title: "Derby Results"
   url: "/results/2018-results"
@@ -57,6 +57,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Donate to CRUK"
+  url: "https://www.justgiving.com/fundraising/duxford-soap-box-derby"
+  side: right
+  
 - title: "Contact"
   url: "/contact/"
   side: right

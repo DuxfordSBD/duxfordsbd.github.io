@@ -4,7 +4,7 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Event Disclaimer"
 meta_title: "Event Disclaimer for the Duxford Soapbox Derby"
-permalink: "/particpating/event-disclaimer"
+permalink: "/participating/event-disclaimer"
 ---
 
 Participants in this event do so at their own risk.
