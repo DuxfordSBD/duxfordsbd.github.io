@@ -57,10 +57,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Donate to CRUK"
-  url: "https://www.justgiving.com/fundraising/duxford-soap-box-derby"
-  side: right
-  
+# - title: "Donate to CRUK"
+#   url: "https://www.justgiving.com/fundraising/duxford-soap-box-derby"
+#   side: right
+
 - title: "Contact"
   url: "/contact/"
   side: right
