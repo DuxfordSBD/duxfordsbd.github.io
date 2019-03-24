@@ -1,7 +1,7 @@
 {% comment %}
-*   
+*
 *   More Information › https://mathiasbynens.be/notes/touch-icons
-*   
+*
 {% endcomment %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
 	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
@@ -28,3 +28,8 @@
 	{% if site.msapplication_tileimage %}<meta name="msapplication-TileImage" content="{{ "/assets/img/" | absolute_url }}{{ site.msapplication_tileimage }}">{% endif %}
 {% comment %} Background Color for Tile for Windows 8  {% endcomment %}
 	{% if site.msapplication_tilecolor %}<meta name="msapplication-TileColor" content="{{ site.msapplication_tilecolor }}">{% endif %}
+
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/" | absolute_url }}apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/" | absolute_url }}favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon/" | absolute_url }}favicon-16x16.png">
+<link rel="manifest" href="{{ "/assets/favicon/" | absolute_url }}site.webmanifest">
