@@ -77,7 +77,8 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-
+    - bin
+    - docker-compose.yml
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
