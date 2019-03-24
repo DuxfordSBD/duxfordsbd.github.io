@@ -5,10 +5,10 @@
 - title: About The Derby
   url: "/about/"
   side: left
-  dropdown: 
+  dropdown:
   - title: "With Thanks To"
     url: "/about/with-thanks-to"
-    
+
 - title: "Taking Part"
   url: "/particpating/rules"
   side: left
@@ -20,7 +20,7 @@
   - title: "Children's Race"
     url: "/particpating/childrens-rules/"
   - title: "Route Map"
-    url: "/participating/route-map"    
+    url: "/participating/route-map"
   - title: "Terms and Conditions"
     url: "/particpating/terms-and-conditions/"
   - title: "Event Disclaimer"
@@ -41,8 +41,14 @@
   url: "/gallery/2018-photos"
   side: left
   dropdown:
-  - title: "2018-photos"
+  - title: "2018 photos by Paul Ellwood"
     url: "/gallery/2018-photos"
+  - title: "2017 photos by Paul Ellwood"
+    url: "/gallery/2017-photos"
+  - title: "2016 photos by Ian Merton"
+    url: "/gallery/2016-merton-photos"
+  - title: "2016 photos by Mark Lodziak"
+    url: "/gallery/2016-lodziak-photos"
 
 - title: Blog
   url: "/blog/"
