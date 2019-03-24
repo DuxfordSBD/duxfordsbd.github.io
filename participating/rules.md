@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Construction Guidelines and General Rules"
 meta_title: "General Rules for the Duxford Soapbox Derby"
 permalink: "/particpating/rules"

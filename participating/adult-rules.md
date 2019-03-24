@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Adult Race – Participants Rules"
 meta_title: "Rules for the adults race in the Duxford Soapbox Derby"
 permalink: "/particpating/adult-rules"

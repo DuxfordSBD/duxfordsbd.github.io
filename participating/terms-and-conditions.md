@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Event Terms and Conditions"
 meta_title: "Event Terms and Conditions for the Duxford Soapbox Derby"
 permalink: "/particpating/terms-and-conditions"

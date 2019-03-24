@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Contact"
 meta_title: "Contact and use our contact form"
 teaser: "Get in touch with us? Use the contact form."

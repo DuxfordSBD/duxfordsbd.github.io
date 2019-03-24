@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Duxford Soapbox Derby – The History"
 meta_title: "About the Duxford Soapbox Derby"
 teaser: "Pam Hill, a new food & drink developer from Duxford village has joined together with local friends to put on the village’s biggest event to raise money and awareness for Cancer Research UK."

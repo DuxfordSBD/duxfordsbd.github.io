@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Thanks To 2018"
 meta_title: "With Thanks to"
 permalink: "/about/with-thanks-to"

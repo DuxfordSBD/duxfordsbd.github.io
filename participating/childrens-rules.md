@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Children’s Race – Participants Rules"
 meta_title: "Rules for the children's race in Duxford Soapbox Derby"
 permalink: "/particpating/childrens-rules"
