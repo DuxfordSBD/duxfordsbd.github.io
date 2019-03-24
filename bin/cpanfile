@@ -1,0 +1,3 @@
+requires 'Text::Markdown';
+requires 'Tie::Array';
+requires 'HTML::TreeBuilder';
