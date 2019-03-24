@@ -19,7 +19,7 @@ widget2:
   text: 'Entries to the cart race are limited and will be allocated on a first come, first served basis. Applications must be received by 31st August 2019.'
 widget3:
   title: "Photo and Video Gallery"
-  url: '/gallery'
+  url: '/gallery/2018-photos'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://duxfordsbd.github.io/SBD_web/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
