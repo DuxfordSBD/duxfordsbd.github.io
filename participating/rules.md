@@ -4,7 +4,7 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Construction Guidelines and General Rules"
 meta_title: "General Rules for the Duxford Soapbox Derby"
-permalink: "/particpating/rules"
+permalink: "/participating/rules"
 ---
 
 * No motorised/fuel-powered Soap Boxes allowed. Human powered propulsion only
