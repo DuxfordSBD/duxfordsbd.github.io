@@ -51,14 +51,14 @@ tie my @array, 'Tie::File', $file or die "Cannot tie $file for fixing purposes";
     }
   }
   # Splice the end front-matter at index and a new line at index+1
-  splice(@array, $index++, 1, 'layout: page');
-  splice(@array, $index++, 1, 'header: no');
-  splice(@array, $index++, 1, 'categories:');
-  splice(@array, $index++, 1, '    - news');
-  splice(@array, $index++, 1, 'tags:');
-  splice(@array, $index++, 1, '    - news');
-  splice(@array, $index++, 1, '---');
-  splice(@array, $index, 1, '');
+  splice(@array, $index++, 0, 'layout: page');
+  splice(@array, $index++, 0, 'header: no');
+  splice(@array, $index++, 0, 'categories:');
+  splice(@array, $index++, 0, '    - news');
+  splice(@array, $index++, 0, 'tags:');
+  splice(@array, $index++, 0, '    - news');
+  splice(@array, $index++, 0, '---');
+  splice(@array, $index, 0, '');
   # Add start of front-matter to the markdown file
   unshift(@array, '---');
 }
@@ -92,6 +92,7 @@ for(@array) {
     $markdown_content .= "\n";
   }
 }
+
 my $m = Text::Markdown->new();
 my $content = $m->markdown($markdown_content);
 my $root = HTML::TreeBuilder->new();
@@ -99,5 +100,5 @@ $root->parse($content);
 $root->eof();
 my ($paragraph) = $root->find('p');
 my $paragraph_content = $paragraph->as_text();
-splice(@array, 1, 1, qq|teaser: "${paragraph_content}"|);
+splice(@array, 1, 0, qq|teaser: "${paragraph_content}"|);
 untie @array;
