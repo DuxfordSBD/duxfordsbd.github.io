@@ -12,7 +12,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUelp-7Yz28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some crazy crashes, some wacky racers. I wonder what we will see at our event this year? I'd love to see a team as Batman and Robin in the Batmobile. come on guys, theres time!
+I wonder what we will see at our event this year? I'd love to see a team as Batman and Robin in the Batmobile. come on guys, theres time!
 
 A few film/tv related ideas for this years teams.
 

@@ -1,5 +1,4 @@
 ---
-teaser: "Beware the Paparazzi tomorrow!"
 title: Beware the Paparazzi tomorrow!
 description:
 layout: page

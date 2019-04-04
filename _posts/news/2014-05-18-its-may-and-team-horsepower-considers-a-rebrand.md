@@ -1,5 +1,4 @@
 ---
-teaser: "The winning team from last years event"
 title: It's May, and Team Horsepower considers a rebrand...
 description:
 layout: page

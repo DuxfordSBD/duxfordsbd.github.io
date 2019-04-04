@@ -1,5 +1,5 @@
 ---
-teaser: "The date for this years race is set"
+teaser: "Exciting news!"
 title: About the 2017 Derby
 description:
 layout: page

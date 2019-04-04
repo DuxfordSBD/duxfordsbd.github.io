@@ -1,5 +1,4 @@
 ---
-teaser: "This friday is the final cheque presentation"
 title: Cheque Presentation this weekend!
 description:
 layout: page

@@ -1,5 +1,4 @@
 ---
-teaser: "The weather looks good"
 title: The weather looks good!
 description:
 layout: page

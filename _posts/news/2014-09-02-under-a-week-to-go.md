@@ -1,5 +1,5 @@
 ---
-teaser: "The second ever Duxford Soap Box Derby is nearly here"
+teaser: "The second ever Duxford Soap Box Derby is nearly here."
 title: Under a week to go!
 description:
 layout: page
@@ -10,7 +10,7 @@ tags:
     - news
 ---
 
-The second ever Duxford Soap Box Derby is nearly here, and we here at the blog site cannot wait to see what everyone has brought to the party. 
+We here at the blog site cannot wait to see what everyone has brought to the party. 
 
 To inspire those nifty driver changes, spot repairs and whizzing through the checkpoints heres an animated GIF of the pros in action. Sure, this isn't F1 but this is racing at its best, and its most raw.
 

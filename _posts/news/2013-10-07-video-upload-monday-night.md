@@ -1,5 +1,5 @@
 ---
-teaser: "The Official Derby Race video will be up on this blog to watch"
+teaser: "Breaking news"
 title: Official Derby Race video is coming
 description:
 layout: page

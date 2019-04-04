@@ -12,7 +12,7 @@ tags:
 
 **_We are very sorry to report that this video is not currently available, and are contacting the original owners to make it available again._**
 
-Keep coming back as we have lots more to share here. Tomorrow I am conducting a one to one video interview with Soap Box Derby event creator and organiser Clive Bartram. In the video I will ask questions such as...
+ We have lots more to share here. Tomorrow I am conducting a one to one video interview with Soap Box Derby event creator and organiser Clive Bartram. In the video I will ask questions such as...
 
   * Where did the idea come from?
   * How much was raised?

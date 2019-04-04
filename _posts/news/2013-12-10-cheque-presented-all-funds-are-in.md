@@ -1,5 +1,5 @@
 ---
-teaser: "We have reached a hefty milestone"
+teaser: "We have reached a hefty milestone!"
 title: Cheque Presented, all funds are in!
 description:
 layout: page
@@ -10,7 +10,7 @@ tags:
     - news
 ---
 
-We have reached a hefty milestone! With everybody generously reaching into their pockets, and putting their hearts and souls into what was the 2013 Duxford Soap Box Derby, the funds are all in, and we are delighted to report that a whopping total of .... drum roll please ... ![bth_MarchingDrummerAnim]({{ site.url }}{{ site.baseurl }}/images/bth_marchingdrummeranim.gif)
+With everybody generously reaching into their pockets, and putting their hearts and souls into what was the 2013 Duxford Soap Box Derby, the funds are all in, and we are delighted to report that a whopping total of .... drum roll please ... ![bth_MarchingDrummerAnim]({{ site.url }}{{ site.baseurl }}/images/bth_marchingdrummeranim.gif)
 
  **£1,500.00 was raised for Cancer Research UK!**
 

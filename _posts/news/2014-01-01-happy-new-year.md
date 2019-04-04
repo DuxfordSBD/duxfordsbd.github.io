@@ -10,6 +10,4 @@ tags:
     - news
 ---
 
-Happy new year to all racers, designers, builders and race teams-to-be....
-
 Stay warm and dry this winter...

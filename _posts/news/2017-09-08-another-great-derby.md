@@ -1,5 +1,5 @@
 ---
-teaser: "Well, Sunday saw another great day for the 5th Annual Duxford Soap Box Derby"
+teaser: "Well, Sunday saw another great day for the 5th Annual Duxford Soap Box Derby."
 title: Another great Derby…
 description:
 layout: page

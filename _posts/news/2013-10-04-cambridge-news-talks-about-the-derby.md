@@ -1,5 +1,5 @@
 ---
-teaser: "Cambridge News talks about the Derby"
+teaser: "Hold the front page!"
 title: Cambridge News talks about the Derby
 description:
 layout: page

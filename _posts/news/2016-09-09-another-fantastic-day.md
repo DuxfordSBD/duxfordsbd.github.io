@@ -1,5 +1,5 @@
 ---
-teaser: "Well – the 4th Duxford Soap Box Derby gave us another wonderful day"
+teaser: "Well – the 4th Duxford Soap Box Derby gave us another wonderful day."
 title: Another fantastic day!
 description:
 layout: page
@@ -10,7 +10,7 @@ tags:
     - news
 ---
 
-Well – the 4th Duxford Soap Box Derby gave us another wonderful day. Slotted between two wet days, the threatened rain stayed away and we had another great days racing. In case you missed it – have a look at some great “In Cart” footage courtesy of the 3rd place Hexcel Composites team.
+Slotted between two wet days, the threatened rain stayed away and we had another great days racing. In case you missed it – have a look at some great “In Cart” footage courtesy of the 3rd place Hexcel Composites team.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_IDc77eLM3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

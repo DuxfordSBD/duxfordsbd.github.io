@@ -1,5 +1,4 @@
 ---
-teaser: "The wheels are turning..."
 title: The wheels are turning...
 description:
 layout: page

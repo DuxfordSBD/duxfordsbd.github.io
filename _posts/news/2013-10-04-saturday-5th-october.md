@@ -1,5 +1,5 @@
 ---
-teaser: "This Saturday is the 2013 Duxford Soap Box Derby"
+teaser: "This Saturday is the 2013 Duxford Soap Box Derby race!"
 title: Saturday 5th October
 description:
 layout: page
@@ -10,6 +10,6 @@ tags:
     - news
 ---
 
-This Saturday is the 2013 Duxford Soap Box Derby race! Raising money for Cancer Research UK.
+Raising money for Cancer Research UK.
 
 The teams are ready, the hype is building, the time is nearly here...

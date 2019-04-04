@@ -10,7 +10,7 @@ tags:
     - news
 ---
 
-To bid before the day of the auction email [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com).
+ [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com).
 
   * **Make over by Bridgette Ellwood of Duxford** – Hair restyle or make up lesson – donated by Bridgette
   * **BMW for a weekend** (over 25’s only) – donated by Mike Toombs BMW Stansted

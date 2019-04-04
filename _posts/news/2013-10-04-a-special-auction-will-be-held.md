@@ -1,5 +1,5 @@
 ---
-teaser: "A special auction will be held"
+teaser: "Going, Going Gone!"
 title: A special auction will be held...
 description:
 layout: page

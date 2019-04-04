@@ -12,7 +12,7 @@ tags:
 
 ![Image]({{ site.url }}{{ site.baseurl }}/images/img_23131.jpg)
 
-Dear all 2000 plus visitors to this website, thank you dearly for your support over last weekend and since. I thoroughly appreciate and am humbled by the sheer number of visitors to this page, as well as the velocity at which those numbers have been reached.
+Thank you dearly for your support over last weekend and since. I thoroughly appreciate and am humbled by the sheer number of visitors to this page, as well as the velocity at which those numbers have been reached.
 
 As Clive's step-son, I have been involved (or at least certainly aware) of the idea of a Soap Box Derby since the first moment it came into his head, and it has been a true joy to help however I could - from creating the course map, setting up this website, filming on the day, helping to build the Team Horsepower kart (mostly painting bronze Hammerite all over it, and myself) to donating that cardboard f1 car (plus cinema tickets) for the auction.
 

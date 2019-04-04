@@ -1,5 +1,4 @@
 ---
-teaser: "Team Horse Power tests their vehicle"
 title: Team Horse Power tests their vehicle
 description:
 layout: page

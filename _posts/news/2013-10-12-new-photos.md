@@ -1,5 +1,4 @@
 ---
-teaser: "New photos"
 title: New Photos!
 description:
 layout: page
