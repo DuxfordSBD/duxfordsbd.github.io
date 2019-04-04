@@ -43,6 +43,8 @@
   dropdown:
   - title: "2018 photos by Paul Ellwood"
     url: "/gallery/2018-photos"
+  - title: "2018 Race Videos"
+    url: "/gallery/2018-videos"
   - title: "2017 photos by Paul Ellwood"
     url: "/gallery/2017-photos"
   - title: "2016 photos by Ian Merton"
@@ -50,12 +52,12 @@
   - title: "2016 photos by Mark Lodziak"
     url: "/gallery/2016-lodziak-photos"
 
-- title: Blog
-  url: "/blog/"
+- title: News
+  url: "/news/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "News Archive"
+    url: "/news/archive/"
 
 # - title: "Donate to CRUK"
 #   url: "https://www.justgiving.com/fundraising/duxford-soap-box-derby"
