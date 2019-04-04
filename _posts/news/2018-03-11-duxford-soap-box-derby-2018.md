@@ -1,5 +1,5 @@
 ---
-teaser: "The 2018 date has been set"
+teaser: "The date has been set"
 title: Duxford Soap Box Derby 2018
 description:
 layout: page
@@ -10,9 +10,8 @@ tags:
     - news
 ---
 
-## The date has been set!
 
-# September 2nd 2018
+# September 2nd 
 
 ![Cancer Research UK]({{ site.url }}{{ site.baseurl }}/images/CRUK-medium.png).
 

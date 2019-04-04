@@ -1,5 +1,4 @@
 ---
-teaser: "Dumpy McDumpface takes to the road in the Duxford Soapbox Derby"
 title: Dumpy McDumpface takes to the road in the Duxford Soapbox Derby
 description:
 layout: page

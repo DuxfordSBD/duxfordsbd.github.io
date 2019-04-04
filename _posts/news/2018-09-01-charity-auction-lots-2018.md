@@ -10,7 +10,6 @@ tags:
     - news
 ---
 
-Below is the list of items that will feature in our charity auction following the adults race on Sunday. The auction and raffle draw will take place at the Plough at approximately 2.30 pm. Please be aware the following list is subject to change.
 
 LOT PRIZE/DONATION DONATED BY
 

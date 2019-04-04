@@ -10,7 +10,6 @@ tags:
     - news
 ---
 
-It's here. The 2018 Duxford Soapbox Derby! We know you are all looking forward to the main event this coming Sunday, 2nd September, but before then you can see the weekend's program of events below:
 
 ## Friday  31st August, 18:30
 
