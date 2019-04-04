@@ -1,8 +1,3 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
-
 - name: Twitter
   url: http://twitter.com/duxford_soapbox
   class: icon-twitter
