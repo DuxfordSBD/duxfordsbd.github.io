@@ -1,7 +1,7 @@
 ---
-teaser: ""
+teaser: "Your 2013 map of the route"
 title: Map of The Route
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,7 +10,4 @@ tags:
     - news
 ---
 
-
-# Map of The Route
-
-![Map of The Route](http://duxfordsoapboxderby.files.wordpress.com/2013/10/mapderby.jpg)
+![Map of The Route]({{ site.url }}{{ site.baseurl }}/images/mapderby.jpg)

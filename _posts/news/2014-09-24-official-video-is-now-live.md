@@ -1,7 +1,7 @@
 ---
-teaser: "[youtube https://www.youtube.com/watch?v=cQnuyQGzz5I&w;=560&h;=315]"
+teaser: "Official video now live"
 title: Official Video is now live!
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,7 +10,4 @@ tags:
     - news
 ---
 
-
-# Official Video is now live!
-
-[youtube https://www.youtube.com/watch?v=cQnuyQGzz5I&w;=560&h;=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQnuyQGzz5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

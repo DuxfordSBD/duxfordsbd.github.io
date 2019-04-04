@@ -1,7 +1,7 @@
 ---
-teaser: "The Official Derby Race video will be up on this blog to watch Monday night! Come back and watch it then!"
-title: Video Upload Monday Night!
-description: 
+teaser: "The Official Derby Race video will be up on this blog to watch"
+title: Official Derby Race video is coming
+description:
 layout: page
 header: no
 categories:
@@ -9,9 +9,6 @@ categories:
 tags:
     - news
 ---
-
-
-# Video Upload Monday Night!
 
 The Official Derby Race video will be up on this blog to watch Monday night! Come back and watch it then!
 

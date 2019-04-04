@@ -1,7 +1,7 @@
 ---
-teaser: "http://www.youtube.com/watch?v=q3jdksaPpGw "
+teaser: "Team Horse Power tests their vehicle"
 title: Team Horse Power tests their vehicle
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,9 +10,6 @@ tags:
     - news
 ---
 
-
-# Team Horse Power tests their vehicle
-
-http://www.youtube.com/watch?v=q3jdksaPpGw 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3jdksaPpGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Before painting and styling, team horsepower give their kart a quick spin to test steering and stability. Looks Good!

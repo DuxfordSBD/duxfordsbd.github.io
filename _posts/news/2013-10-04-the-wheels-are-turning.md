@@ -1,7 +1,7 @@
 ---
-teaser: ""
+teaser: "The wheels are turning..."
 title: The wheels are turning...
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,9 +10,6 @@ tags:
     - news
 ---
 
-
-# The wheels are turning...
-
-![The wheels are turning...](http://duxfordsoapboxderby.files.wordpress.com/2013/10/wheelblog.jpg)
+![The wheels are turning...]({{ site.url }}{{ site.baseurl }}/images/wheelblog.jpg)
 
 Get ready, the derby is nearly here!

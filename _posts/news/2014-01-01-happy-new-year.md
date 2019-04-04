@@ -1,7 +1,7 @@
 ---
 teaser: "Happy new year to all racers, designers, builders and race teams-to-be...."
 title: Happy New Year!
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -9,9 +9,6 @@ categories:
 tags:
     - news
 ---
-
-
-# Happy New Year!
 
 Happy new year to all racers, designers, builders and race teams-to-be....
 
