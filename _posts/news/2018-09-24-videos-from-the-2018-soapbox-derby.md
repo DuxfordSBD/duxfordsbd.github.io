@@ -11,7 +11,7 @@ tags:
     - 2018
 ---
 
-If you wish to relive the race day we have some videos to share with you all! The first video was provided to us by Mark, Lloyd and Will Preston from Team Raider.
+The first video was provided to us by Mark, Lloyd and Will Preston from Team Raider.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qhL5iFAFyjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
