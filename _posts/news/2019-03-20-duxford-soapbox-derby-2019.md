@@ -4,6 +4,10 @@ title: Duxford Soapbox Derby 2019
 description:
 layout: page
 header: no
+image: 
+    title: race-start-2018.jpg
+    thumb: race-start-2018-thumb.jpg
+    homepage: race-start-2018.jpg
 categories:
     - news
 tags:
