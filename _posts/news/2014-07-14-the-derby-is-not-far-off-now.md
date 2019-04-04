@@ -1,7 +1,7 @@
 ---
-teaser: " Hope all teams are deep into the building stages - either bettering last years designs or creating new ones! Its an exciting time as ideas start to take physical form and the excitement of the derby slowly builds..."
+teaser: " Hope all teams are deep into the building stages"
 title: The Derby is not far off now...
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,7 +10,6 @@ tags:
     - news
 ---
 
+![blogcover]({{ site.url }}{{ site.baseurl }}/images/blogcover.jpg)
 
-# The Derby is not far off now...
-
-![blogcover](http://duxfordsoapboxderby.files.wordpress.com/2014/07/blogcover.jpg?w=300) Hope all teams are deep into the building stages - either bettering last years designs or creating new ones! Its an exciting time as ideas start to take physical form and the excitement of the derby slowly builds...
+Hope all teams are deep into the building stages - either bettering last years designs or creating new ones. It's an exciting time as ideas start to take physical form and the excitement of the derby slowly builds.

@@ -1,7 +1,7 @@
 ---
-teaser: "The day has finally come! The weather may be overcast but it looks to be dry. "
+teaser: "The day has finally come"
 title: Race Day is Here!
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,13 +10,10 @@ tags:
     - news
 ---
 
-
-# Race Day is Here!
-
 The day has finally come! The weather may be overcast but it looks to be dry. 
 
-We have one roaming cameraman this year who will be filming the race, and interviewing teams here and there, so please give us a smile and you will be featured in this years video!
+We have one roaming cameraman this year who will be filming the race, and interviewing teams here and there, so please give us a smile and you will be featured in this years video.
 
-Last night went stonkingly, so heres to day two!
+Last night went stonkingly, so here's to day two.
 
 See you on the racetrack!

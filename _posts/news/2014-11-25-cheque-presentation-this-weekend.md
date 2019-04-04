@@ -1,7 +1,7 @@
 ---
-teaser: "This friday is the final cheque presentation for the total funds raised! Here's a hint: Its alot."
+teaser: "This friday is the final cheque presentation"
 title: Cheque Presentation this weekend!
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,7 +10,4 @@ tags:
     - news
 ---
 
-
-# Cheque Presentation this weekend!
-
-This friday is the final cheque presentation for the total funds raised! Here's a hint: Its alot.
+This friday is the final cheque presentation for the total funds raised! Here's a hint: it's a lot.

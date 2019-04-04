@@ -1,5 +1,5 @@
 ---
-teaser: "To bid before the day of the auction email duxfordsoapboxderby@outlook.com"
+teaser: "To bid before the day of the auction email us"
 title: Auction List 2016
 description:
 layout: page

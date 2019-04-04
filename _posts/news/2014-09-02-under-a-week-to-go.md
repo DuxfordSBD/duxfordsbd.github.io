@@ -1,7 +1,7 @@
 ---
-teaser: "The second ever Duxford Soap Box Derby is nearly here.. and we here at the wordpress site cannot wait to see what everyone has brought to the party. "
+teaser: "The second ever Duxford Soap Box Derby is nearly here"
 title: Under a week to go!
-description: 
+description:
 layout: page
 header: no
 categories:
@@ -10,12 +10,10 @@ tags:
     - news
 ---
 
+The second ever Duxford Soap Box Derby is nearly here, and we here at the blog site cannot wait to see what everyone has brought to the party. 
 
-# Under a week to go!
+To inspire those nifty driver changes, spot repairs and whizzing through the checkpoints heres an animated GIF of the pros in action. Sure, this isn't F1 but this is racing at its best, and its most raw.
 
-The second ever Duxford Soap Box Derby is nearly here.. and we here at the wordpress site cannot wait to see what everyone has brought to the party. 
+SOAP BOX DERBY is where its at!
 
-To inspire those nifty driver changes, spot repairs and whizzing through the checkpoints heres an animated GIF of the pros in action.  
-Sure, this isnt F1 but this is racing at its best, and its most raw. SOAP BOX DERBY is where its at!
-
-![F1 pitstop](http://duxfordsoapboxderby.files.wordpress.com/2014/09/giphy.gif?w=300)
+![F1 pitstop]({{ site.url }}{{ site.baseurl }}/images/giphy-f1.gif)

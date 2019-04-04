@@ -10,4 +10,4 @@ tags:
     - news
 ---
 
-[Dumpy McDumpface takes to the road in the Duxford Soapbox Derby](https://www.youtube.com/watch?v=5EgFem5GcVw&feature=youtu.be).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EgFem5GcVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

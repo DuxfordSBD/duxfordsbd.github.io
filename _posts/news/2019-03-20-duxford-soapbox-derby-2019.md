@@ -19,7 +19,7 @@ tags:
 
 The Duxford Soapbox Derby will be returning for the 7th time this September and will once again be raising money for [Cancer Research UK](https://www.cancerresearchuk.org).
 
-More details will be coming soon, including information on how you can register a team and this years rules and regulations. Until then why not have a look at our [gallery]({{ site.url }}{{ site.baseurl }}/gallery/2018-photos) and [videos]({{ site.url }}{{ site.baseurl }}/gallery/2018-videos) from last years event
+More details will be coming soon, including information on how you can register a team and this years rules and regulations. Until then why not have a look at our [gallery]({{ site.url }}{{ site.baseurl }}/gallery-2018/) and [videos]({{ site.url }}{{ site.baseurl }}/news/videos-from-the-2018-soapbox-derby) from last years event.
 
 For further information if needed, please contact:
 [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com)

@@ -1,5 +1,5 @@
 ---
-teaser: "This years race is to be held on"
+teaser: "The date has been announced"
 title: Duxford Soap Box Derby 2016
 description:
 layout: page
@@ -10,8 +10,9 @@ tags:
     - news
 ---
 
-## This years race is to be held on Sunday 4th September
+This years race is to be held on Sunday 4th September
 
-This years [entry form](https://duxfordsoapboxderby.files.wordpress.com/2016/05/soap-box-entry-form-2016.pdf) can be downloaded [here](https://duxfordsoapboxderby.files.wordpress.com/2016/05/soap-box-entry-form-2016.pdf) and the [rules ](https://duxfordsoapboxderby.files.wordpress.com/2016/05/sbd-rules-2016.pdf)can be downloaded [here](https://duxfordsoapboxderby.files.wordpress.com/2016/05/soap-box-entry-form-2016.pdf).
+- [Entry form]({{ site.url }}{{ site.baseurl }}/pdfs/soap-box-entry-form-2016.pdf)
+- [Official rules]({{ site.url }}{{ site.baseurl }}/pdfs/sbd-rules-2016.pdf)
 
 More updates coming soon...

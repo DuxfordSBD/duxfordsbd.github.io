@@ -1,5 +1,5 @@
 ---
-teaser: "This years auction is looking extremely attractive and some of the items are bound to start a bidding war!"
+teaser: "Those auction items look good!"
 title: Charity Auction 2017
 description:
 layout: page

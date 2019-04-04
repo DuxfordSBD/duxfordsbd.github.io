@@ -1,7 +1,7 @@
 ---
-teaser: ""
-title: The Weather looks good!
-description: 
+teaser: "The weather looks good"
+title: The weather looks good!
+description:
 layout: page
 header: no
 categories:
@@ -10,9 +10,6 @@ tags:
     - news
 ---
 
-
-# The Weather looks good!
-
-![The Weather looks good!](http://duxfordsoapboxderby.files.wordpress.com/2013/10/img_2246.png)
+![The Weather looks good!]({{ site.url }}{{ site.baseurl }}/images/weather.png)
 
 Fingers crossed the weather is dry and mild for the race! Do NOT want to see any brollies on the course tomorrow!
