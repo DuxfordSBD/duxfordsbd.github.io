@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://www.justgiving.com/fundraising/duxford-soap-box-derby
-  text: Donate to our Just Giving page  ›
+  url: https://fundraise.cancerresearchuk.org/unite/duxford-soap-box-derby-2019?_ga=2.103161541.437085530.1552899240-1415119213.1551092232
+  text: Donate to our CRUK fundraising page  ›
   style: alert
 permalink: /index.html
 #
