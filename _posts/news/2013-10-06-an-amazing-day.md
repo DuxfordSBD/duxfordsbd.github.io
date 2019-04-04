@@ -14,4 +14,4 @@ Well, the race came and went in a flash, but not without alot of smiles, laughs,
 
 **If you have any photos or video from the event, please send them to me at peterbruce2002@hotmail.com**
 
-**all will be posted on this site, so get sending and share the memories!**
+**All will be posted on this site, so get sending and share the memories!**
