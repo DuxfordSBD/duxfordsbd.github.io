@@ -13,6 +13,8 @@
   url: "/participating/rules"
   side: left
   dropdown:
+  - title: "Register a team"
+    url: "/participating/register"
   - title: "General Rules"
     url: "/participating/rules"
   - title: "Adult Race"
