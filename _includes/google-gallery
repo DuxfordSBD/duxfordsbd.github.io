@@ -3,11 +3,12 @@
 *   This include lets you easily embed a google hosted gallery into your post.
 *   To use the gallery include you...
 *
-*   1. Upload images to Google Drive
-*   2. Note the target folder ID (in the URL bar)
-*   3. Request the manifest of files from Google. Using their API at https://developers.google.com/drive/api/v3/reference/files/list
-*   4. Save in a .json file in _data
-*   5. Define the source data in frontmatter,
+*   1.  Upload images to Google Drive
+*   2.  Note the target folder ID (in the URL bar)
+*   3.  Request the manifest of files from Google. Using their API at https://developers.google.com/drive/api/v3/reference/files/list
+*   3a. query: mimeType contains 'jpeg' and parents = '${id}' # inject ID from before here
+*   4.  Save in a .json file in _data
+*   5.  Define the source data in frontmatter,
 *
 *   gallery_source: 2018-photos.json
 *

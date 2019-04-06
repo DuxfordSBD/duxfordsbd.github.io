@@ -53,6 +53,12 @@
     url: "/gallery/2016-merton-photos"
   - title: "2016 photos by Mark Lodziak"
     url: "/gallery/2016-lodziak-photos"
+  - title: "2015 photos"
+    url: "/gallery/2015-photos"
+  - title: "2014 photos"
+    url: "/gallery/2014-photos"
+  - title: "2013 photos"
+    url: "/gallery/2013-photos"
 
 - title: News
   url: "/news/"
