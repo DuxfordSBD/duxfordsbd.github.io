@@ -63,6 +63,6 @@ Please note places are limited and will be allocated on a first come first serve
 For further information if needed, please contact: [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com)
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/childrens-route
-[2]: {{ site.url }}{{ site.baseurl }}/participating/adults-route 
+[2]: {{ site.url }}{{ site.baseurl }}/participating/route-map 
 [3]: {{ site.url }}{{ site.baseurl }}/participating/rules
 [4]: {{ site.url }}{{ site.baseurl }}/donate

@@ -24,6 +24,6 @@ Additional rules apply for the [Adult race][1] and the [Children’s Race][2]. F
 
 A .pdf version of the Soap Box Construction Guidelines and Rules can be downloaded here.
 
-[1]: /particpating/adult-rules
-[2]: /particpating/childrens-rules 
-[3]: /participating/terms-and-conditions
+[1]: {{ site.url }}{{ site.baseurl }}/particpating/adult-rules
+[2]: {{ site.url }}{{ site.baseurl }}/particpating/childrens-rules 
+[3]: {{ site.url }}{{ site.baseurl }}/participating/terms-and-conditions

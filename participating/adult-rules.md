@@ -24,4 +24,4 @@ permalink: "/participating/adult-rules"
 
 These rules are in addition to the [General Rules][1].
 
-[1]: /particpating/rules
+[1]: {{ site.url }}{{ site.baseurl }}/particpating/rules
