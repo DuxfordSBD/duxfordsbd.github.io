@@ -64,5 +64,5 @@ For further information if needed, please contact: [duxfordsoapboxderby@outlook.
 
 [1]: /participating/childrens-route
 [2]: /participating/adults-route 
-[3]: /partcipating/rules
+[3]: /participating/rules
 [4]: /donate
