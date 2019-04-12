@@ -44,8 +44,9 @@ format: frontpage
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
 {% endif %}
-{% if page.callforaction.text contains 'SITEURLs' %}
-{% capture callforaction_text %}{{ page.callforaction.text | replace: "SITEURL", url }}{% endcapture %}
+{% if page.callforaction.text contains 'SITEURL' %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% capture callforaction_text %}{{ page.callforaction.text | replace: "SITEURL", text_url }}{% endcapture %}
 {% else %}
 {% assign callforaction_text = page.callforaction.text %}
 {% endif %}
