@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://fundraise.cancerresearchuk.org/unite/duxford-soap-box-derby-2019?_ga=2.103161541.437085530.1552899240-1415119213.1551092232
-  text: Donate to our fundraising page for '<img src="/images/200px-Cancer_Research_uk.png"></img>'  ›
+  text: Donate to our fundraising page for '<img src="SITEURL/images/200px-Cancer_Research_uk.png"></img>'  ›
   style: cruk
 permalink: /index.html
 #

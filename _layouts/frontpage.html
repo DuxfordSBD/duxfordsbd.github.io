@@ -43,10 +43,16 @@ format: frontpage
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
 {% endif %}
-{% if page.callforaction %}
+
+{% if page.callforaction.text contains 'SITEURL' %}
+{% capture callforaction_text %}{{ page.callforaction.text | replace: "SITEURL", url }}{% endcapture %}
+{% else %}
+{% assign callforaction_text = page.callforaction.text %}
+{% endif %}
+
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ callforaction_text }}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
