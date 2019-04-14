@@ -11,10 +11,10 @@ permalink: "/contact/"
 Alternatively you can send us an email to [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com).
 <br />
 
-<form name="contact" method="POST" action="https://formspree.io/cabbage_parsnip@hotmail.com">
-	Name: <input type ="text" name="Name" placeholder="Your name" />
-	Email: <input type="email" name="_replyto" placeholder="Your email" />
-	Message: <textarea name="message" placeholder="Type your Message"></textarea>
+<form name="contact" method="POST" action="https://formspree.io/duxfordsoapboxderby@outlook.com">
+	Name: <input type ="text" name="Name" placeholder="Your name" required />
+	Email: <input type="email" name="_replyto" placeholder="Your email" required />
+	Message: <textarea name="message" placeholder="Type your Message" required ></textarea>
 	<input type="submit" value="Send" />
 	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/thanks' }}" />
 	<input type="hidden" name="_subject" value="New contact from website!" />
