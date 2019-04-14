@@ -16,8 +16,6 @@ tags:
 ![Cancer Research UK]({{ site.url }}{{ site.baseurl }}/images/CRUK-medium.png).
 
 For further information if needed, please contact:
-- **Peter Stribling** \- 07845143653
-- **Barry Dean** - 07808043028
 - Email - **duxfordsoapboxderby@outlook.com**
 
 **Entries to the cart race are limited and will be allocated on a first come, first served basis. Applications must be received by 31st August 2018.**

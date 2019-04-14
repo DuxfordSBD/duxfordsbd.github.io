@@ -15,9 +15,6 @@ tags:
 **Entry forms, programmes and raffle tickets are available from:** The Plough, The Wheatsheaf, The John Barleycorn, Costcutter Supermarket or any committee member.
 
 ![Cancer Research UK](http://www.cancerresearchuk.org/sites/all/themes/custom/cruk/logo.png) For further information if needed, please contact:
-
-- **Peter Stribling** \- (01223) 832760 \- 07845143653
-- **Barry Dean** \- (01223) 837927 \- 07808043028
 - Email \- **duxfordsoapboxderby@outlook.com**
 
 **Entries to the cart race are limited and will be allocated on a first come, first served basis. Applications must be received by 31st August 2015.**

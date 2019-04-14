@@ -6,17 +6,20 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them.   
+There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them.
 
-The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. 
+The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
 
-Please ensure ages on the day are [as per the rules][3]. Both races will start at the John Barleycorn with the childrens race starting at 12 pm and the adults race at 1 pm.
+Both races will start at the John Barleycorn with the childrens race starting at 12 pm and the adults race at 1 pm.
+
 Please note places are limited and will be allocated on a first come first serve basis. Entry costs are as follows: 
 
  * £5.00 per team for the childrens race
  * £10.00 per team for the adults race 
  
 Cheques should be made payable to **'Duxford Charity Derby'** and payment should be sent to **Peter Stribling, 16 Grange Road, Duxford, CB22 4QE** no later than 31st August 2019. Alternatively you can use our [CRUK fundraising page][4] to pay the entry fee, just be sure to include your team name and that the donation is for race entry in the message you provide.
+
+By entering you confirm that you will abide by [our general rules][general_rules] and [childrens rules][childrens_rules] or [adult rules][adults_rules], depending on which race you will compete in.
 
 If you would prefer to fill out a paper copy of the team registration form this can be downloaded [here][5].
 
@@ -69,6 +72,8 @@ For our privacy policy see [here]({{ site.url }}{{ site.baseurl }}/privacy_polic
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map 
-[3]: {{ site.url }}{{ site.baseurl }}/participating/rules
 [4]: {{ site.url }}{{ site.baseurl }}/donate
 [5]: {{ site.url }}{{ site.baseurl }}/pdfs/Entry_Form_2019.pdf
+[general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
+[childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
+[adults_rules]: {{site.url}}{{site.baseurl}}/participating/adults-rules

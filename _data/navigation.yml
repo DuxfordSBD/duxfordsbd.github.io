@@ -10,11 +10,13 @@
     url: "/about/with-thanks-to"
 
 - title: "Taking Part"
-  url: "/participating/rules"
+  url: "/participating"
   side: left
   dropdown:
   - title: "Register a team"
     url: "/participating/register"
+  - title: "Register as a volunteer"
+    url: "/participating/volunteer"
   - title: "General Rules"
     url: "/participating/rules"
   - title: "Adult Race"

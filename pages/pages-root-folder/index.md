@@ -14,9 +14,9 @@ widget1:
   text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phil Hill. It's a  wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
 widget2:
   title: "Taking part"
-  url: '/participating/rules'
+  url: '/participating'
   image: widget-2.jpg
-  text: 'Entries to the cart race are limited and will be allocated on a first come, first served basis. Applications must be received by 31st August 2019.'
+  text: 'If you want to compete in the derby or volunteer to help us run the event you will find all the information you need on our participating page. Entries to the derby are limited. Applications must be received by 31st August 2019.'
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2018-photos'
