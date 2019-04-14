@@ -6,7 +6,7 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them througout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them.   
+There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them.   
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. 
 
@@ -16,23 +16,24 @@ Please note places are limited and will be allocated on a first come first serve
  * £5.00 per team for the childrens race
  * £10.00 per team for the adults race 
  
- Cheques should be made payable to 'Duxford Charity Derby' and payment should be sent to Peter Stribling, 16 Grange Road, Duxford, CB22 4QE no later than 31st August 2019. Alternatively you can use our [CRUK fundraising page][4] to pay the entry fee, just ensure to include your team name and that the donation is for race enry in the message you provide.
+Cheques should be made payable to 'Duxford Charity Derby' and payment should be sent to Peter Stribling, 16 Grange Road, Duxford, CB22 4QE no later than 31st August 2019. Alternatively you can use our [CRUK fundraising page][4] to pay the entry fee, just be sure to include your team name and that the donation is for race entry in the message you provide.
+
+If you would prefer to fill out a paper copy of the team registration form this can be downloaded [here][5].
 
 <form name="register" method="POST" action="https://formspree.io/cabbage_parsnip@hotmail.com">
 	<h4>Team details.</h4>
 	<br />
 	Team Name: <input type ="text" name="teamName" placeholder="Your team name" />
-	Name (main team member): <input type ="text" name="memberOne" placeholder="Name of first team membe" />
+	Name (main team member): <input type ="text" name="memberOne" placeholder="Name of first team member" />
 	Name (second team member): <input type ="text" name="memberTwo" placeholder="Name of second team member" />
 	Race category: <select name="category">
 		<option value="child4to7">
-			Childrens race - Aged 4-7 on the day of the race
+			Childrens race - Aged 4-7
 		</option>
 		<option value="child8to11">
-			Childrens race - Aged 8-11 on the day of the race 
-		</option>
+			Childrens race - Aged 8-11
 		<option value="child12to15">
-			Childrens race - Aged 12-15 on the day of the race
+			Childrens race - Aged 12-15
 		</option>
 		<option value="adults">
 			Adults race - aged 16+ 
@@ -41,7 +42,7 @@ Please note places are limited and will be allocated on a first come first serve
 			Adults race - elite, for teams expecting to complete the 1.4 mile course in under 10 minutes 
 		</option>
 		<option value="veterans">
-			Adults race - veterans, aged 55+
+			Adults race - veterans, 55+
 		</option>
 	</select>
 	<hr />
@@ -54,7 +55,7 @@ Please note places are limited and will be allocated on a first come first serve
 	Did you enter the race in 2018: <input type="checkbox" name="previousCompetitor" value="previous" />
 	<br />
 	<input type="submit" value="Send" />
-	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/thanks' }}" />
+	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/participating/entry_request_submitted' }}" />
 	<input type="hidden" name="_subject" value="Team registration from website!" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
@@ -62,7 +63,8 @@ Please note places are limited and will be allocated on a first come first serve
 
 For further information if needed, please contact: [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com)
 
-[1]: {{ site.url }}{{ site.baseurl }}/participating/childrens-route
+[1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map 
 [3]: {{ site.url }}{{ site.baseurl }}/participating/rules
 [4]: {{ site.url }}{{ site.baseurl }}/donate
+[5]: {{ site.url }}{{ site.baseurl }}/pdfs/Entry_Form_2019.pdf
