@@ -16,7 +16,8 @@ permalink: "/participating/adult-rules"
   * If you are a new entry your starting position will be determind by a lottery conducted on the day
   * All elite entries will be positioned towards the back of the grid
 * If you are a standard adult entry your position will be determind by a lottery conducted on the day
-* A team consists of two people only, one pushing and one driving/steering. This position can be swapped at any time during the race, but the vehicle must be stopped when this is done.
+* A team consists of two people only, one pushing and one driving/steering. 
+* The pushing/driving position can be swapped multiple times at any point during the race. The vehicle must be stopped when this is done and not in a position, which blocks the way for other teams
 * No back up teams allowed
 * Minimum age in adult race is 16 years
 * Head protection is advised
