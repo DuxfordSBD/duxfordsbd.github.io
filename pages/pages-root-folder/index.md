@@ -21,7 +21,7 @@ widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2018-photos'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://duxfordsbd.github.io/images/widget-3.png"" width="302" height="200" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
