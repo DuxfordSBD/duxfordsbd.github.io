@@ -7,7 +7,7 @@ meta_title: "Event Terms and Conditions for the Duxford Soapbox Derby"
 permalink: "/participating/terms-and-conditions"
 ---
 
-These Rules (the “__Rules__”) apply to the Duxford Soapbox event taking place on Sunday 2nd September 2018 (the “__Event__”) and by registering for the Event, you agree to comply with them.
+These Rules (the “__Rules__”) apply to the Duxford Soapbox event taking place on Sunday 1st August 2018 (the “__Event__”) and by registering for the Event, you agree to comply with them.
 
 The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”, “__our__” and the “__Committee__”) on behalf of Cancer Research UK Trading Limited (a company registered in England and Wales, registered office: Angel Building, 407 St John Street, London EC1V 4AD, registered company number: 4355631). Cancer Research UK Trading Limited gift aids its taxable profits to Cancer Research UK (a registered charity in England and Wales (1089464), Scotland (SC041666) and the Isle of Man (1103)). ‘Cancer Research UK’ and ‘Cancer Research UK Trading Limited’ are together (“__CRUK__”).
 
@@ -21,7 +21,7 @@ The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”,
 3. Participants under the age of 16 must be accompanied at the Event by their parent or legal guardian (or by an over 18 year old who has the permission of that participant’s parent or legal guardian).
 4. We reserve the right to refuse entry to any participant who is under age, not accompanied as required or unable to provide their event registration confirmation, photo ID or other satisfactory proof of age when requested to do so by an Event official.
 5. Participants are only eligible to take part in the Event if they have:
-  * paid the entry fee by 2nd September 2018
+  * paid the entry fee by 31st August 2019
 6. Given the limited number of spaces for the Event, entry fees are non-refundable. Furthermore, where we have a right to refuse your entry to the Event under these Rules, no refund will be given.
 
 
