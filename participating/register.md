@@ -76,4 +76,4 @@ For our privacy policy see [here]({{ site.url }}{{ site.baseurl }}/privacy_polic
 [5]: {{ site.url }}{{ site.baseurl }}/pdfs/Entry_Form_2019.pdf
 [general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
 [childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
-[adults_rules]: {{site.url}}{{site.baseurl}}/participating/adults-rules
+[adults_rules]: {{site.url}}{{site.baseurl}}/participating/adult-rules
