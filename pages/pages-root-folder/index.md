@@ -11,7 +11,7 @@ widget1:
   title: "About the Derby"
   url: '/about/'
   image: widget-1.jpg
-  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phil Hill. It's a  wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
+  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phil Hill. To date we have raised £51,600! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
 widget2:
   title: "Taking part"
   url: '/participating'
