@@ -16,7 +16,7 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: 'We are now accepting entries to the race on Sunday 1st September, entries to the derby are limited and applications must be received by 31st August 2019. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
+  text: 'We are now accepting entries to the race on Sunday 1st September, places in the derby are limited and applications must be received by 31st August 2019. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2018-photos'
