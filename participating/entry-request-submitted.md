@@ -3,7 +3,7 @@ layout: page
 header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Entry request sent!"
-permalink: "/participating/entry_request_submitted/"
+permalink: "/participating/entry-request-submitted/"
 ---
 
 Your team entry request has been submitted. As places in the race are limited and are awarded on a first come first served basis a member of the soap box derby committee will be in touch with you shortly to confirm your participation. Once your place is confirmed you will be required to pay the entrance fee,
@@ -18,4 +18,4 @@ Your team entry request has been submitted. As places in the race are limited an
 
 ### Thank you for entering the 2019 Duxford Soap Box Derby and good luck on race day! 
 
-[1]: {{ site.url }}{{ site.baseurl }}/donate/
+[1]: {{ site.url }}{{ site.baseurl }}/participating/pay-race-entry-fee

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Redirecting to our online donation
+title: Redirecting to our online donation page
 permalink: /donate
-redirect: https://fundraise.cancerresearchuk.org/unite/duxford-soap-box-derby-2019
+redirect: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2019
 ---
 
 Redirecting you to our online donation page. If this does not happen then [click here]({{page.redirect}}).

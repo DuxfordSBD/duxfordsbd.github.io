@@ -59,7 +59,7 @@ If you would prefer to fill out a paper copy of the team registration form this 
 	Did you enter the race in 2018: <input type="checkbox" name="previousCompetitor" value="previous" />
 	<br />
 	<input type="submit" value="Send" />
-	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/participating/entry_request_submitted' }}" />
+	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/participating/entry-request-submitted' }}" />
 	<input type="hidden" name="_subject" value="Team registration from website." />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
