@@ -18,7 +18,7 @@ permalink: "/participating/rules"
 * There will be a prize for the ‘best turned-out Soap Box’ and this will be judged before the race starts with the winner announced after the race
 * Both runner and rider must be in contact with the vehicle at all times during the race
 * Your Soap Box will be checked for safety, scrutineering, before the race and if it does not meet the required standard then you’ll be invited to make the necessary adjustments. If that’s not possible or if the changes still do not make the Soap Box safe, then you must withdraw from the race
-* Scruitineering will be conducted at Graystones, St Peters Street, Duxford
+* Scrutineering will be conducted at Graystones, St Peters Street, Duxford
 * Soap Boxes must ensure they give sufficient time to clear scrutineering. Failure to do so will result in your withdrawl from the race
 * Soap Boxes will be paraded from Graystones to the John Barleycorn Public House for the race start
 * It is the duty of the overtaking Soap Box to ensure any overtaking manouver can be completed safely
