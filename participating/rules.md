@@ -9,9 +9,9 @@ permalink: "/participating/rules"
 
 * No motorised/fuel-powered Soap Boxes allowed. Human powered propulsion only
 * No pedals or chain driven devices
-* The soap box must be steerable by the the person inside. Steering by the pusher is not allowed
+* The soap box must be steerable by the person inside. Steering by the pusher is not allowed
 * Dimensions can be no wider than 1 metre. There is no limit on length
-* No protruding sharp edges or parts, moving or otherwise, that could cause harm to spectators or participants and no parts can be attached to your Soap Box which could hinder other partcipant’s progress
+* No protruding sharp edges or parts, moving or otherwise, that could cause harm to spectators or participants and no parts can be attached to your Soap Box which could hinder other participant’s progress
 * Maximum of 4 wheels and a minimum of 3
 * Can be constructed in any material – an obvious advantage can be had by making it as light as possible
 * Fancy dress and themed Soap Boxes are positively encouraged
