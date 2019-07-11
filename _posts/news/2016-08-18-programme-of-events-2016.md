@@ -18,7 +18,7 @@ tags:
 
 - **10:30am – 11:30am** Registration Of Vehicles followed by scrutineering
 - **12:00 Noon CHILDRENS RACE**
-- **1:00 pm ADULT’S RACE The Phil Hill Cup ...AND FINISH The Plough**
+- **1:00 pm ADULT’S RACE The Phill Hill Cup ...AND FINISH The Plough**
 - **1:45pm** Presentation Of Awards
 - **2:30pm** Charity Auction
 - **3:30pm** Raffle Draw

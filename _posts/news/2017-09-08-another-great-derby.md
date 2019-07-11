@@ -12,7 +12,7 @@ tags:
 
 The weather was kind, the crowds turned out in their hundreds and hopefully we will have made a lot of money for Cancer Research UK.
 
-A new course record of 8 minutes was set by Duanne Webb and Nicolas Soffiati in the adult’s race, a remarkable time for a one and a quarter mile race. They were deserving winners of the Phil Hill Trophy and made it third time lucky. Sebastian Jeffrey and Dominic Hines as Dennis the Menace and Gnasher were first in their age group in the children’s race with Ashleigh and Keenan Burns winning in their age group.
+A new course record of 8 minutes was set by Duanne Webb and Nicolas Soffiati in the adult’s race, a remarkable time for a one and a quarter mile race. They were deserving winners of the Phill Hill Trophy and made it third time lucky. Sebastian Jeffrey and Dominic Hines as Dennis the Menace and Gnasher were first in their age group in the children’s race with Ashleigh and Keenan Burns winning in their age group.
 
 Best Fancy Dress went to The Smiths - who can forget the sight of a pirate galleon racing to the finish line!!
 

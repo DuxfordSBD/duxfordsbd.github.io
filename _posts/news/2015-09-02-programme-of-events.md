@@ -27,7 +27,7 @@ DUXFORD SOAP BOX DERBY START **The John Barleycorn**
 
 - 10:30am to 11:30am Registration of vehicles followed by scrutineering
 - 12:00 noon **CHILDRENS RACE START**
-- 1:00pm **ADULTS RACE START** **The Phil Hill Cup**
+- 1:00pm **ADULTS RACE START** **The Phill Hill Cup**
 
 ... AND FINISH AT **The Plough**
 
