@@ -14,7 +14,7 @@ Pam said: “After Phill passed away, his friends in the village wanted to do so
 
 The Duxford Soapbox Derby fundraisers are hoping to raise significant funds for life-saving research to help more men, women and children in Cambridgeshire and across the UK survive the disease. Local people can support their fundraising efforts by donating to our [giving page][1] or by coming along on the day and cheering on the participants!
 
-Ali Orr, Cancer Research UK’s local fundraising manager for Cambridgeshire, said: “We are absolutely delighted that the Soapbox fundraisers have kept the derby going and have decided to keep raising vital funds for Cancer Research UK.
+Jo Marriott, Cancer Research UK’s local fundraising manager for Cambridgeshire, said: “We are absolutely delighted that the Soapbox fundraisers have kept the derby going and have decided to keep raising vital funds for Cancer Research UK.
 
 “The Soapbox Derby is a fantastic day for the whole village. The group have been working very hard to put together a full weekend of activities to raise money for pioneering research taking place in Cambridgeshire. I am looking forward to seeing all of the carts on the day and helping to judge the prize for best fancy dress again this year!”
 
