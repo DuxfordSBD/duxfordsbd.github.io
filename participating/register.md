@@ -6,7 +6,7 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them.
+There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them. No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories. 
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
 
@@ -58,6 +58,7 @@ If you would prefer to fill out a paper copy of the team registration form this 
 	Email: <input type="email" name="_replyto" placeholder="Your email" required />
 	Did you enter the race in 2018: <input type="checkbox" name="previousCompetitor" value="previous" />
 	<br />
+	<p style="font-weight:bold;"> Please ensure that you include either a phone number or an email address as we will need to contact you to confirm that your entry has been sucessful.</p>
 	<input type="submit" value="Send" />
 	<input type="hidden" name="_next" value="{{ site.url | append: site.baseurl | append: '/participating/entry-request-submitted' }}" />
 	<input type="hidden" name="_subject" value="Team registration from website." />

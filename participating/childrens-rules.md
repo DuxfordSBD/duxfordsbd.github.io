@@ -15,6 +15,7 @@ permalink: "/participating/childrens-rules"
 * The races will start and finish at The John Barleycorn Public House
 * The 4-7 and 8-11 year old age categories race involves **1 lap** of the children's route (as per map)
 * The 12-15 year old category involves **2 laps** of the children's route (as per map)
+* No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories. 
 * Competitors must be ready to race by 12.00 noon
 * There will be a standing start outside of the John Barleycorn Public House with grid position assigned by a lottery conducted on the day
 * Teams to consist of two people only, one pushing and one driving/steering
