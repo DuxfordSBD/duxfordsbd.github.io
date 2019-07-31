@@ -37,4 +37,4 @@ In the meantime, don’t forget to buy your programmes and raffle tickets. 1st p
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/register
 [2]: https://www.facebook.com/MasterOfNoneEly
-[3]: https://www.facebook.com/vangoghrockandroll/
+[3]: https://www.facebook.com/pg/Van-Goghs-Ear-794229250610588/
