@@ -14,9 +14,7 @@ The first video is from the very first race that was held in 2013.
 
 This next video is from the 2014 event.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQnuyQGzz5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 This final video is from 2015.
 
