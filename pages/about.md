@@ -18,6 +18,6 @@ Jo Marriott, Cancer Research UK’s local fundraising manager for Cambridgeshire
 
 “The Soapbox Derby is a fantastic day for the whole village. The group have been working very hard to put together a full weekend of activities to raise money for pioneering research taking place in Cambridgeshire. I am looking forward to seeing all of the carts on the day and helping to judge the prize for best fancy dress again this year!”
 
-Ali added: “Cancer Research UK has made enormous progress in the fight against cancer. However, we have only been able to do this thanks to the dedication and commitment of our volunteers and supporters without whom we would not be able to fund our research.”
+Jo added: “Cancer Research UK has made enormous progress in the fight against cancer. However, we have only been able to do this thanks to the dedication and commitment of our volunteers and supporters without whom we would not be able to fund our research.”
 
 [1]: {{ site.url }}{{ site.baseurl }}/donate
