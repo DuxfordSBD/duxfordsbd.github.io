@@ -36,6 +36,8 @@
   url: "/results/2018-results"
   side: left
   dropdown:
+  - title: "2019 Soapbox Derby Results"
+    url: "/results/2019-results"
   - title: "2018 Soapbox Derby Results"
     url: "/results/2018-results"
   - title: "2017 Soapbox Derby Results"

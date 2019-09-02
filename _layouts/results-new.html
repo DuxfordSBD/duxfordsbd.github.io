@@ -1,0 +1,68 @@
+---
+layout: page-fullwidth
+---
+
+<h2>Childrens Race Results</h2>
+
+<table>
+<tr>
+  <th>First Childrens Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Overall</th>
+        <th>4 to 7</th>
+        <th>8 to 11</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.kids] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.overall }}</td>
+        <td>{{ res.young }}</td>
+        <td>{{ res.mid }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<table>
+<tr>
+  <th>Second Childrens Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Overall</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.olderkids] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.overall }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<h2>Adults Race Results</h2>
+
+<table>
+<tr>
+  <th>Adults Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Finishing Position</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.adults] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.position }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
