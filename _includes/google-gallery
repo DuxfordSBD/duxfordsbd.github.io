@@ -3,10 +3,14 @@
 *   This include lets you easily embed a google hosted gallery into your post.
 *   To use the gallery include you...
 *
+*		*** MAKE YOUR GOOGLE FOLDER AND ALL FILES PUBLIC BY LINK IN SHARING ***
+*
+*
 *   1.  Upload images to Google Drive
 *   2.  Note the target folder ID (in the URL bar)
 *   3.  Request the manifest of files from Google. Using their API at https://developers.google.com/drive/api/v3/reference/files/list
 *   3a. query: mimeType contains 'jpeg' and parents = '${id}' # inject ID from before here
+*		3b. Set pageSize to 1000 otherwise you will have an incomplete set of pictures
 *   4.  Save in a .json file in _data
 *   5.  Define the source data in frontmatter,
 *
@@ -25,7 +29,7 @@
 		{% for item in site.data[page.gallery_source].files %}
     {% capture base_img_url %}drive.google.com/uc?id={{item.id}}{% endcapture %}
 		{% capture url %}https://images.weserv.nl?url={{ base_img_url | url_encode }}{% endcapture %}
-    {% capture thumb_url %}https://images.weserv.nl?w=114&h=114&t=square&url={{ base_img_url | url_encode }}{% endcapture %}
+    {% capture thumb_url %}https://images.weserv.nl?h=114&w=114&t=square&url={{ base_img_url | url_encode }}{% endcapture %}
 		<li><a href="{{ url }}"><img {% if site.data.captions[item.name] %}data-caption="{{ site.data.captions[item.name] }}"{% endif %} src="{{ thumb_url }}" alt="{{ site.data.captions[item.name] }}"></a></li>
 		{% endfor %}
 	</ul>
