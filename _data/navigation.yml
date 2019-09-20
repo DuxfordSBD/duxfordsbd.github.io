@@ -53,6 +53,8 @@
   dropdown:
   - title: "2019 photos by Paul Ellwood"
     url: "/gallery/2019-photos"
+  - title: "2019 race videos"
+    url: "/gallery/2019-videos"
   - title: "2018 photos by Paul Ellwood"
     url: "/gallery/2018-photos"
   - title: "2018 race videos"
