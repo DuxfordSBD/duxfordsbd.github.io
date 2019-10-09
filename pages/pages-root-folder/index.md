@@ -11,15 +11,15 @@ widget1:
   title: "About the Derby"
   url: '/about/'
   image: widget-1.jpg
-  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £51,600! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
+  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £61,900! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
 widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: 'We are now accepting entries to the race on Sunday 1st September, places in the derby are limited and applications must be received by 31st August 2019. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
+  text: 'Race entries for next year are not yet being accepted, but the derby will return in 2020. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
 widget3:
   title: "Photo and Video Gallery"
-  url: '/gallery/2018-photos'
+  url: '/gallery/2019-photos'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
