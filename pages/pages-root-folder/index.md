@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2019
+  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2020
   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
   style: cruk
 permalink: /index.html
