@@ -5,12 +5,15 @@ header:
 title: "Register a team"
 permalink: "/participating/register"
 ---
-### __Registration is currently closed.__
+### __Registration is currently closed.__ ###
+#### __But we will be opening registration for the 2020 race in the next few weeks so keep an eye out here and on our social media sites!__ ####
 
+<br />
 There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them. No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories. 
 
-The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
+The adults race has three categories: aged 16+, elite and veterans (55+). The elite category was new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
 
+{% comment %}
 Both races will start at the John Barleycorn with the childrens race starting at 12 pm and the adults race at 1 pm.
 
 Please note places are limited and will be allocated on a first come first serve basis. Entry costs are as follows: 
@@ -66,6 +69,8 @@ If you would prefer to fill out a paper copy of the team registration form this 
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
 <br />
+{% endcomment %}
+
 
 For further information if needed, please contact: [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com)
 
