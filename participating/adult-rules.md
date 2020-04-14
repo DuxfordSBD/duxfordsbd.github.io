@@ -12,7 +12,7 @@ permalink: "/participating/adult-rules"
 * There will be a standing start with Soap Boxes lined up in grid positions
 * If you are an elite entry your starting position will be assigned using one of the following methods
   * If you raced in 2018, your starting position will be assigned by your 2018 finishing position in reverse i.e. the winners of 2018 will start at the back of the grid. 
-  * If an elite team is made up of members who raced in different teams last year, your 2019 starting position will be determined based on the highest finish position of your respective 2018 results
+  * If an elite team is made up of members who raced in different teams last year, your 2019 starting position will be determined based on the highest finish position of your respective 2019 results
   * If you are a new entry your starting position will be determined by a lottery conducted on the day
   * All elite entries will be positioned towards the back of the grid
 * If you are a standard adult entry your position will be determined by a lottery conducted on the day

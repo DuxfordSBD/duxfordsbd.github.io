@@ -1,6 +1,6 @@
 ---
 teaser: "We are now accepting entries to the race on 1st September."
-title: Race Registraion is now open!
+title: Race Registration is now open!
 description:
 layout: page
 header: no

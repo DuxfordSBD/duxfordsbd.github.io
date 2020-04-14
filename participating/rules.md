@@ -22,12 +22,13 @@ permalink: "/participating/rules"
 * Soap Boxes must ensure they give sufficient time to clear scrutineering. Failure to do so will result in your withdrawl from the race
 * Soap Boxes will be paraded from Graystones to the John Barleycorn Public House for the race start
 * It is the duty of the overtaking Soap Box to ensure any overtaking manouver can be completed safely
-* There is a non-refundable entry fee of £5 for the Children’s Race and £10 for the Adults Race which must be received by August 31st 2019
+* There is a non-refundable entry fee of £5 for the Children’s Race and £10 for the Adults Race which must be received by September 4th 2020
 
 Additional rules apply for the [Adult race][1] and the [Children’s Race][2]. Further [terms and conditions apply][3].
 
-A PDF version of the Soap Box Construction Guidelines and Rules can be downloaded here.
+A PDF version of the Soap Box Construction Guidelines and Rules can be downloaded [here][4].
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/adult-rules
 [2]: {{ site.url }}{{ site.baseurl }}/participating/childrens-rules 
 [3]: {{ site.url }}{{ site.baseurl }}/participating/terms-and-conditions
+[4]: {{ site.url }}{{ site.baseurl }}/pdfs/Duxford-Soap-Box-Derby-Rules-and-Conditions-of-Entry-2020.pdf

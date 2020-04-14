@@ -16,7 +16,7 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: 'Race entries for next year are not yet being accepted, but the derby will return in 2020. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
+  text: 'We are now accepting registrations for teams wishing to participate in the 2020 races. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2019-photos'

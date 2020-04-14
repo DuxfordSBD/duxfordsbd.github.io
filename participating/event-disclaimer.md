@@ -9,7 +9,7 @@ permalink: "/participating/event-disclaimer"
 
 Participants in this event do so at their own risk.
 
-The organising committee Duxford Soapbox Derby 2019 take no responsibility for any accidents, injuries, loss or damage incurred during this fund raising event.
+The organising committee Duxford Soapbox Derby 2020 take no responsibility for any accidents, injuries, loss or damage incurred during this fund raising event.
 
 Click [here][1] for [contact details][1].
 

@@ -28,7 +28,7 @@ permalink: "/participating/childrens-rules"
 * All participants must stick to the given route (as per map)
 * All participants MUST wear their team number on their chest – clearly visible
 * There will be awards for Best Fancy Dress, Race Winners and Runners Up
-* There is a team prize for the overall winner of £30 Amazon vouchers!
+* There will be two prizes of £30 Amazon vouchers awarded to the overall winner of each race
 
 These rules are in addition to the [General Rules][1].
 
