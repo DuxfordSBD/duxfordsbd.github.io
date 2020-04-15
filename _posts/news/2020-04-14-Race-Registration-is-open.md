@@ -16,7 +16,7 @@ tags:
     - registration
 ---
 
-We are hopeful that the current corona virus lockdown restrictionswill have been lifted in time for us to run this years soap box derby which is scheduled to take place on Sunday 6th September. As such we are now accepting registrations from any teams that plan to take part. 
+We are hopeful that the current corona virus lockdown restrictions will have been lifted in time for us to run this years soap box derby which is scheduled to take place on Sunday 6th September. As such we are now accepting registrations from any teams that plan to take part. 
 
 
 The 2020 derby will follow the same format as the 2019 event. There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the childrens race route and do not require an adult to run with them.
