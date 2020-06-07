@@ -16,7 +16,7 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: 'We are now accepting registrations for teams wishing to participate in the 2020 races. If you would like to compete in the derby or volunteer to help us run the event you will find all the information you need in our "Taking part" pages.'
+  text: 'We have sadly been forced to cancel the 2020 races due to the ongoing situation with the coronavirus pandemic. However we do still wish to raise as much money for CRUK as possible so keep an eye on this site for more information and please do get in touch if you have any fundraising ideas.'
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2019-photos'
