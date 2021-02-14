@@ -11,7 +11,7 @@ permalink: "/contact/"
 Alternatively you can send us an email to [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com).
 <br />
 
-<form name="contact" method="POST" action="https://formspree.io/duxfordsoapboxderby@outlook.com">
+<form name="contact" method="POST" action="https://formspree.io/f/mrgoveon">
 	Name: <input type ="text" name="Name" placeholder="Your name" required />
 	Email: <input type="email" name="_replyto" placeholder="Your email" required />
 	Message: <textarea name="message" placeholder="Type your Message" required ></textarea>

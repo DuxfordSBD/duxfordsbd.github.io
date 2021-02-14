@@ -8,7 +8,7 @@ permalink: "/participating/volunteer"
 
 Thank you for wanting to volunteer at this year's Soap Box Derby. Please fill in your details below and hit _Send_.
 
-<form name="register" method="POST" action="https://formspree.io/duxfordsoapboxderby@outlook.com">
+<form name="register" method="POST" action="https://formspree.io/f/xqkgoewq">
 	<h3>Your details.</h3>
 	Name: <input type ="text" name="contact" placeholder="Your name" required />
 	Telephone Number: <input type ="text" name="phone" placeholder="Your telephone number" required />

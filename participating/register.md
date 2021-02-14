@@ -33,7 +33,7 @@ Cheques should be made payable to **'Duxford Charity Derby'** and payment should
 
 If you would prefer to fill out a paper copy of the team registration form this can be downloaded [here][5].
 
-<form name="register" method="POST" action="https://formspree.io/duxfordsoapboxderby@outlook.com">
+<form name="register" method="POST" action="https://formspree.io/f/maylzqae">
 	<h4>Team details.</h4>
 	<br />
 	Team Name: <input type ="text" name="teamName" placeholder="Your team name" required />
