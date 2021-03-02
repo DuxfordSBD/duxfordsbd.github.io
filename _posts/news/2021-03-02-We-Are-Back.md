@@ -19,7 +19,7 @@ It is with a huge amount of delight that I can announce the Duxford Soap Box Der
 
 Our ability to run the derby depends on how well the country has progressed along the proposed roadmap. With this in mind, we will be making a final decision on running the derby in late June. 
 
-For now pencil in the 5th September and keep an eye on this website and our [Facebook page][2] for more information.
+For now pencil in the 5th September, keep an eye on this website and our [Facebook page][2] for more information.
 
 [1]: https://www.gov.uk/government/publications/covid-19-response-spring-2021/covid-19-response-spring-2021-summary
 [2]: https://www.facebook.com/DuxfordSoapBoxDerby/
