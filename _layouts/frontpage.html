@@ -11,7 +11,7 @@ format: frontpage
 
 <div style="text-align: center;" class="row">
  <div style="display: inline-block;">
-	<h3 style="color: #de4d32;">The 2020 Soap Box Derby has been cancelled due to the coronavirus pandemic.</h3>
+	<h3 style="color: #de4d32;">Save the date - the Duxford Soap Box derby will return on September 5th 2021!</h3>
  </div>
 </div>
 
@@ -55,11 +55,13 @@ format: frontpage
 {% else %}
 {% assign callforaction_text = page.callforaction.text %}
 {% endif %}
-<div class="row t30 b30">
+{% comment %}
+<div style="hidden" class="row t30 b30">
     <div class="small-12 text-center columns">
         <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" {% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ callforaction_text }}</a>
     </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
+{% endcomment %}
 {% endif %}
 
 

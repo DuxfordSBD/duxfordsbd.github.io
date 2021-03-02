@@ -16,7 +16,7 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: 'We have sadly been forced to cancel the 2020 races due to the ongoing situation with the coronavirus pandemic. However we do still wish to raise as much money for CRUK as possible so keep an eye on this site for more information and please do get in touch if you have any fundraising ideas.'
+  text: "We are in the early planning stages of this years event and we will be sharing more information with you in the not too distant future. Race entries aren't yet open, but keep an eye on this website and on our social media and we'll let you know when they are."
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2019-photos'
