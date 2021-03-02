@@ -1,6 +1,6 @@
 ---
-teaser: "The Duxford Soap Box Derby will run in 2021"
-title: The 2021 Duxford Soap Box Derby is planning to run
+teaser: "The Duxford Soap Box Derby will plan to run in 2021"
+title: We are back! Save the date.
 description:
 layout: page
 header: no
