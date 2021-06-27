@@ -3,3 +3,5 @@ _site/
 .DS_Store
 .ruby-version
 .vstags
+/.jekyll-metadata
+/.jekyll-cache
