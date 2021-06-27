@@ -15,11 +15,11 @@ tags:
     - 2021
 ---
 
-It is simply heart breaking to have to write this post and once again announce that the 2021 Duxford Soap Box Derby will not run for another year. Back in February the [roadmap laid out by the UK government][1] gave the organising committee hope there would be a derby this year. However the four week delay to step 4 was a blow to our plans. It highlighted that the current situation is very changable and we were at the point of having to pay for essential services required to run a safe event. Our worst fear was a change in late August/early September forcing a late cancellation and loosing money which could have gone directly to CRUK. I know many of you were looking forward to the derby and it was meant to be a signal normality was returning to the village. It seems we cannot provide that signal this year.
+It is simply heart breaking to have to write this post and once again announce that the Duxford Soap Box Derby will not run for another year. Back in February the [roadmap laid out by the UK government][1] gave the organising committee hope there would be a derby this year. However the four week delay to step 4 was a blow to our plans. It highlighted that the current situation is very changeable and we were at the point of having to pay for essential services required to run a safe event. Our worst fear was a change in late August/early September forcing a late cancellation and losing money which could go directly to CRUK. I know many of you were looking forward to the derby and it was meant to be a signal normality was returning to the village. It seems we cannot provide that signal this year.
 
 However all is not lost. When one door shuts another one opens. With that in mind, we are going to double down on our efforts to raise funds for CRUK. Already this year members of our committee have raised over £800 participating in their [walk all over cancer][2] effort. If any of you have paid into The Plough's Euro 2020 sweepstake you will be helping to donate £100 to the derby.
 
-Keep an eye on this website and on our [Facebook][3] and [Twitter][4] for all the latest information about the derby assocciated events and if you would like to run an event that would raise funds for CRUK then please get in touch.
+Keep an eye on this website and on our [Facebook][3] and [Twitter][4] for all the latest information about the derby associated events and if you would like to run an event that would raise funds for CRUK then please get in touch.
 
 Andy Yates, on behalf of the Soap Box Derby Committee
 
