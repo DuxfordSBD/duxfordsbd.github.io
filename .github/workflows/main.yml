@@ -5,7 +5,7 @@ name: Download results
 # Controls when the workflow will run
 on:
   schedule:
-    - cron:  '0 9-21 * * *'
+    - cron:  '0 6-21 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
