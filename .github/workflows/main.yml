@@ -26,7 +26,7 @@ jobs:
         uses: carlosperate/download-file-action@v1.0.3
         with:
           # URL of the file to download
-          file-url: https://drive.google.com/file/d/1hosSQbEFCCUmrknx25cCvyk1r4st4O_i/view?usp=sharing
+          file-url: https://drive.google.com/uc?export=download&id=192a00P5GSZWIoOInAfSWiLQg3o-IkBR9
           # New filename to rename the downloaded file
           file-name: couch_to_soap_box_2021.csv
           # Path to download the file
