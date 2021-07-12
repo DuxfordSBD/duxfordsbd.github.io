@@ -6,7 +6,7 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-#### The 2020 derby has been cancelled due to the coronavirus pandemic ####
+#### The 2021 derby has been cancelled due to the coronavirus pandemic ####
 <br />
 
 Due to the ongoing situation with COVID-19 the soap box derby committee have made the sad decision to cancel this years event. Please see the [statement][0] written by our committee chairman for more information. 
@@ -84,7 +84,7 @@ For further information if needed, please contact: [duxfordsoapboxderby@outlook.
 
 For our privacy policy see [here]({{ site.url }}{{ site.baseurl }}/privacy_policy). 
 
-[0]: {{ site.url }}{{ site.baseurl }}/news/The-2020-Duxford-Soap-Box-Derby-Is-Cancelled
+[0]: {{ site.url }}{{ site.baseurl }}/news/the-2021-derby-is-cancelled/
 [1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map 
 [4]: {{ site.url }}{{ site.baseurl }}/donate

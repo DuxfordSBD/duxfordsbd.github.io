@@ -16,7 +16,7 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: "We are in the early planning stages of this years event and we will be sharing more information with you in the not too distant future. Race entries aren't yet open, but keep an eye on this website and on our social media and we'll let you know when they are."
+  text: "We have sadly been forced to cancel the 2021 races due to the ongoing situation with the coronavirus pandemic. However we do still wish to raise as much money for CRUK as possible so keep an eye on this site for more information and please do get in touch if you have any fundraising ideas."
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2019-photos'
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2020
+  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2021
   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
   style: cruk
 permalink: /index.html
