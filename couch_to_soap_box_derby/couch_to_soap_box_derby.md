@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Couch to Soap Box Derby"
@@ -10,7 +10,9 @@ permalink: "/couch_to_soap_box_derby"
 
 ## Enter as a participant
 
-![The Couch to Soap Box Derby logo][logo]
+<p align="center">
+  <img src="{{site.url}}{{site.baseurl}}/images/C2SBD-logo.png" />
+</p>
 
 Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules] and the [two routes available to run][routes].
 
@@ -30,7 +32,6 @@ Whoever runs the derby route the greatest number of times will win our star priz
  
 Maybe you’ve always watched the derby and thought I could do that, but you have never quite got around to building your own soap box cart? Maybe you’ve never run more than 100 yards in your life? Maybe you want to get fit after lockdown? Or you did get fit and want to show off! Well here’s the excuse to put those trainers on, get out there and pound the mean pavements of Duxford. Why not challenge yourself and get sponsorship? Fancy dress is entirely optional, but who wouldn’t be cheered up to see Batman and Robin or a Minion running past their house on a random Tuesday evening (other evenings and times are available).
 
-[logo]: {{site.url}}{{site.baseurl}}/images/C2SBD-logo.png
 [podium]: {{site.url}}{{site.baseurl}}/images/2018-podium.jpg
 [register]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/register
 [routes]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/routes
