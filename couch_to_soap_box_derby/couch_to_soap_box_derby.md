@@ -14,7 +14,7 @@ permalink: "/couch_to_soap_box_derby"
 
 ## Enter as a participant
 
-Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules] and the [two routes available to run][routes].
+Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules] and the [two routes available to run][routes]. You can also look at the [adult route][strava-adults] and [children's route][strava-children] on Strava. Once signed up you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
 
 ## Enter a time
 
@@ -44,3 +44,6 @@ The Soap Box Derby route is a fantastic way to get into running and is nearly as
 [form]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/form
 [results]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021
 [runningtips]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/runningtips
+[strava-adults]: https://www.strava.com/segments/29035321
+[strava-children]: https://www.strava.com/segments/29035321
+[strava-club]: https://www.strava.com/clubs/959258
