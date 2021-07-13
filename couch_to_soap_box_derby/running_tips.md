@@ -25,4 +25,4 @@ title: "Couch to Soap Box Derby - Running Tips"
 
 [Couch to 5k][c25k] is a well respected and proven 9 week plan for beginners to go from no running at all to being capable of running for 30 plus minutes and well on your way to running a full 5km. If you start the plan on the 1st of August you'll be running 25 minutes without stopping by the 5th September. That's more than enough time to finish our adult's route.
 
-[c25k] - https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/
+[c25k]: https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/
