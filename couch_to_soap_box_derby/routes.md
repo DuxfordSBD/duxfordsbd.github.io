@@ -13,5 +13,5 @@ title: "Couch to Soap Box Derby Routes"
 
 ![The 2021 Couch to Soap Box Derby children route][kids]
 
-[adults]: {{site.url}}{{site.baseurl}}/images/2018-podium.jpg
-[kids]: {{site.url}}{{site.baseurl}}/images/2018-podium.jpg
+[adults]: {{site.url}}{{site.baseurl}}/images/adults_route_c2sbd.png
+[kids]: {{site.url}}{{site.baseurl}}/images/childrens_route_c2sbd.png
