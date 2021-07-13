@@ -45,5 +45,5 @@ The Soap Box Derby route is a fantastic way to get into running and is nearly as
 [results]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021
 [runningtips]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/runningtips
 [strava-adults]: https://www.strava.com/segments/29035321
-[strava-children]: https://www.strava.com/segments/29035321
+[strava-children]: https://www.strava.com/segments/29127157
 [strava-club]: https://www.strava.com/clubs/959258
