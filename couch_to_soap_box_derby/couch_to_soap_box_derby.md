@@ -8,11 +8,11 @@ teaser: "A new challenge in Duxford!"
 permalink: "/couch_to_soap_box_derby"
 ---
 
-## Enter as a participant
-
 <p align="center">
   <img src="{{site.url}}{{site.baseurl}}/images/C2SBD-logo.png" />
 </p>
+
+## Enter as a participant
 
 Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules] and the [two routes available to run][routes].
 
