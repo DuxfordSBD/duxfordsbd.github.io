@@ -5,7 +5,7 @@ header:
 title: "Couch to Soap Box Derby"
 meta_title: "Run the famous derby route"
 teaser: "A new challenge in Duxford!"
-permalink: "/couch_to_soap_box_derby/"
+permalink: "/couch_to_soap_box_derby"
 ---
 
 Couch to Soap Box Derby is a new event in Duxford in support of Cancer Research UK. After taking the hard decision to cancel this year’s soap box derby, we wanted to run an event that captures the spirit of the derby but without the challenges that hosting the derby posed. Starting the 1st of August through to the 5th September, we want you to run the soap box derby route! The whole 1.4 miles (or 2.2km if you work in metric). Just so the younger ones don’t miss out, we have designed a shorter off-road route specifically for children. Once you’ve got your breath back you’ll want to log onto our online form and submit your time. This website will track your times, tell you how many times you’ve run the route and say what are the fastest times overall.
