@@ -7,6 +7,8 @@ title: "Couch to Soap Box Derby Routes"
 
 ## Adults route
 
+The adults route follows the same path as the yearly soap box derby.
+
 ![The 2021 Couch to Soap Box Derby adult route][adults]
 
 - The adults route is run on pavements and requires the crossing of multiple roads to complete
@@ -23,6 +25,8 @@ title: "Couch to Soap Box Derby Routes"
 - Children can run the adult route but they must be accompanied by an adult if they under 16 years old
 
 ## Children's route
+
+The children's route is a new off-road route allowing for our younger villagers to still challenge themselves but over a shorter distance.
 
 ![The 2021 Couch to Soap Box Derby children route][kids]
 
