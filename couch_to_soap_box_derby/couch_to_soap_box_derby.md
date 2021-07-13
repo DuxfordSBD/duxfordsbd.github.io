@@ -32,6 +32,10 @@ Whoever runs the derby route the greatest number of times will win our star priz
  
 Maybe you’ve always watched the derby and thought I could do that, but you have never quite got around to building your own soap box cart? Maybe you’ve never run more than 100 yards in your life? Maybe you want to get fit after lockdown? Or you did get fit and want to show off! Well here’s the excuse to put those trainers on, get out there and pound the mean pavements of Duxford. Why not challenge yourself and get sponsorship? Fancy dress is entirely optional, but who wouldn’t be cheered up to see Batman and Robin or a Minion running past their house on a random Tuesday evening (other evenings and times are available).
 
+## Getting into running?
+
+The Soap Box Derby route is a fantastic way to get into running and is nearly as flat a course as you could ever hope for. The entire route can be run on pavements as well. Maybe you've seen our posters and think "I can't do that". Well you are wrong! You can. We've put together a set of recommendations together about how to [get into running and our top tips about how to run safely][runningtips]. So get reading and get out there.
+
 [podium]: {{site.url}}{{site.baseurl}}/images/2018-podium.jpg
 [register]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/register
 [routes]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/routes
@@ -39,3 +43,4 @@ Maybe you’ve always watched the derby and thought I could do that, but you hav
 [time]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/time
 [form]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/form
 [results]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021
+[runningtips]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/runningtips
