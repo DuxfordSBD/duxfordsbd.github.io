@@ -37,4 +37,4 @@ Maybe you’ve always watched the derby and thought I could do that, but you hav
 [rules]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/rules
 [time]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/time
 [form]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/form
-[results2021]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021
+[results]: {{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021
