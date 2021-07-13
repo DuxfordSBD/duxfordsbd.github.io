@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Couch to Soap Box Derby"
