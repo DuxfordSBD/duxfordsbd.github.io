@@ -22,14 +22,15 @@ title: "Couch to Soap Box Derby Routes"
 - The minimum age to run the adult route alone is 16 years
 - Children can run the adult route but they must be accompanied by an adult if they under 16 years old
 
-## Childrens route
+## Children's route
 
 ![The 2021 Couch to Soap Box Derby children route][kids]
 
-- The adults route is run around the recreation ground
+- The children's route is run around the recreation ground, Duxford
 - The route starts and finishes at the outdoor table tennis table
 - Start and finish markers are posted up in the vincinity
 - Please avoid running this route if the rec is being used for other activities e.g. football matches
+- Please respect all other users of the rec
 - Conform to any COVID-19 guidance 
 - Children must be accompanied by an adult for the duration of the activity
 
