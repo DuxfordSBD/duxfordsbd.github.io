@@ -14,7 +14,11 @@ permalink: "/couch_to_soap_box_derby"
 
 ## Enter as a participant
 
-Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules] and the [two routes available to run][routes]. You can also look at the [adult route][strava-adults] and [children's route][strava-children] on Strava. Once signed up you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
+Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules].
+
+You can find information on the [two routes available to run][routes] on this site and also check out the [adult route][strava-adults] and [children's route][strava-children] on Strava. 
+
+Once signed up for the event, you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
 
 ## Enter a time
 
@@ -24,7 +28,11 @@ If you've already registered you can [enter a time on our Couch to Soap Box Derb
 
 ## About Couch to Soap Box Derby
 
-Couch to Soap Box Derby is a new event in Duxford in support of Cancer Research UK. After taking the hard decision to cancel this year’s soap box derby, we wanted to run an event that captures the spirit of the derby but without the challenges that hosting the derby posed. Starting the 1st of August through to the 5th September, we want you to run the soap box derby route! The whole 1.4 miles (or 2.2km if you work in metric). Just so the younger ones don’t miss out, we have designed a shorter off-road route specifically for children. Once you’ve got your breath back you’ll want to log onto our [online form and submit your time][form]. This website will track your times, tell you how many times you’ve run the route and say what are the fastest times overall.
+Couch to Soap Box Derby is a new event in Duxford in support of Cancer Research UK. After taking the hard decision to cancel this year’s soap box derby, we wanted to run an event that captures the spirit of the derby but without the challenges that hosting the derby posed. Starting the 1st of August through to the 5th September, we want you to run the soap box derby route! The whole 1.4 miles (or 2.2km if you work in metric). Just so the younger ones don’t miss out, we have designed a shorter off-road route specifically for children. 
+
+Once you’ve got your breath back you’ll want to log onto our [online form and submit your time][form]. 
+
+This website will track your times, tell you how many times you’ve run the route and say what are the fastest times overall.
 
 ## The 2021 Couch to Soap Box Derby
  
