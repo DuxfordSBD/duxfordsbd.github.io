@@ -45,6 +45,25 @@
   - title: "2015 Soapbox Derby Results"
     url: "/results/2015-results"
 
+- title: "C2SBD"
+  url: "/couch_to_soap_box_derby"
+  side: left
+  dropdown:
+  - title: "Register for Couch to Soap Box Derby"
+    url: "/couch_to_soap_box_derby/register"
+  - title: "Enter a time"
+    url: "/couch_to_soap_box_derby/form"
+  - title: "Results"
+    url: "/couch_to_soap_box_derby/2021"
+  - title: "Routes"
+    url: "/couch_to_soap_box_derby/routes"
+  - title: "Rules"
+    url: "/couch_to_soap_box_derby/rules"
+  - title: "Fundrasing"
+    url: "/couch_to_soap_box_derby/fundraise"
+  - title: "Running tips"
+    url: "/couch_to_soap_box_derby/running_tips"
+
 - title: Gallery
   url: "/gallery/2019-photos"
   side: left
