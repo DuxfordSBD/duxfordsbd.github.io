@@ -22,7 +22,7 @@ Once signed up for the event, you can also join our [Strava C2SBD Club (by invit
 
 ### Fundraising
 
-Whatever your reasons are for joining Couch to Soap Box Derby, it's down to people like you that we can help Cancer Research UK keep developing new treatments and funding new research. You can choose to fundraise however you like, but the easiest way is to use Cancer Research UK's Giving Pages and joining up with the 2021 Soap Box Derby fundraising team! More details are available [on our dedicated fundraising page][fundraise].
+By entering Couch to Soap Box Derby you're already helping Cancer Research UK keep developing new treatments and funding new research. Whatever your reasons are for joining. However if you want to help raise additional funds you can always ask people to sponsor your efforts. You can choose to fundraise however you like, but the easiest way is to use Cancer Research UK's Giving Pages and joining up with the 2021 Soap Box Derby fundraising team! More details are available [on our dedicated fundraising page][fundraise].
 
 ## Enter a time
 
