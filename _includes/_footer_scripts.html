@@ -57,3 +57,10 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 {% endif %}
 
+{% if page.datatable %}
+<script type="text/javascript">
+$(document).ready( function () {
+    $('#{{page.datatable}}').DataTable();
+} );
+</script>
+{% endif %}
