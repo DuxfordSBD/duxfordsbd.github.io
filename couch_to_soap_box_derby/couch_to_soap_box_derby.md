@@ -24,7 +24,11 @@ Once signed up for the event, you can also join our [Strava C2SBD Club (by invit
 
 ![The 2018 podium][podium]
 
-If you've already registered you can [enter a time on our Couch to Soap Box Derby form][form]. The [2021 results][results] are updated periodically during the day.
+If you've already registered you can [enter a time on our Couch to Soap Box Derby form][form]. 
+
+## See the live results
+
+You can find the [2021 results on our dedicated page][results]. The results are updated periodically each day of Couch to Soap Box Derby so if your time hasn't shown up yet don't worry. It will do.
 
 ## About Couch to Soap Box Derby
 
