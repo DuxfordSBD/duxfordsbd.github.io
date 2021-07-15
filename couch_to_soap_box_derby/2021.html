@@ -4,19 +4,24 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Couch to Soap Box Derby 2021"
 meta_title: "Run the famous derby route"
+datatable: "2021results"
 ---
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Times run</th>
-    <th>Fastest time</th>
-  </tr>
+<table id="2021results" class="display">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Times run</th>
+      <th>Fastest time</th>
+    </tr>
+  </thead>
+  <tbody>
 {% for row in site.data.couch_to_soap_box_2021 %}
-  <tr>
-    <td>{{ row.name }}</td>
-    <td>{{ row.number_run }}</td>
-    <td>{{ row.max_time }}</td>
-  </tr>
+    <tr>
+      <td>{{ row.name }}</td>
+      <td>{{ row.number_run }}</td>
+      <td>{{ row.max_time }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
 </table>
