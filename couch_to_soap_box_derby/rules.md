@@ -16,7 +16,8 @@ Please check this page from time to time, as we may occasionally amend these Rul
 2. If you are under the age of 18, you must have the permission of your parent or legal guardian before registering to take part in the Event.
 3. If you are under the age of 16, you must be accompanied for the duration of the Event by your parent or legal guardian (or by an over 18-year-old who has the permission of your parent or legal guardian).
 4. You are only eligible to take part in the Event if you have paid the entry fee
-5. Entry fees are non-refundable unless we change the Event time and/or date in a material way and you are no longer able to take part, or if we cancel the Event 6. You must run, jog or walk one of the pre-determined routes as stated on the Event page (scooters and similar equipment are excluded)
+5. Entry fees are non-refundable unless we change the Event time and/or date in a material way and you are no longer able to take part, or if we cancel the Event 
+6. You must run, jog or walk one of the pre-determined routes as stated on the Event page (scooters and similar equipment are excluded)
 7. Your runs must be recorded via our form. Failure to record a run means it will not be counted
 8. All times submitted must be truthful. Failure to do so will result in removal from the Event
 9. You may record mutliple runs per day
