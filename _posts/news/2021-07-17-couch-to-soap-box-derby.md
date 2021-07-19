@@ -7,7 +7,7 @@ header: no
 image: 
     title: C2SBD-logo.png
     thumb: C2SBD-logo.png
-    homepage: C2SBD-logo.png
+    homepage: C2SBD-logo-hires.png
 categories:
     - news
 tags:
@@ -15,7 +15,7 @@ tags:
     - 2021
 ---
 
-When one door shuts, another one opens. It is with this in mind we are very happy to announce an exciting new challenge coming to the streets of Duxford. After taking the hard decision to cancel this year’s soap box derby, we wanted to run an event that captures the spirit of the derby but without the challenges that hosting the derby posed. Starting the 1st of August through to the 5th September, we want you to run the soap box derby route! The whole 1.4 miles (or 2.2km if you work in metric). Just so the younger ones don’t miss out, we have designed a shorter off-road route specifically for children.
+When one door shuts, another one opens. It is with this in mind we are very happy to announce an exciting new challenge coming to the streets of Duxford. After taking the hard decision to cancel this year’s soap box derby, we wanted to run an event that captures the spirit of the derby but without the challenges that hosting the derby posed. Starting the 1st of August through to the 5th September, we want you to run the soap box derby route! The whole 1.4 miles (or 2.3km if you work in metric). Just so the younger ones don’t miss out, we have designed a shorter off-road route specifically for children.
  
 Once you’ve got your breath back you’ll want to log onto our online form and submit your time. Our website will track your times, tell you how many times you’ve run the route and say what are the fastest times overall. Whoever runs the derby route the greatest number of times will win our star prize; a pair of Aftershokz Air wireless bone conduction headphones. Entry to Couch to Soap Box Derby costs £10 per adult and £5 per child. All proceeds of “Couch to Soap Box Derby” will go to supporting Cancer Research UK and their valuable work. 
  

@@ -23,7 +23,11 @@ title: "Couch to Soap Box Derby - Running Tips"
 - If you feel a pain or twinge then *stop* right away
 - Observe the highway code at all times
 - As a runner it is your responsibility to overtake as you are a faster person
-- If buying new equipment online make sure to check reviews or buy them from a local reputable retailer ([Decathlon][decathlon], [Sports Direct][sportdirect], [Advanced Performance][adv_perf], [Up & Running][up_and_running])
+- If buying new equipment online make sure to check reviews or buy them from a local reputable retailer
+    - [Decathlon][decathlon]
+    - [Sports Direct][sportdirect]
+    - [Advanced Performance][adv_perf]
+    - [Up & Running][up_and_running])
 
 [c25k]: https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/
 [adv_perf]: https://www.advanceperformance.co.uk

@@ -16,9 +16,11 @@ permalink: "/couch_to_soap_box_derby"
 
 Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules].
 
-You can find information on the [two routes available to run][routes] on this site and also check out the [adult route][strava-adults] and [children's route][strava-children] on Strava. 
+You can find information on the [two routes available to run][routes] on this site and also check out the [adult route][strava-adults] and [children's route][strava-children] on Strava.
 
 Once signed up for the event, you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
+
+We have two prizes on offer. The person who runs the adult the most number of times will win a pair of Aftershokz Air bone conductive headphones. The person who runs the children's route the most number of times will win a £15 Amazon voucher.
 
 ### Fundraising
 
