@@ -12,11 +12,21 @@ The Event is organised by Duxford Soap Box Derby Committee (“we”, “us”, 
 Please check this page from time to time, as we may occasionally amend these Rules and any changes will be binding on all participants and supporters.
 
 ## Entry
-1. You must be aged 4 to take part in the Event.
+1. You must be aged 4 to take part in the Event
 2. If you are under the age of 18, you must have the permission of your parent or legal guardian before registering to take part in the Event.
 3. If you are under the age of 16, you must be accompanied for the duration of the Event by your parent or legal guardian (or by an over 18-year-old who has the permission of your parent or legal guardian).
 4. You are only eligible to take part in the Event if you have paid the entry fee
-5. Entry fees are non-refundable unless we change the Event time and/or date in a material way and you are no longer able to take part, or if we cancel the Event  
+5. Entry fees are non-refundable unless we change the Event time and/or date in a material way and you are no longer able to take part, or if we cancel the Event 6. You must run, jog or walk one of the pre-determined routes as stated on the Event page (scooters and similar equipment are excluded)
+7. Your runs must be recorded via our form. Failure to record a run means it will not be counted
+8. All times submitted must be truthful. Failure to do so will result in removal from the Event
+9. You may record mutliple runs per day
+
+## Prizes
+- A prize (a pair of Aftershokz Air headphones) will be given to the person who completes the adult lap the most number of times as recorded on our website
+- A prize (£15 Amazon voucher) will be given to the person who completes the children's lap the most number of times as recorded on our website. This prize is only open to those aged under 18
+- The following will be used as tie breakers in the event of a tie
+    - Fastest lap of those people who are tied
+    - Drawing of lots
 
 ## Changes and Last-Minute Arrangements
 1. We reserve the right to postpone and/or cancel the Event in our absolute discretion.
