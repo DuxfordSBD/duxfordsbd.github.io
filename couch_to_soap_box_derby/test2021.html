@@ -4,24 +4,59 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Couch to Soap Box Derby 2021"
 meta_title: "Run the famous derby route"
-datatable: "2021results"
+datatables: 
+  - results_adults
+  - results_kids
 ---
 
-<table id="2021results" class="display">
+{% assign adults = site.data.c2sbd-2021.summary.adults %}
+{% assign kids = site.data.c2sbd-2021.summary.kids %}
+
+<h2>Adult's course results</h2>
+<h3>Fastest time: {{ adults.fastest.name }} in {{ adults.fastest.time }}</h3>
+<h3>Current results</h3>
+<table id="results_adults" class="display">
   <thead>
     <tr>
       <th>Name</th>
+      <th>Route</th>
       <th>Times run</th>
       <th>Fastest time</th>
     </tr>
   </thead>
   <tbody>
-{% for row in site.data.couch_to_soap_box_2021 %}
+{% for row in adults.results %}
     <tr>
-      <td>{{ row.name }}</td>
-      <td>{{ row.number_run }}</td>
-      <td>{{ row.max_time }}</td>
+      <td><a href='{{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021/{{row.normalised_name}}'>{{ row.name }}</a></td>
+      <td>{{ row.route }}</td>
+      <td>{{ row.times_run }}</td>
+      <td>{{ row.fastest_time }}</td>
     </tr>
 {% endfor %}
   </tbody>
 </table>
+
+<h2>Children's course results</h2>
+<h3>Fastest time: {{ kids.fastest.name }} in {{ kids.fastest.time }}</h3>
+<h3>Current results</h3>
+<table id="results_kids" class="display">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Route</th>
+      <th>Times run</th>
+      <th>Fastest time</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for row in kids.results %}
+    <tr>
+      <td><a href='{{site.url}}{{site.baseurl}}/couch_to_soap_box_derby/2021/{{row.normalised_name}}'>{{ row.name }}</a></td>
+      <td>{{ row.route }}</td>
+      <td>{{ row.times_run }}</td>
+      <td>{{ row.fastest_time }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+

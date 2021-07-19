@@ -16,9 +16,11 @@ permalink: "/couch_to_soap_box_derby"
 
 Couch to Soap Box Derby would be nothing without runners, joggers and walkers. Please take a look at our [registration page][register] and also take the time to familarise yourselves with the [rules of participation][rules].
 
-You can find information on the [two routes available to run][routes] on this site and also check out the [adult route][strava-adults] and [children's route][strava-children] on Strava. 
+You can find information on the [two routes available to run][routes] on this site and also check out the [adult route][strava-adults] and [children's route][strava-children] on Strava.
 
 Once signed up for the event, you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
+
+We have two prizes on offer. The person who runs the adult the most number of times will win a pair of Aftershokz Air bone conductive headphones. The person who runs the children's route the most number of times will win a £15 Amazon voucher.
 
 ### Fundraising
 
@@ -44,7 +46,7 @@ This website will track your times, tell you how many times you’ve run the rou
 
 ## The 2021 Couch to Soap Box Derby
  
-Whoever runs the derby route the greatest number of times will win our star prize; a pair of Aftershokz Air wireless bone conduction headphones. Entry to Couch to Soap Box Derby costs £10 per adult and £5 per child. All proceeds of “Couch to Soap Box Derby” will go to supporting Cancer Research UK and their valuable work. 
+Entry to Couch to Soap Box Derby costs £10 per adult and £5 per child. All proceeds of “Couch to Soap Box Derby” will go to supporting Cancer Research UK and their valuable work. Whoever runs the derby route the greatest number of times will win a pair of Aftershokz Air headphones. Whoever runs the children's route the most will win a £15 Amazon voucher.
  
 Maybe you’ve always watched the derby and thought I could do that, but you have never quite got around to building your own soap box cart? Maybe you’ve never run more than 100 yards in your life? Maybe you want to get fit after lockdown? Or you did get fit and want to show off! Well here’s the excuse to put those trainers on, get out there and pound the mean pavements of Duxford. Why not challenge yourself and get sponsorship? Fancy dress is entirely optional, but who wouldn’t be cheered up to see Batman and Robin or a Minion running past their house on a random Tuesday evening (other evenings and times are available).
 
