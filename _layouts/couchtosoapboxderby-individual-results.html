@@ -1,0 +1,26 @@
+---
+layout: page-fullwidth
+---
+
+<p>Your fastest time is currently {{page.fastest_time}}</p>
+
+<table id="results" class="display">
+  <thead>
+    <tr>
+      <th>Date run</th>
+      <th>Time</th>
+      <th>Route run</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for row in site.data.c2sbd-2021[page.athlete] %}
+    <tr>
+      <td>{{ row.date }}</td>
+      <td>{{ row.time }}</td>
+      <td>{{ row.route }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+{{ content }}
