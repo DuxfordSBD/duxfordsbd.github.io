@@ -20,7 +20,7 @@ You can find information on the [two routes available to run][routes] on this si
 
 Once signed up for the event, you can also join our [Strava C2SBD Club (by invitation only)][strava-club]!
 
-We have two prizes on offer. The person who runs the adult the most number of times will win a pair of Aftershokz Air bone conductive headphones. The person who runs the children's route the most number of times will win a £15 Amazon voucher.
+We have two prizes on offer. The person who runs the adult route the greatest number of times will win a pair of Aftershokz Air bone conductive headphones. The person who runs the children's route the greatest number of times will win a £15 Amazon voucher.
 
 ### Fundraising
 
