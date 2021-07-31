@@ -61,7 +61,9 @@ s0.parentNode.insertBefore(s1,s0);
 <script type="text/javascript">
 {% for datatable in page.datatables %}
   $(document).ready( function () {
-      $('#{{datatable}}').DataTable();
+      $('#{{datatable.id}}').DataTable({
+        "order": [[ {{datatable.sort_column.column }}, "{{datatable.sort_column.order}}" ]]
+      });
   } );
 {% endfor %}
 </script>

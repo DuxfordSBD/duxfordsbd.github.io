@@ -1,4 +1,1 @@
-name,number_run,max_time,gender,adult
-Beth,2,00:13:20,2,Sat Dec 30 1899 00:13:20 GMT+0000 (Greenwich Mean Time)
-Andy,7,00:11:36,4,Sat Dec 30 1899 00:14:20 GMT+0000 (Greenwich Mean Time)
-Someone Else,2,00:09:13,1,Sat Dec 30 1899 00:16:00 GMT+0000 (Greenwich Mean Time)
+name,dateofrun,how_long,age_group,gender,route

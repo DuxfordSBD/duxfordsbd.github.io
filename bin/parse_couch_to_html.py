@@ -7,134 +7,96 @@ import os
 from datetime import datetime, timedelta
 from os import path
 import json
+import sqlite3
 
-# Formatting code taken from https://gist.github.com/thatalextaylor/7408395
-def pretty_time_delta(seconds):
-	sign_string = '-' if seconds < 0 else ''
-	seconds = abs(int(seconds))
-	days, seconds = divmod(seconds, 86400)
-	hours, seconds = divmod(seconds, 3600)
-	minutes, seconds = divmod(seconds, 60)
-	if days > 0:
-		return '%s%02dd%02dh%02dm%02ds' % (sign_string, days, hours, minutes, seconds)
-	elif hours > 0:
-		return '%s%02dh%02dm%02ds' % (sign_string, hours, minutes, seconds)
-	elif minutes > 0:
-		return '%s%02dm%02ds' % (sign_string, minutes, seconds)
-	else:
-		return '%s%02ds' % (sign_string, seconds)
+def normalise_name(name):
+	normalised_name=re.sub(r'\s+', '_', name.lower())
+	return normalised_name
+
+# Find fastest stats for each person for a single route
+def get_summary(cur, route):
+	summary_sql='''select name, count(*) as runs, route, min(time("0"||how_long)) as fastest_time from results where route =? group by name, route order by runs desc'''
+	cur.execute(summary_sql, [route])
+	rows = cur.fetchall()
+	results=[]
+	for row in rows:
+		summary={}
+		name=row[0]
+		summary['normalised_name'] = normalise_name(name)
+		summary['name'] = name
+		summary['times_run'] = row[1]
+		summary['route'] = row[2]
+		summary['fastest_time'] = row[3]
+		results.append(summary)
+	return results
 
 # Getting inputs
 file=sys.argv[1]
-summary={}
+summary={
+	'adults' : {},
+	'kids' : {}
+}
 
-# Read input CSV file
-with open(file) as csvfile:
-	results = csv.reader(csvfile, delimiter=',', quotechar='|')
-	for row in results:
-		if 'Who are you' in row[0]:
-			continue
-		name=row[0]
-		route=row[1]
-		time=row[2]
-		date=row[3]
-		age_group=row[4]
-		gender=row[5]
+# Create DB in memory
+con = sqlite3.connect(':memory:')
+cur = con.cursor()
+cur.execute('''CREATE TABLE results
+               (name text, dateofrun text, how_long text, age_group text, gender text, route text)''')
+con.commit()
 
-		if name not in summary:
-			summary[name] = {}
-			summary[name]['results'] = []
-			summary[name]['name'] = name
-			summary[name]['age_group'] = age_group
-			summary[name]['gender'] = gender
-			summary[name]['route'] = route
-			# Create a HTML & CSV filename, which can be used to create a summary for the athlete
-			normalised_name=re.sub(r'\s+', '_', name.lower())
-			summary[name]['normalised_name'] = normalised_name
-			summary[name]['target_md_file'] = '{}.md'.format(normalised_name)
-			summary[name]['target_csv_file'] = '{}.csv'.format(normalised_name)
-		entry = {'route':route, 'time':time, 'date':date}
-		# Parse submitted time, then create a timedelta to do duration comparison
-		pt = datetime.strptime(time, '%H:%M:%S')
-		entry['parsed_time'] = timedelta(hours=pt.hour, minutes=pt.minute, seconds=pt.second)
-		entry['parsed_date'] = datetime.strptime(date+'-2021', '%d-%b-%Y')
-		summary[name]['results'].append(entry)
+# Read CSV file in with columns
+with open('_data/couch_to_soap_box_2021.csv', 'r') as fin:
+	dr = csv.DictReader(fin)
+	to_db = [(i['name'], i['dateofrun'], i['how_long'], i['age_group'], i['gender'], i['route']) for i in dr]
 
-# Find each athlete's fastest time
-for athlete in summary:
-	# Assume everyone will be faster than 24hrs
-	fastest_time=timedelta(hours=24)
-	for entry in summary[athlete]['results']:
-		if entry['parsed_time'] < fastest_time:
-			fastest_time = entry['parsed_time']
-	summary[athlete]['fastest_time'] = fastest_time
-	summary[athlete]['pp_fastest_time'] = pretty_time_delta(fastest_time.total_seconds())
-	summary[athlete]['times_run'] = len(summary[athlete]['results'])
+# Write the columns back out
+cur.executemany('''INSERT into results (name, dateofrun, how_long, age_group, gender, route) VALUES (?,?,?,?,?,?)''', to_db)
+con.commit()
 
-# Setup target dir
+# Start querying for the results
+kids_summary=get_summary(cur, 'Off-road children’s route')
+adults_summary=get_summary(cur, 'Full soap box derby route')
+
+summary['kids']['results'] = kids_summary
+summary['kids']['most'] = { "name" : kids_summary[0]['name'], 'times' : kids_summary[0]['times_run'] }
+summary['adults']['results'] = adults_summary
+summary['adults']['most'] = { "name" : adults_summary[0]['name'], 'times' : adults_summary[0]['times_run'] }
+
+# # Setup target dir
 results_csv_dir=path.join('.', '_data', 'c2sbd-2021')
 if not path.exists(results_csv_dir):
 	os.makedirs(results_csv_dir)
 
-# Write out the top level summaries to JSON
 summary_json_file=path.join(results_csv_dir, 'summary.json')
-json_summary={ 
-	'adults': { 'results' : [], 'most': {'name' : '-', 'times': 0}, 'fastest' : { 'name': '-', 'time': '-'} }, 
-	'kids': { 'results' : [], 'most': {'name' : '-', 'times': 0},'fastest' : { 'name': '-', 'time': '-'} }, 
-}
-
-adults = filter(lambda n: n['route'] == 'Adult', summary.values())
-kids = filter(lambda n: n['route'] == 'Kids', summary.values())
-most_run_adults = sorted(adults, key=lambda athlete: athlete['times_run'], reverse=True)
-most_run_kids = sorted(kids, key=lambda athlete: athlete['times_run'], reverse=True)
-fastest_adults = sorted(adults, key=lambda athlete: athlete['pp_fastest_time'], reverse=False)
-fastest_kids = sorted(kids, key=lambda athlete: athlete['pp_fastest_time'], reverse=False)
-
-# Update summaries
-if adults:
-	json_summary['adults']['most'] = { 'name': most_run_adults[0]['name'], 'times': most_run_adults[0]['times_run'] }
-	json_summary['adults']['fastest'] = { 'name': most_run_adults[0]['name'], 'times': most_run_adults[0]['times_run'] }
-if kids:
-	json_summary['kids']['most'] = { 'name': most_run_adults[0]['name'], 'times': most_run_adults[0]['pp_fastest_time'] }
-	json_summary['kids']['fastest'] = { 'name': most_run_adults[0]['name'], 'time': most_run_adults[0]['pp_fastest_time'] }
-
-for athlete in sorted(summary.values(), key=lambda athlete: athlete['times_run']):
-	if athlete['route'] == 'Adult':
-		summary_key = 'adults'
-	else:
-		summary_key = 'kids'
-
-	json_summary[summary_key]['results'].append({
-		"name" : athlete['name'], 
-		"normalised_name": athlete['normalised_name'], 
-		"route" : athlete['route'], 
-		"times_run" : athlete['times_run'], 
-		"fastest_time" : athlete['pp_fastest_time']
-	})
-
 with open(summary_json_file, 'w') as json_file:
-	json.dump(json_summary, json_file, indent=2)
+	json.dump(summary, json_file, indent=2)
 
-# Write out summaries for each athlete (individual page and results CSV)
-for key in summary:
-	athlete=summary[key]
-	#print('{} - {}'.format(athlete['name'], athlete['fastest_time']))
-	
-	# Write out each athlete's CSV file
-	csv_file=path.join(results_csv_dir, athlete['target_csv_file'])
+
+#### START WRITING OUT INVIDVIDUAL RESULTS FOR EACH ATHLETE
+cur.execute('''select distinct(name) from results''')
+names=cur.fetchall()
+for row in names:
+	name=row[0]
+	normalised_name=normalise_name(name)
+	target_md_file = '{}.md'.format(normalised_name)
+	target_csv_file = '{}.csv'.format(normalised_name)
+	cur.execute('''select dateofrun, time("0"||how_long) as timetaken, route from results where name =? order by timetaken asc ''', [name])
+	results=cur.fetchall()
+	csv_file=path.join(results_csv_dir, target_csv_file)
 	with open(csv_file, 'w') as csvfile:
 		csvwriter = csv.writer(csvfile)
 		csvwriter.writerow(['date', 'time', 'route'])
-		for result in athlete['results']:
-			print(result)
-			csvwriter.writerow([result['parsed_date'], result['parsed_time'], result['route']])
-	
+		for result in results:
+			csvwriter.writerow(result)
+	fastest_time=results[0][1]
+
 	# Write out the markdown file for each athlete
 	results_md_dir=path.join('.', 'couch_to_soap_box_derby', '2021')
-	target_md_file=path.join(results_md_dir, athlete['target_md_file'])
+	target_md_file=path.join(results_md_dir, target_md_file)
 	if not path.exists(results_md_dir):
 		os.makedirs(results_md_dir)
 	with open(target_md_file, 'w') as mdfile:
+		##### NB: MAKE SURE INDENTATION HERE IS IN SPACES. OTHERWISE YAML DOES NOT PARSE
 		template="""---
 layout: couchtosoapboxderby-individual-results
 header:
@@ -142,10 +104,12 @@ header:
 athlete: {}
 title: "2021 Couch to Soap Box Derby results for {}"
 datatables: 
-  - results
-fastest_time: {}
+  - 
+    id: results
+    sort_column:
+      column: 1
+      order: asc
+fastest_time: '{}'
 ---
 """
-		mdfile.write(template.format(athlete['normalised_name'], athlete['name'], athlete['pp_fastest_time']))
-
-# print(summary)
+		mdfile.write(template.format(normalised_name,name,fastest_time))
