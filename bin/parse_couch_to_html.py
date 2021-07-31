@@ -57,10 +57,12 @@ con.commit()
 kids_summary=get_summary(cur, 'Off-road children’s route')
 adults_summary=get_summary(cur, 'Full soap box derby route')
 
-summary['kids']['results'] = kids_summary
-summary['kids']['most'] = { "name" : kids_summary[0]['name'], 'times' : kids_summary[0]['times_run'] }
-summary['adults']['results'] = adults_summary
-summary['adults']['most'] = { "name" : adults_summary[0]['name'], 'times' : adults_summary[0]['times_run'] }
+if kids_summary:
+	summary['kids']['results'] = kids_summary
+	summary['kids']['most'] = { "name" : kids_summary[0]['name'], 'times' : kids_summary[0]['times_run'] }
+if adults_summary:
+	summary['adults']['results'] = adults_summary
+	summary['adults']['most'] = { "name" : adults_summary[0]['name'], 'times' : adults_summary[0]['times_run'] }
 
 # # Setup target dir
 results_csv_dir=path.join('.', '_data', 'c2sbd-2021')
@@ -70,7 +72,6 @@ if not path.exists(results_csv_dir):
 summary_json_file=path.join(results_csv_dir, 'summary.json')
 with open(summary_json_file, 'w') as json_file:
 	json.dump(summary, json_file, indent=2)
-
 
 #### START WRITING OUT INVIDVIDUAL RESULTS FOR EACH ATHLETE
 cur.execute('''select distinct(name) from results''')
