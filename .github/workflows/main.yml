@@ -38,7 +38,7 @@ jobs:
       
       # Run the python parser
       - name: Process results
-        run: 'python3 /bin/parse_couch_to_html.py _data/couch_to_soap_box_2021.csv'
+        run: 'python3 ./bin/parse_couch_to_html.py _data/couch_to_soap_box_2021.csv'
 
       - name: Commit new results
         uses: stefanzweifel/git-auto-commit-action@v4
