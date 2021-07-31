@@ -45,5 +45,4 @@ jobs:
         with:
           commit_message: "Adding new version of results"
           branch: "master"
-          file_pattern: "_data/couch_to_soap_box_2021.csv"
           repository: .
