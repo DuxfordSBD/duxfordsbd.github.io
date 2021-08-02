@@ -15,7 +15,7 @@ def normalise_name(name):
 
 # Find fastest stats for each person for a single route
 def get_summary(cur, route):
-	summary_sql='''select name, count(*) as runs, route, min(time("0"||how_long)) as fastest_time from results where route =? group by name, route order by runs desc'''
+	summary_sql='''select name, count(*) as runs, route, min(time(how_long)) as fastest_time from results where route =? group by name, route order by runs desc'''
 	cur.execute(summary_sql, [route])
 	rows = cur.fetchall()
 	results=[]
@@ -81,7 +81,7 @@ for row in names:
 	normalised_name=normalise_name(name)
 	target_md_file = '{}.md'.format(normalised_name)
 	target_csv_file = '{}.csv'.format(normalised_name)
-	cur.execute('''select dateofrun, time("0"||how_long) as timetaken, route from results where name =? order by timetaken asc ''', [name])
+	cur.execute('''select dateofrun, time(how_long) as timetaken, route from results where name =? order by timetaken asc ''', [name])
 	results=cur.fetchall()
 	csv_file=path.join(results_csv_dir, target_csv_file)
 	with open(csv_file, 'w') as csvfile:
