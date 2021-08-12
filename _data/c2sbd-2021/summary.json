@@ -4,7 +4,7 @@
       {
         "normalised_name": "the_kintbury_trotter",
         "name": "The Kintbury Trotter",
-        "times_run": 25,
+        "times_run": 30,
         "route": "Full soap box derby route",
         "fastest_time": "00:08:45"
       },
@@ -25,7 +25,7 @@
     ],
     "most": {
       "name": "The Kintbury Trotter",
-      "times": 25
+      "times": 30
     }
   },
   "kids": {}
