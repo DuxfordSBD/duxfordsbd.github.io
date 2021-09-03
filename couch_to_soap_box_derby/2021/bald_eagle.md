@@ -10,5 +10,5 @@ datatables:
     sort_column:
       column: 1
       order: asc
-fastest_time: '00:12:38'
+fastest_time: '00:12:12'
 ---
