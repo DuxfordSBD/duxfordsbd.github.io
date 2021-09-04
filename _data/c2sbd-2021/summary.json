@@ -23,6 +23,13 @@
         "fastest_time": "00:10:06"
       },
       {
+        "normalised_name": "beth_y",
+        "name": "Beth Y",
+        "times_run": 5,
+        "route": "Full soap box derby route",
+        "fastest_time": "00:13:38"
+      },
+      {
         "normalised_name": "suzy_tautz",
         "name": "Suzy Tautz",
         "times_run": 4,
@@ -35,13 +42,6 @@
         "times_run": 3,
         "route": "Full soap box derby route",
         "fastest_time": "00:12:12"
-      },
-      {
-        "normalised_name": "beth_y",
-        "name": "Beth Y",
-        "times_run": 3,
-        "route": "Full soap box derby route",
-        "fastest_time": "00:13:38"
       },
       {
         "normalised_name": "barry_dean",
