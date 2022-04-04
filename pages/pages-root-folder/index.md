@@ -13,10 +13,10 @@ widget1:
   image: widget-1.jpg
   text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £61,900! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath."
 widget2:
-  title: "Couch to Soap Box Derby"
-  url: '/couch_to_soap_box_derby'
-  image: widget-4.png
-  text: "Announcing our new event: Couch to Soap Box Derby. Run the derby route in August & September with a chance to win a prize. Off-road children's route available. Read our <a href='https://www.duxfordsoapboxderby.co.uk/news/couch-to-soap-box-derby/'>news</a> item or our dedicated <a href='https://www.duxfordsoapboxderby.co.uk/couch_to_soap_box_derby'>C2SBD section</a>."
+  title: "Taking part"
+  url: '/participating'
+  image: widget-2.jpg
+  text: "We are in the early planning stages of this years event and we will be sharing more information with you in the not too distant future. Race entries aren't yet open, but you can pre-register your interest through our <a href='{{ '/contact' | absolute_url }}'>contact us form</a>."
 widget3:
   title: "Photo and Video Gallery"
   url: '/gallery/2019-photos'
@@ -32,10 +32,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2021
-  text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
-  style: cruk
+# callforaction:
+#   url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2021
+#   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
+#   style: cruk
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

@@ -49,12 +49,12 @@
   url: "/couch_to_soap_box_derby"
   side: left
   dropdown:
+  - title: "2021 Results"
+    url: "/couch_to_soap_box_derby/2021"
   - title: "Register for Couch to Soap Box Derby"
     url: "/couch_to_soap_box_derby/register"
   - title: "Enter a time"
     url: "/couch_to_soap_box_derby/form"
-  - title: "Results"
-    url: "/couch_to_soap_box_derby/2021"
   - title: "Routes"
     url: "/couch_to_soap_box_derby/routes"
   - title: "Rules"
@@ -98,9 +98,9 @@
   - title: "News Archive"
     url: "/news/archive"
 
-- title: "Donate to CRUK"
-  url: "/donate"
-  side: right
+#- title: "Donate to CRUK"
+#  url: "/donate"
+#  side: right
 
 - title: "Contact"
   url: "/contact"
