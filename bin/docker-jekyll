@@ -1,0 +1,8 @@
+#!/bin/bash
+
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
+  --volume="$PWD/bundle_cache:/usr/local/bundle" \
+  --publish 4000:4000 \
+  jekyll/jekyll \
+  jekyll serve --incremental --watch --trace --future --livereload

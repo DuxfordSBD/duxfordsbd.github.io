@@ -11,7 +11,7 @@ format: frontpage
 
 <div style="text-align: center;" class="row">
  <div style="display: inline-block;">
-	<h3 style="color: #de4d32;">Save the Date - <a href="{{ site.url }}{{ site.baseurl }}/news/The-Plough-Music-Festival/">The Plough Music Festival</a> in aid of the Soap Box Derby will take place on Sunday 5th Sepetember</h3>
+	<h3 style="color: #de4d32;">The Duxford Soapbox Derby returns Sunday 4th Sepetember! - <a href="{% link _posts/news/2022-03-31-duxford-soapbox-2022.md %}">Find out more details from our latest news post</a></h3>
  </div>
 </div>
 
@@ -43,6 +43,7 @@ format: frontpage
 * First check, if there is a call for action-button
 *
 {% endcomment %}
+
 {% if page.callforaction %}
 {% if page.callforaction.url contains 'http' %}
 {% assign url = '' %}
@@ -61,7 +62,6 @@ format: frontpage
     </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 {% endif %}
-
 
 {% comment %}
 *
