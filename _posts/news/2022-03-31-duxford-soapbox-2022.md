@@ -1,5 +1,5 @@
 ---
-teaser: "The Duxford Soap Box Derby will in 2022"
+teaser: "The Duxford Soap Box Derby will return in 2022"
 title: We are back! Save the date 4th September.
 description:
 layout: page
