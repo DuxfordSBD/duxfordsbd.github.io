@@ -31,7 +31,7 @@
     url: "/participating/event-disclaimer"
 
 - title: "Race Results"
-  url: "/results/2018-results"
+  url: "/results/2019-results"
   side: left
   dropdown:
   - title: "2019 Soapbox Derby Results"
@@ -45,7 +45,7 @@
   - title: "2015 Soapbox Derby Results"
     url: "/results/2015-results"
 
-- title: "Couch to Soap Box Derby"
+- title: "Couch2SBD"
   url: "/couch_to_soap_box_derby"
   side: left
   dropdown:
@@ -91,7 +91,7 @@
   - title: "2013 photos"
     url: "/gallery/2013-photos"
 
-- title: News
+- title: News Test
   url: "/news"
   side: left
   dropdown:
