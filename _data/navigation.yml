@@ -98,9 +98,9 @@
   - title: "News Archive"
     url: "/news/archive"
 
-#- title: "Donate to CRUK"
-#  url: "/donate"
-#  side: right
+- title: "Donate to CRUK"
+  url: "/donate"
+  side: right
 
 - title: "Contact"
   url: "/contact"

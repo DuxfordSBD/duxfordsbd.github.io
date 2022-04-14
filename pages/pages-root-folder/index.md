@@ -32,10 +32,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
-#   url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2021
-#   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
-#   style: cruk
+callforaction:
+   url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2022
+   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>  ›
+   style: cruk
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
