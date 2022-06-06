@@ -91,7 +91,7 @@
   - title: "2013 photos"
     url: "/gallery/2013-photos"
 
-- title: News Test
+- title: News
   url: "/news"
   side: left
   dropdown:
