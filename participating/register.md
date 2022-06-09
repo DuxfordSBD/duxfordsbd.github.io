@@ -6,9 +6,6 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-We are in the early stages of planning for the 2022 race and will distribute more information about registration in due course.
-
-{% comment %}
 There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them. No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories. 
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category was new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
@@ -24,7 +21,7 @@ We are not taking payment at this moment in time due the possibility that we may
 
 By entering you confirm that you will abide by [our general rules][general_rules] and [childrens rules][childrens_rules] or [adult rules][adults_rules], depending on which race you will compete in.
 
-You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure to include your team name and that the donation is for race entry in the message you provide. Alternatively payment by cheque is possible. Please contact us for more information. Payment should be recieved no later than 31st August 2022.
+You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure to include your team name and that the donation is for race entry in the message you provide. Alternatively payment by cheque is possible. Please contact us for more information. Payment should be recieved no later than {{ site.data.sbd_details.entry_deadline }}.
 
 If you would prefer to fill out a paper copy of the team registration form this can be downloaded [here][5].
 
@@ -70,8 +67,6 @@ If you would prefer to fill out a paper copy of the team registration form this 
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
 <br />
-{% endcomment %}
-
 
 For further information if needed, please contact: [duxfordsoapboxderby@outlook.com](mailto:duxfordsoapboxderby@outlook.com)
 

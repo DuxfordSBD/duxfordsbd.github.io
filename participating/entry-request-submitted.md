@@ -13,13 +13,11 @@ Once your place in the event is confirmed you will be required to pay the entran
 * £10 for the adults race, 
 * £5 for the childrens race.
  
-{% comment %} 
-
- Cheques should be made payable to 'Duxford Charity Derby' and payment should be sent to: **Peter Stribling, 16 Grange Road, Duxford, CB22 4QE** no later than 31st August 2019.
+You can use our [CRUK fundraising page][1] to pay the entry fee, just be sure to include your team name and that the donation is for race entry in the message you provide.
  
- Alternatively you can use our [CRUK fundraising page][1] to pay the entry fee, just be sure to include your team name and that the donation is for race entry in the message you provide.
-{% endcomment %}
+If you wish to pay via an alternative method please email to organise delivery details. Payment must be recieved before the {{ site.data.sbd_details.entry_deadline }}.
+ 
 
-### Thank you for registering to enter the 2020 Duxford Soap Box Derby and good luck on race day! 
+### Thank you for registering to enter the {{ site.data.sbd_details.year }} Duxford Soap Box Derby and good luck on race day! 
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/pay-race-entry-fee
