@@ -9,7 +9,7 @@ permalink: "/participating/terms-and-conditions"
 
 These Rules (the “__Rules__”) apply to the Duxford Soapbox event taking place on Sunday 4th September 2022 (the “__Event__”) and by registering for the Event, you agree to comply with them.
 
-The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”, “__our__” and the “__Committee__”) on behalf of Cancer Research UK Trading Limited (a company registered in England and Wales, registered office: Angel Building, 407 St John Street, London EC1V 4AD, registered company number: 4355631). Cancer Research UK Trading Limited gift aids its taxable profits to Cancer Research UK (a registered charity in England and Wales (1089464), Scotland (SC041666) and the Isle of Man (1103)). ‘Cancer Research UK’ and ‘Cancer Research UK Trading Limited’ are together (“__CRUK__”).
+The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”, “__our__” and the “__Committee__”) on behalf of Cancer Research UK Trading Limited (a company registered in England and Wales, registered office: 2 Redman Place, London E20 1JQ, registered company number: 4355631). Cancer Research UK Trading Limited gift aids its taxable profits to Cancer Research UK (a registered charity in England and Wales (1089464), Scotland (SC041666) and the Isle of Man (1103)). ‘Cancer Research UK’ and ‘Cancer Research UK Trading Limited’ are together (“__CRUK__”).
 
 #### Participant Entry
 
@@ -20,7 +20,7 @@ The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”,
 5. Participants are only eligible to take part in the Event if they have:
   * paid the entry fee by {{ site.data.sbd_details.entry_deadline }}
   * late entry payment is possible under request
-6. Given the limited number of spaces for the Event, entry fees are non-refundable. Furthermore, where we have a right to refuse your entry to the Event under these Rules, no refund will be given.
+6. Entry fees are non-refundable unless we change the Event venue, time and/or date in a material way and you are no longer able to attend the Event, or if we cancel the Event altogether. We ask that you let us know as soon as possible if you need or want to withdraw from your Event for any reason.  Furthermore, where we have a right to refuse your entry to the Event under these Rules, no refund will be given.  
 
 #### Changes and Last Minute Arrangements
 
@@ -58,18 +58,18 @@ The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”,
 
 #### Use of Personal Data
 
-1. By providing personal data to the Committee and/or CRUK when you register for the Event, you confirm that you consent to such data being used by the Committee and CRUK for the purposes of organising, staging and administering the Event.
-2. Depending on the answers you give to the marketing questions asked by the Committee and/or CRUK, your personal data may also be used by the Committee and/or CRUK for direct marketing purposes.
+1. The personal data you provide to the Committee and/or CRUK when you register for the Event will be used for the purposes of organising, staging and administering the Event, including sending you your fundraising pack. The Committee and/or CRUK may also contact you to discuss your fundraising activity and follow up on your progress.
+2. Your personal information may also be used for the purposes of sending communications to you where you have confirmed when registering for the Event that you would like to receive further information about the work of the Committee and/or CRUK.
 3. If you provide personal data on behalf of additional entrants, you also confirm that you have obtained their consent for such data to be used for the same purposes.
-4. In the case of an emergency, the Committee and CRUK may pass any personal details provided (either when registering for the Event or otherwise) to the emergency services or health care professionals, and also use them for the purposes of contacting emergency contacts. If you provide personal details on behalf of someone else, you confirm that you have their consent for their details to be used in this way.
-5. Participants consent to their details (which will be obtained by medical providers if participants are treated by them at the Event) being passed to the Committee and to CRUK. These details shall only be used for administration and health and safety purposes and to fulfil legal obligations (including those under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013.) All medical details will be held on the CRUK database.
-6. All personal data held by CRUK will be handled in accordance with CRUK’s Privacy Statement which can be found at [https://cruk.org][1]
+4. In the case of an emergency, the Committee and CRUK may pass any personal details provided by you (either when registering for the Event or otherwise) to the emergency services or health care professionals, and also use them for the purposes of contacting your emergency contacts. CRUK and/or the Committee may also share your information with the relevant health authority for contact tracing purposes if applicable (e.g. with NHS Test and Trace in England) in the event we are asked to do so e.g. because someone who has tested positive for COVID-19 has been identified as having attended the Event
+5. First aid facilities will be provided at each Event. If you are treated by medical providers, your details may be passed to the Committee and to CRUK. We shall only use these details for health and safety purposes and to fulfil our legal obligations (including those under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013.) All medical details will be held on the CRUK Accident Database.
+6. All personal data held by CRUK will be handled in accordance with [CRUK’s Privacy Statement][1]
 
 #### Photography/Videography
 
 1. By taking part in the Event, all participants, volunteers and spectators agree that they are happy for their names and any video footage, stills or photographs taken of them during the Event by the Committee or CRUK (or by their service providers or agents) to be used by the Committee and CRUK to publicise the Event and for commercial and/or fundraising purposes including, but not limited to, television broadcasts, advertising, publications, marketing material, merchandise, social media, personalised direct mail, social media and other documents that may be made available to the public.
 2. The Committee and/or CRUK may appoint third-party photographers to take photographs at the Event. All participants agree that photographs featuring them may be sent to them, to other people also featured in those photographs and to children’s parents/legal guardians where children are featured in those photos. Whilst photographers will try to obtain parental/legal guardian’s consent before taking images where children are more than just incidentally included, this cannot be guaranteed.
-3. If due to safeguarding a person's likeness should not be captured in videos and/or photographs please make the organisers aware either by contacting a committee member or through the contact us form on this website
+3. If due to safeguarding a person's likeness should not be captured in videos and/or photographs please make the organisers aware either by contacting a committee member or through the [contact us form on this website]({{ "/contact" | absolute_url }})
 
 #### Sponsorship Money and Donations
 
@@ -78,4 +78,4 @@ The Event is organised by Duxford Soapbox Committee (“__we__”, “__us__”,
   * Send cheques made payable to “Cancer Research UK” to: Duxford SoapBox, Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ. Stating the name of the Event and your entry number on the reverse.
 2. You have a legal responsibility to ensure that all sponsorship monies/donations received by you for the Event are paid to CRUK
 
-[1]: https://cruk.org
+[1]: https://www.cancerresearchuk.org/privacy
