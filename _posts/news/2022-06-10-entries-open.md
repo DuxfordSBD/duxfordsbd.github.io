@@ -15,7 +15,7 @@ tags:
     - 2022
 ---
 
-We can announce that our 2022 race entries are now open. You can find our [general rules and construction]({{ "/participating/rules" | absolute_url }}), [childrens race]({{ "/participating/childrens-rules" | absolute_url }}) and [adult rules]({{ "/participating/adult-rules" | absolute_url }}) on our website.
+We can announce that our 2022 race entries are now open. You can find our [general rules and construction rules]({{ "/participating/rules" | absolute_url }}), [childrens race]({{ "/participating/childrens-rules" | absolute_url }}) and [adult rules]({{ "/participating/adult-rules" | absolute_url }}) on our website.
 
 Race entries can be submitted online through [our registration form]({{ "/participating/register" | absolute_url }}).
 

@@ -17,13 +17,11 @@ Please note places are limited and will be allocated on a first come first serve
  * £5.00 per team for the childrens race
  * £10.00 per team for the adults race 
 
-We are not taking payment at this moment in time due the possibility that we may need to cancel the event due to the corona virus
 
 By entering you confirm that you will abide by [our general rules][general_rules] and [childrens rules][childrens_rules] or [adult rules][adults_rules], depending on which race you will compete in.
 
 You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure to include your team name and that the donation is for race entry in the message you provide. Alternatively payment by cheque is possible. Please contact us for more information. Payment should be recieved no later than {{ site.data.sbd_details.entry_deadline }}.
 
-If you would prefer to fill out a paper copy of the team registration form this can be downloaded [here][5].
 
 <form name="register" method="POST" action="https://formspree.io/f/maylzqae">
 	<h4>Team details.</h4>
@@ -76,8 +74,7 @@ For our privacy policy see [here]({{ site.url }}{{ site.baseurl }}/privacy_polic
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map 
-[4]: {{ site.url }}{{ site.baseurl }}/donate
-[5]: {{ site.url }}{{ site.baseurl }}/pdfs/Entry_Form_2019.pdf
+[4]: {{ site.url }}{{ site.baseurl }}/participating/pay-race-entry-fee 
 [general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
 [childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
 [adults_rules]: {{site.url}}{{site.baseurl}}/participating/adult-rules
