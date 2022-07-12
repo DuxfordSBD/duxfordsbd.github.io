@@ -28,8 +28,7 @@ permalink: "/participating/childrens-rules"
 * All participants must stick to the given route (as per map)
 * All participants MUST wear their team number on their chest – clearly visible
 * There will be awards for Best Fancy Dress, Race Winners and Runners Up
-* The overall winners of the 4-11 year old race will be awarded two prizes of £15 (a prize for each member of the winning team)
-* The overall winners of the 12-15 year old race will be awarded two prizes of £15 (a prize for each member of the winning team)
+* The overall winners of each age group will be awarded two prizes of a £10 Amazon voucher (a prize for each member of the winning team)
 
 
 These rules are in addition to the [General Rules][1].
