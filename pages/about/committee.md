@@ -11,7 +11,7 @@ permalink: "/about/committee"
 
 - Gill Burgess (CRUK representative)
 - Barry Dean (Treasurer)
-- Leah Gibson
+- Leah Hill
 - Nic Hill
 - Pam Hill
 - Malcolm Hyde
