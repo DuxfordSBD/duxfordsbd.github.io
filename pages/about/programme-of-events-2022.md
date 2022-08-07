@@ -4,7 +4,7 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title: "Programme of events Sunday 4th September 2022"
 meta_title: "Programme of events"
-permalink: "/about/Programme-of-events-2022"
+permalink: "/about/programme-of-events-2022"
 ---
 
 ### Registration of Soap Box Carts
