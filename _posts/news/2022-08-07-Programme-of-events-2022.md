@@ -49,7 +49,7 @@ Drinks, hog roast, ice creams and more
 
 ## Road closures
 
-The road closures will start at 11:30 a.m. and will run until approximately 2:00 p.m. Marshalls will be stationed at each of the entries into the village and will use their discretion if you can proceed. We will not allow any cars into the race areas whilst the races are operational.
+The road closures will start at 11:30 a.m. and will run until approximately 2:00 p.m. Marshalls will be stationed at each of the entries into Duxford village (Hunts Road, Grange Road, Moorfield Road, Ickleton Road and Hinxton Road) and will use their discretion if you can proceed. We will not allow any cars into the race areas whilst the races are operational. You can [use our route maps]({% link participating/route-map.md %}) to see the extent of the route.
 
 ## Parking in Duxford
 
@@ -61,7 +61,7 @@ Limited bike parking is also available at the community centre.
 
 ## Those who are closer to home
 
-Please try to keep your cars off the race route. Competitors have been instructed to avoid collisions at all costs but accidents happen. Please help us by moving your car to a side-street during the event.
+Please try to keep your cars off the race route. Competitors have been instructed to avoid collisions at all costs but accidents happen. Please help us by moving your car to a side-street during the event. Please see [our route maps]({% link participating/route-map.md %}) to see if this year's derby will go by your home.
 
 ## Charity Auction
 
