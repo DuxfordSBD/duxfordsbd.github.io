@@ -6,6 +6,8 @@
   url: "/about/"
   side: left
   dropdown:
+  - title: "Race Day 2022"
+    url: "/about/programme-of-events-2022"
   - title: "With Thanks To"
     url: "/about/with-thanks-to"
 
