@@ -45,7 +45,7 @@ Drinks, hog roast, ice creams and more
 * __2:00pm Charity auction with special guest auctioneer__
 * __2:45pm Music from Worldy__
 * __3:45pm Raffle drawing__
-* __4:00pm Music from bands Marked and Broken Silence__
+* __4:00pm Music from bands MarkEd and Broken Silence__
 
 ## Road closures
 
