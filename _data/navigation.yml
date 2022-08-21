@@ -6,6 +6,8 @@
   url: "/about/"
   side: left
   dropdown:
+  - title: "Race Day 2022"
+    url: "/about/programme-of-events-2022"
   - title: "With Thanks To"
     url: "/about/with-thanks-to"
 
@@ -51,10 +53,6 @@
   dropdown:
   - title: "2021 Results"
     url: "/couch_to_soap_box_derby/2021"
-  - title: "Register for Couch to Soap Box Derby"
-    url: "/couch_to_soap_box_derby/register"
-  - title: "Enter a time"
-    url: "/couch_to_soap_box_derby/form"
   - title: "Routes"
     url: "/couch_to_soap_box_derby/routes"
   - title: "Rules"

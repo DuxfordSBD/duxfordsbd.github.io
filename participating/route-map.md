@@ -22,3 +22,19 @@ The childrens race starts and finishes at the John Barleycore. The two younger a
 <br />
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d1225.6062278087!2d0.15820041530237888!3d52.09406489620286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0x47d87c9a93280325%3A0xaaf70bf4d6e675a5!2sJohn+Barleycorn%2C+Moorfield+Rd%2C+Duxford%2C+Cambridge+CB22+4PP!3m2!1d52.0944011!2d0.1590111!4m3!3m2!1d52.094719399999995!2d0.15667219999999998!4m5!1s0x47d87c904174581d%3A0x94ff0a83e7621d58!2sGreen+St%2C+Duxford%2C+Cambridge+CB22+4RG!3m2!1d52.0936172!2d0.1576443!4m3!3m2!1d52.093998199999994!2d0.1591184!4m5!1s0x47d87c9a93280325%3A0xaaf70bf4d6e675a5!2sJohn+Barleycorn%2C+Moorfield+Rd%2C+Duxford%2C+Cambridge+CB22+4PP!3m2!1d52.0944011!2d0.1590111!5e0!3m2!1sen!2suk!4v1555085817080!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+# Road closures
+
+The following roads in Duxford are closed to traffic during the Soap Box Derby.
+
+- Moorfield road
+- Hunts road
+- Hinxton road
+- St John's Street
+- St Peter's Street
+- Chapel Street 
+- Rectory Road
+- Green Street
+
+Roads ajoining onto these roads will have their access suspended except for critical situations. 
+Please respect the marshalls at all times and their instructions.
