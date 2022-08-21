@@ -1,6 +1,6 @@
 ---
 teaser: "This is what we have planned! We have a bumper packed programme of events happning throughout the day."
-title: Just 4 weeks until Race Day!
+title: Just 4 weeks until Race Day - 4th September!
 description:
 layout: page
 header: no
