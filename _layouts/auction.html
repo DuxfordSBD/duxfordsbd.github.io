@@ -2,7 +2,8 @@
 layout: page
 ---
 
-<p> Below is the list of items that will feature in our charity auction following the adults race on Sunday. The auction and raffle draw will take place at the Plough at approximately 2.30 pm. Please be aware the following list is subject to change.
+<h2>Auction Lots</h2>
+<p> Below is the list of items that will feature in our charity auction following the adults race on Sunday. The auction and raffle draw will take place at the Plough at approximately {{ page.auctionStart }}. Please be aware the following list is subject to change.
 </p>	
 
 <ul type='none' style="margin-left:0px">
@@ -12,3 +13,23 @@ layout: page
 <br />
 {% endfor %}
 </ul>
+
+{% if page.raffle %}
+<h2>Raffle prizes</h2> 
+
+The raffle draw will take place at the Plough and will start at {{ page.raffleStart }}. There are likely to be additional prizes availaible on the day.
+
+<ul>
+{% for res in site.data[page.raffle] %}
+{% if forloop.index0 == 0 %}
+<li><strong>1st place: {{res.item}}</strong>, provided by {{res.provided}}</li>
+{% elsif forloop.index0 == 1 %}
+<li><strong>2nd place: {{res.item}}</strong>, provided by {{res.provided}}</li>
+{% elsif forloop.index0 == 2 %}
+<li><strong>3rd place: {{res.item}}</strong>, provided by {{res.provided}}</li>
+{% else %}
+<li><strong>{{res.item}}</strong>{% if res.provided %}, provided by {{res.provided}}{% endif %}</li>
+{% endif %}
+{% endfor %}
+</ul>
+{% endif %}
