@@ -2,7 +2,7 @@
 teaser: " "
 title: Charity Auction Lots and Raffle prizes 2022
 permalink: /news/charity-auction-raffle-2022
-description:
+description: Provisional list of auction lots and raffle prizes
 layout: auction
 header: no
 data: 2022-auction
