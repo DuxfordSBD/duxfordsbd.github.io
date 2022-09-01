@@ -30,6 +30,8 @@ The raffle draw will take place at the Plough and will start at {{ page.raffleSt
 <li><strong>2nd place: {{res.item}}</strong>, provided by {{res.provided}}</li>
 {% elsif forloop.index0 == 2 %}
 <li><strong>3rd place: {{res.item}}</strong>, provided by {{res.provided}}</li>
+{% elsif forloop.index0 == 3 %}
+<li><strong>4th place: {{res.item}}</strong>, provided by {{res.provided}}</li>
 {% else %}
 <li><strong>{{res.item}}</strong>{% if res.provided %}, provided by {{res.provided}}{% endif %}</li>
 {% endif %}
