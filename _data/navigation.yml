@@ -33,9 +33,11 @@
     url: "/participating/event-disclaimer"
 
 - title: "Race Results"
-  url: "/results/2019-results"
+  url: "/results/2022-results"
   side: left
   dropdown:
+  - title: "2022 Soapbox Derby Results"
+    url: "/results/2022-results"
   - title: "2019 Soapbox Derby Results"
     url: "/results/2019-results"
   - title: "2018 Soapbox Derby Results"
@@ -63,9 +65,11 @@
     url: "/couch_to_soap_box_derby/running_tips"
 
 - title: Gallery
-  url: "/gallery/2019-photos"
+  url: "/gallery/2022-photos"
   side: left
   dropdown:
+  - title: "2022 photos by Gerry Wetherhead"
+    url: "/gallery/2022-photos"
   - title: "2019 photos by Paul Ellwood"
     url: "/gallery/2019-photos"
   - title: "2019 race videos"
