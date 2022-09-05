@@ -19,7 +19,7 @@ widget2:
   text: "We are accepting race entries for this year's derby! Places are limited so get your entry in soon"
 widget3:
   title: "Photo and Video Gallery"
-  url: '/gallery/2019-photos'
+  url: '/gallery/2022-photos'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
