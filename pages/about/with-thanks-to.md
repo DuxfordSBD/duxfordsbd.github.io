@@ -24,7 +24,7 @@ permalink: "/about/with-thanks-to"
 * __Jim Welch & team at Welches Transport__ – Car parking, race support & auction prize
 * __Tony Bridgeman__ – PA System, staging and catering at the Plough
 * __Ducati Cambridge__ – Auction prize
-* __Cannon__ – Raffle prize & banners
+* __Canon Business Services, Canon UK & Ireland__ – Raffle prize & banners
 * __Cambridge Assessment__ – Sponsorship
 * __Classic wings Duxford__ – Auction prize
 * __Manchester United Football club__ – Auction prize
