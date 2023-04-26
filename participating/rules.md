@@ -14,6 +14,7 @@ permalink: "/participating/rules"
 * No protruding sharp edges or parts, moving or otherwise, that could cause harm to spectators or participants and no parts can be attached to your Soap Box which could hinder other participant’s progress
 * Maximum of 4 wheels and a minimum of 3
 * Can be constructed in any material – an obvious advantage can be had by making it as light as possible
+* A single soap box can be entered into multiple races
 * Fancy dress and themed Soap Boxes are positively encouraged
 * There will be a prize for the ‘best turned-out Soap Box’ and this will be judged before the race starts with the winner announced after the race
 * Both runner and rider must be in contact with the vehicle at all times during the race

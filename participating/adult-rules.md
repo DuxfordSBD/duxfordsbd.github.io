@@ -7,7 +7,6 @@ meta_title: "Rules for the adults race in the Duxford Soapbox Derby"
 permalink: "/participating/adult-rules"
 ---
 
-* The race will start at approx. 1.00 pm.
 * The race starts at the John Barleycorn Public House and will finish at The Plough Public House (see route map)
 * There will be a standing start with Soap Boxes lined up in grid positions
 * Your starting position will be determined by a lottery conducted on the day
@@ -15,6 +14,7 @@ permalink: "/participating/adult-rules"
 * A team consists of two people only, one pushing and one driving/steering
 * The pushing/driving position can be swapped multiple times at any point during the race. The vehicle must be stopped when this is done and not in a position, which blocks the way for other teams
 * No back up teams allowed
+* Competitors must be ready to race by 13:00
 * Minimum age in adult race is 16 years
 * Head protection is advised
 * All participants enter the race at their own risk

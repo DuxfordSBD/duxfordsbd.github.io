@@ -11,7 +11,7 @@ Participants in this event do so at their own risk.
 
 The organising committee Duxford Soapbox Derby {{ site.data.sbd_details.year }} take no responsibility for any accidents, injuries, loss or damage incurred during this fund raising event.
 
-Click [here][1] for [contact details][1].
+Click [here for contact details][1].
 
 This event or activity is kindly being organised by a supporter of Cancer Research UK.
 
