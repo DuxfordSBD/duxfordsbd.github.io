@@ -6,8 +6,8 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "Race Day 2022"
-    url: "/about/programme-of-events-2022"
+  - title: "Race Day 2023"
+    url: "/about/programme-of-events-2023"
   - title: "With Thanks To"
     url: "/about/with-thanks-to"
 
@@ -19,6 +19,8 @@
     url: "/participating/register"
   - title: "Register as a volunteer"
     url: "/participating/volunteer"
+  - title: "Sponsorship"
+    url: "/participating/sponsorship"
   - title: "General Rules"
     url: "/participating/rules"
   - title: "Adult Race"
