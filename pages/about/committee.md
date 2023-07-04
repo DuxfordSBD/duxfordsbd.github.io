@@ -7,26 +7,27 @@ meta_title: "Programme of events"
 permalink: "/about/committee"
 ---
 
-## 2022 Committee and Cancer Research UK representatives
+## 2023 committee, treasurer and Cancer Research UK representatives
 
 - Gill Burgess (CRUK representative)
 - Barry Dean (Treasurer)
-- Leah Hill
 - Nic Hill
 - Pam Hill
 - Malcolm Hyde
 - Clive Smith
+- Graeme Spence
 - Claire Stribling
 - Andy Yates (Chair)
 - Beth Yates
 
-## Past Committee and Cancer Research UK representatives
+## Past committee members and Cancer Research UK representatives
 
 - Pete Dee
-- Trevor Turner
-- Pete Stribling
-- Jo Marriot (CRUK representative)
+- Leah Hill
 - Laura Holland (CRUK representative)
+- Jo Marriot (CRUK representative)
+- Pete Stribling (Chair)
+- Trevor Turner
 
 ## Committee Helpers
 
