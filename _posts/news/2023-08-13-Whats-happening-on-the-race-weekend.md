@@ -1,13 +1,24 @@
 ---
+teaser: "Find out what we have in store!."
+title: The weekend of the race is almost here.
+description:
 layout: page
-header:
-  image_fullwidth: duxford-soapbox-derby-header.jpg
-title: "Programme of events Sunday 3rd September 2023"
-meta_title: "Programme of events"
-permalink: "/about/programme-of-events-2023"
+header: no
+image: 
+    title: winners-2022.jpg
+    thumb: winners-2022-thumb.jpg
+    homepage: winners-2022.jpg
+categories:
+    - news
+tags:
+    - news
+    - 2023
 ---
 
-**The following is subject to change and confirmation.**
+
+## Saturday 2nd Septemnber 
+* __19:30 pm - 23:00 pm__
+It's party night at the Plough with a disco by DJ Tony 
 
 
 ### Registration of Soap Box Carts
@@ -39,7 +50,6 @@ Starting at Graystones and moving to the John Barleycorn
     * Auction and raffle draw
     * Hog roast, burgers and ice cream on sale
 
-
 <br />
-
-You can see the [2022 programme of events from here]({{ "/about/programme-of-events-2022" | absolute_url }}).
+In the days leading up to race day the Plough will be selling a special Soap Box Derby beer brewed for us by [Everards](https://www.everardsmeadows.co.uk/explore/everards-brewery/). A donation from each pint sold will be made to the Soap Box Derby.
+<br />
