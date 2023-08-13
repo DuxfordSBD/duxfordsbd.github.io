@@ -16,10 +16,15 @@ tags:
 ---
 
 
-## Saturday 2nd Septemnber 
-* __19:30 pm - 23:00 pm__
-It's party night at the Plough with a disco by DJ Tony 
+## Saturday 2nd September 
 
+### Party night at the Plough
+* __19:30 pm - 23:00 pm__
+There will be a disco by DJ Tony in the Plough carpark 
+<br /><br />
+<hr />
+
+## Sunday 3rd September - race day!
 
 ### Registration of Soap Box Carts
 [Graystones](https://www.facebook.com/people/Graystones/100063804272277/), St Peter’s Street
