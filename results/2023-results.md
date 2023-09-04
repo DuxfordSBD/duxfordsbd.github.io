@@ -8,4 +8,5 @@ permalink: "/results/2023-results"
 adults: "2023-adults-results"
 kids: "2023-childrens-results"
 olderkids: "2023-12-15-results" 
+times: true
 ---

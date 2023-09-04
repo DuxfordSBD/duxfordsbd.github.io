@@ -55,6 +55,9 @@ layout: page-fullwidth
         <th>Team Name</th>
         <th>Finishing Position</th>
         <th>Extra Awards</th>
+        {% if page.times %}
+        <th>Lap Time</th>
+        {% endif %}
     </tr>
 {% for res in site.data[page.adults] %}
     <tr>
@@ -63,6 +66,7 @@ layout: page-fullwidth
         <td>{{ res.team }}</td>
         <td>{{ res.position }}</td>
         <td>{{ res.awards }}</td>
+        {% if page.times and res.time %}<td>{{ res.time }}</td>{% endif %}
     </tr>
 {% endfor %}
 </table>
