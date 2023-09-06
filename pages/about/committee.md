@@ -22,6 +22,7 @@ permalink: "/about/committee"
 
 ## Past committee members and Cancer Research UK representatives
 
+- Frank Bailey
 - Pete Dee
 - Leah Hill
 - Laura Holland (CRUK representative)
