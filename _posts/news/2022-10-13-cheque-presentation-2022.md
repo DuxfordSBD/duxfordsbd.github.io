@@ -15,7 +15,7 @@ tags:
 ---
 
 
-This brings the total amount of money raised since the very first derby was held in 2013 to over £74,000! 
+This brings the total amount of money raised since the very first derby was held in 2013 to over £74,000!
 
 Our representative from Cancer Research UK, Gill Burgess had these words to share:
 
@@ -31,5 +31,4 @@ But none of this is possible without funding, and that's where Duxford Soap Box 
 
 On behalf of Cancer Research UK, I would like to sincerely thank everyone involved with this year's event - your fundraising is saving lives.”
 
- 
-We are already thinking ahead to next year's 10th anniversary race and we hope to make it the best Duxford Soap Box derby yet! If you would like to get involved in helping us organise the event please do get in touch using our [contact page](/contact). 
+We are already thinking ahead to next year's 10th anniversary race and we hope to make it the best Duxford Soap Box derby yet! If you would like to get involved in helping us organise the event please do get in touch using our [contact page](/contact).

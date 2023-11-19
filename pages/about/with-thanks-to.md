@@ -103,7 +103,6 @@ We especially thank BBC Radio Cambridgshire, Star Radio, Cambridge Independent, 
 
 We would also like to thank [Cambridgeshire Live][1] for their [coverage of the day][2].
 
-
 ## Previous year's support
 
 * __The marshalls__
@@ -141,7 +140,6 @@ We would also like to thank [Cambridgeshire Live][1] for their [coverage of the 
 * __Alistair and Annette Gibson__ – Auction prizes
 
 We would also like to thank [Cambridgeshire Live][1] for their [coverage of the day][2].
-
 
 ### Thanks To …previous years
 
