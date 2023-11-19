@@ -7,52 +7,55 @@ meta_title: "With Thanks to"
 permalink: "/about/with-thanks-to"
 ---
 
-## 2022 Soap Box Derby supporters and helpers
+## 2023 Soap Box Derby supporters and helpers
 
 * __The marshalls__
 * __Gerry Weatherhead__ – Photographer
-* __Neil Barbour__ - ITV Anglia
+* __Paul Ellwood__ – Photographer
 * __Glenn Jones__ - BBC Radio Cambridgeshire
 * __Louise Hulland__ - BBC Radio Cambridgeshire
-* __Jamie Tucker__ - That's TV Cambridge
+* __Andy Lake__ - Star Radio
 * __Keith Heppell__ - Cambridge Independent
+* __Alison Fearon__ - Innovate Media
+* __Dominic Byrne and the Chris Moyles Show__ - The Chris Moyles Show & Global Media & Entertainment
 * __Cooke Curtis & Co__ – Sign board printing
-* __The Hire Network__ – Sponsor the road closures
+* __GT Trax__ – Road closure sponsor
 * __The Plough__ - Venue and auction prize
-* __John Barleycorn__ - Venue and raffle prize
+* __John Barleycorn__ - Venue
 * __Greystones cafe__ - Venue
 * __Jim Welch & team at Welches Transport__ – Car parking, race support & auction prize
 * __Tony Bridgeman__ – PA System, staging and catering at the Plough
-* __Ducati Cambridge__ – Auction prize
-* __Canon Business Services, Canon UK & Ireland__ – Raffle prize & banners
-* __Cambridge Assessment__ – Sponsorship
 * __Classic wings Duxford__ – Auction prize
-* __Manchester United Football club__ – Auction prize
-* __Hexcel__ – Auction prize
-* __Everards__ – Auction prize
+* __Rob Cowling and Invictus Fire Safety__ - Auction prize
+* __Pam Hill and Clive Smith__ - Auction prize
 * __Mr Toombs & Jardine BMW Milton Keynes__ – Auction prize
-* __Steve the Barman__ – Auction prize
-* __Shaken Udder__ – Auction prize
 * __Bassingbourn rifle and pistol club__ – Auction prize
-* __Scudamores__ – Auction prize
-* __Brewboard__ – Auction prize
-* __Brown & May__ – Auction prize
-* __Red Lodge Karting, Bury St Edmunds__ – Auction prize
-* __Cafe 19__ – Raffle prize
-* __Holroyd Components__ – Raffle prize
-* __Shepreth Wildlife Park__ - Raffle prize
-* __Wylde Sky__ - Raffle prize
-* __Jems & Unity Studio__ - Raffle prize
-* __The Playground__ - Raffle prize
+* __B and M Seafood__ - Auction prize
+* __Jackie Dean and Barry Dean__ - Auction prize
+* __Leicester Tigers__ - Auction prize
+* __Bill Johnson__ - Auction prize
+* __Scotsdales__ - Auction prize
+* __Claire Stribling__ - Auction prize
+* __Liz Taylor__ - Auction prize
+* __Kingsway Golf__ - Auction prize
+* __Scudamores__ - Auction prize
+* __Tranquility Beauty Salon__ - Auction prize
+* __Holyroyd Components__ - Raffle prize
+* __Beth and Andy Yates__ - Raffle prize
+* __Nick and Katie Dickson__ – Raffle prize
+* __Nic Hill and Leah Hill__ - Raffle prize
+* __Jems Mobile Hair__ - Raffle prize
+* __Graystones__ - Raffle prize
+* __Maureen Havil__ - Raffle prize
+* __Peter MacDonald__ - Raffle prize
+* __Margaret Stribling__ - Raffle prize
+* __Jennifer Blackaby__ - Raffle prize
+* __Annette Gibson__ - Raffle prize
+* __Everards__ – Raffle prize
 * __Red Lodge Karting__ - Raffle prize
 * __Sawston Sports Centre__ - Raffle prize
-* __Salon at Number 5, Cambridge/Newmarket__ - Raffle prize
-* __Vue cinemas__ - Raffle prize
-* __Jackie Dean__ - Raffle prize
-* __Kris Gray__ – Raffle prize
-* __Andy Yates__ - Raffle prize
 
-We especially thank BBC Radio Cambridgshire, ITV Anglia, That's TV Cambridge, Cambridge Independent and Gerry Weatherhead for their coverage of the day.
+We especially thank BBC Radio Cambridgshire, Star Radio, Cambridge Independent, Your Local CB22, Radio X, Gerry Weatherhead and Paul Ellwood for their coverage of the day.
 
 ### 2019 supporters
 
