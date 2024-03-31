@@ -16,10 +16,10 @@ widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
-  text: "Fancy being part of the derby? See how you can participate from racing to volunteering"
+  text: "Fancy being part of the derby? See how you can participate from racing to volunteering. Race registration will open in May."
 widget3:
   title: "Photo and Video Gallery"
-  url: '/gallery/2022-photos'
+  url: '/gallery/2023-photos-weatherhead'
   text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2023
+  url: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2024
   text: Donate to our fundraising page for <img src="SITEURL/images/200px-Cancer_Research_UK.png"></img>
   style: cruk
 permalink: /index.html
