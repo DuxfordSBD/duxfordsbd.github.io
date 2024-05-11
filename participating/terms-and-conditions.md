@@ -73,4 +73,4 @@ First aid facilities will be provided at each Event. __If you are treated by med
 1. Any monies raised in connection with the Event are held on trust for Cancer Research UK and must be passed to Cancer Research UK. We ask that you do this as soon as possible after the Event using the Duxford Soap Box Derby online page, or through the organisers.
 2. You have a legal responsibility to ensure that all sponsorship monies/donations received by you for the Event are paid to CRUK.
 
-[1]: https://www.cruk.org/privacy
+[1]: https://www.cancerresearchuk.org/privacy
