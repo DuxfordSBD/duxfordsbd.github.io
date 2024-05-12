@@ -15,7 +15,7 @@ tags:
     - 2024
 ---
 
-It is with great pleasure we can confirm the [2024 Soap Box Derby race entries are now open]({{ "/participating/register" | absolute_url }}). We are sorry for the delay in opening the entries as we have had some technical issues in the background.
+It is with great pleasure we can confirm the [2024 Soap Box Derby race entries are now open]({{ "/participating/register" | absolute_url }}).
 
 The 2024 derby will follow the same format as the 2023 event with 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the childrens race route and do not require an adult to run with them.
 
