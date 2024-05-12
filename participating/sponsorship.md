@@ -15,13 +15,13 @@ Building an online sponsorship page is the best way to collect funds in support 
 
 ### 1. Go to the Soap box derby team page
 
-You can navigate to the [Duxford Soap Box Derby's team 2023 fundraising page](https://fundraise.cancerresearchuk.org/team/duxford-soap-box-derbys-team-2023). Once there you will see all of our current fundraising efforts for 2023 and our online donation total.
+You can navigate to the [Duxford Soap Box Derby's team {{ site.data.sbd_details.year }} fundraising page](https://fundraise.cancerresearchuk.org/team/duxford-soap-box-derbys-team-2024). Once there you will see all of our current fundraising efforts for {{ site.data.sbd_details.year }} and our online donation total.
 
 ### 2. Scroll down to team members
 
 Scroll down the page until you get to the Team member section. Click on the _Join team_ button.
 
-![Team member page on our 2023 fundraising team page]({% link images/team_page.png %} "Team member page on our 2023 fundraising team page")
+![Team member page on our {{ site.data.sbd_details.year }} fundraising team page]({% link images/team_page.png %} "Team member page on our {{ site.data.sbd_details.year }} fundraising team page")
 
 You will be asked to log into Cancer Research's platform or to create a new giving page.
 
