@@ -11,6 +11,20 @@ permalink: "/about/programme-of-events-2024"
 
 The Duxford Soap Box Derby will take place on the 1st September 2024 in [Duxford, Cambridgeshire][location].
 
+### Wednesday 28th August
+Bingo & Games night hosted by The Plough Duxford
+
+### Friday 30th August
+[Casino night hosted by The Plough Duxford](https://www.facebook.com/events/1193349741672146/?ref=newsfeed)
+* Tickets available from The Plough for £25 including welcome glass of fizz, canapés & play money
+* Black tie
+
+### Saturday 31st August 
+Kids and adults disco at The Plough Duxford
+* 6pm to 8pm kids disco
+* 8pm to 11pm adults disco
+
+<!--
 ### Duxford Soap Box Derby Races
 
 * **12:00 Noon Children’s Race**
@@ -22,9 +36,9 @@ The Duxford Soap Box Derby will take place on the 1st September 2024 in [Duxford
 * **2pm onwards**
   * Presentation of awards
   * Auction and raffle draw
+-->
 
-<!--
-### Registration of Soap Box Carts
+### Sunday 1st September Registration of Soap Box Carts
 
 [Graystones](https://www.facebook.com/people/Graystones/100063804272277/), St Peter’s Street
 * __10:00 am - 11:20 am__
@@ -34,7 +48,7 @@ Registration of vehicles, scrutineering and racers briefing
 * __11:40 am__
 Starting at Graystones and moving to the John Barleycorn
 
-### Duxford Soap Box Derby Races
+### Sunday 1st September Duxford Soap Box Derby Races
 [The John Barleycorn](https://www.facebook.com/johnbarleycornduxford), Moorfield Road
 
 * __12:00 Noon Children’s Race__
@@ -49,12 +63,14 @@ Starting at Graystones and moving to the John Barleycorn
 [The Plough](https://www.theduxfordplough.co.uk/), St Peter’s Street
 * __2pm onwards__
     * Presentation of awards
-    * Live music from [The Spree](https://www.thespreeonline.co.uk/) and [Duck Orange](https://www.facebook.com/profile.php?id=100071990058980)
+    * Live music
+    * Face painting
     * Auction and raffle draw
     * Hog roast, burgers and ice cream on sale
 
 <br />
 
+<!--
 You can see the [2023 programme of events from here]({{ "/about/programme-of-events-2023" | absolute_url }}).
 -->
 
