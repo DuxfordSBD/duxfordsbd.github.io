@@ -7,8 +7,6 @@ meta_title: "Programme of events 2024"
 permalink: "/about/programme-of-events-2024"
 ---
 
-**The following is subject to change and confirmation.**
-
 The Duxford Soap Box Derby will take place on the 1st September 2024 in [Duxford, Cambridgeshire][location].
 
 ### Wednesday 28th August
