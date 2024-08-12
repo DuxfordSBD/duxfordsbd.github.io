@@ -40,6 +40,8 @@ Kids and adults disco at The Plough Duxford
 
 ### Sunday 1st September Registration of Soap Box Carts
 
+**Parking is avaialble from [Welch’s Transport Ltd](https://maps.app.goo.gl/QXSBTD9VCYxHZ4FS8), Moorfield Rd, Cambridge CB22 4PS. [///duet.never.comedy](https://w3w.co/duet.never.comedy). Please avoid parking on the derby route.**
+
 [Graystones](https://www.facebook.com/people/Graystones/100063804272277/), St Peter’s Street
 * __10:00 am - 11:20 am__
 Registration of vehicles, scrutineering and racers briefing
@@ -47,6 +49,8 @@ Registration of vehicles, scrutineering and racers briefing
 ### Parade of Carts
 * __11:40 am__
 Starting at Graystones and moving to the John Barleycorn
+
+**Road closures start at 12:00**
 
 ### Sunday 1st September Duxford Soap Box Derby Races
 [The John Barleycorn](https://www.facebook.com/johnbarleycornduxford), Moorfield Road
@@ -67,6 +71,8 @@ Starting at Graystones and moving to the John Barleycorn
     * Face painting
     * Auction and raffle draw
     * Hog roast, burgers and ice cream on sale
+
+**Road closures end at 14:30**
 
 <br />
 
