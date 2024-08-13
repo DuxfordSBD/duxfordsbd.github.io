@@ -14,8 +14,8 @@ Both races will start at the John Barleycorn with the childrens race starting at
 
 Places are limited and will be allocated on a first come first serve basis. Entry costs are as follows:
 
-* £5.00 per team for the childrens race
-* £10.00 per team for the adults race
+* **£5.00 per team** for the childrens race
+* **£10.00 per team** for the adults race
 
 By entering you confirm that you will abide by [our general rules][general_rules] and [childrens rules][childrens_rules] or [adult rules][adults_rules], depending on which race you will compete in.
 
