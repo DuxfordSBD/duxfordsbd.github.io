@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Weekend events"
   url: '/about/programme-of-events-2024'
-  image: 
+  image: widget-1-alternative.png
   text: "Find out what's happening at the 2024 Duxford Soap Box Derby"
 widget2:
   title: "Taking part"
