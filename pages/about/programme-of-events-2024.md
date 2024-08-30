@@ -44,11 +44,11 @@ Kids and adults disco at The Plough Duxford
 * __10:00 am - 11:20 am__
 Registration of vehicles, scrutineering and racers briefing
 
+**Road closures start at 11:30**
+
 ### Parade of Carts
 * __11:40 am__
 Starting at Graystones and moving to the John Barleycorn
-
-**Road closures start at 12:00**
 
 ### Sunday 1st September Duxford Soap Box Derby Races
 [The John Barleycorn](https://www.facebook.com/johnbarleycornduxford), Moorfield Road
