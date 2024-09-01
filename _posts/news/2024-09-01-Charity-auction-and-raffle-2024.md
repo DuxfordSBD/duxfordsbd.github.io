@@ -11,7 +11,7 @@ auctionStart: "2.30 pm"
 raffleStart: "4.15 pm"
 image:
     title: 2023-childrens-podium.jpg
-    thumb: 2023-childrens-podium-thumb.jpg
+    thumb: 2023-childrens-podium-thumb.jpg 
     homepage: 2023-childrens-podium.jpg
 categories:
     - news
