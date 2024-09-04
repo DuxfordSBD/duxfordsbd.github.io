@@ -21,6 +21,7 @@ Congratulation are also in order to the winners of the childrens races:
 * 4-7 age group was won by team "Hot diggity dogs", Theo Harris and Remy Sethi
 * 8-11 age group was won by "It's Corn", Edward Lober and Tom Varley
 * 12-15 age group was won by team "Sawston 2461 Air Cadets 1", Aaron Grafham-Karp and Alexander Graham	
+* The Mayor of Duxford fancy dress award was won by team "TMNT Minecart Bros", Nathan Fisset and Joshua Parker
 
 [Click here to see the 2024 Soap Box Derby Results in full.]({{ site.url }}{{ site.baseurl }}/results/2024-results)
 
