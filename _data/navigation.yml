@@ -78,6 +78,10 @@
   url: "/gallery/2023-photos-weatherhead"
   side: left
   dropdown:
+  - title: "2024 photos by Adrian Powter"
+    url: "/gallery/2024-photos-powter"
+  - title: "2024 photos by Neil Alger"
+    url: "/gallery/2024-photos-alger"
   - title: "2023 photos by Gerry Weatherhead"
     url: "/gallery/2023-photos-weatherhead"
   - title: "2023 photos by Paul Ellwood"
