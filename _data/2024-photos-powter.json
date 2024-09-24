@@ -113,12 +113,6 @@
     {
       "kind": "drive#file",
       "mimeType": "image/jpeg",
-      "id": "1Prrc5R-TosTb5-AEdDNKCopLA7Bgi0Gs",
-      "name": "P9010769(1).jpg"
-    },
-    {
-      "kind": "drive#file",
-      "mimeType": "image/jpeg",
       "id": "1ReAGecaVienSUicWjcxXGV8cNjIFbsI6",
       "name": "P9010730.jpg"
     },
