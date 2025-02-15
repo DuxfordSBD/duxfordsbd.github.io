@@ -4,7 +4,7 @@ header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
 title:  Donate to Cancer Research UK using our online donation page
 permalink: /donate
-redirect: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2024
+redirect: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2025
 ---
 
 Redirecting you to our online donation page. If this does not happen then please  [click here]({{page.redirect}}).

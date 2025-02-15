@@ -7,6 +7,58 @@ meta_title: "With Thanks to"
 permalink: "/about/with-thanks-to"
 ---
 
+## 2024 Soap Box Derby supporters and helpers
+
+* __The marshalls, support staff and volunteers for the event__
+* __Phoenix Events (East) Limited__ - Road closures
+* __The Plough__ - Venue
+* __John Barleycorn__ - Venue
+* __Greystones cafe__ - Venue
+* __GT Trax__ – Road closure sponsor
+* __Cooke Curtis & Co__ – Advertising boards
+* __Kieran James__ - Walkie talkies
+* __Adrian Powter__ – Photographer
+* __Neil Alger__ – Photographer
+* __Steven Illingworth__ - Photographer
+* __Louise Hulland__ - BBC Radio Cambridgeshire
+* __Glenn Jones__ - BBC Radio Derby
+* __Andy Lake__ - Star Radio
+* __Keith Heppell__ - Cambridge Independent
+* __Adrian Peel__ - Cambridge Independent
+* __Dominic Byrne and the Chris Moyles Show__ - The Chris Moyles Show, Global Media & Entertainment
+* __Red Graphic Ltd__ - Leaflet design
+* __Jim Welch & team at Welches Transport__ – Car parking, race support & auction prize
+* __Tony Bridgeman__ – PA System, staging and catering at the Plough
+* __Russel Smith Farms/Savour Smiths__ – Auction/Raffle prize
+* __Scudamores Punting__ – Auction/Raffle prize
+* __Jems Hair__ – Auction/Raffle prize
+* __The Carpenter Arms, Gt Wilbraham__ – Auction/Raffle prize
+* __The Chequers, Fowlmere__ – Auction/Raffle prize
+* __Sawston Sports Centre__ – Auction/Raffle prize
+* __Scotsdales__ – Auction/Raffle prize
+* __Cambridge United FC__ – Auction/Raffle prize
+* __Football Fun Factory__ – Auction/Raffle prize
+* __Victor Victoria, Sawston__ – Auction/Raffle prize
+* __Tranquillity, Duxford__ – Auction/Raffle prize
+* __Red Lion, Hinxton__ – Auction/Raffle prize
+* __Xtreme 360 Trampoline Park__ – Auction/Raffle prize
+* __Parkside Pool, Cambridge__ – Auction/Raffle prize
+* __Northampton Football Club__ – Auction/Raffle prize
+* __The Plough, Duxford__ – Auction/Raffle prize
+* __Daisy cakes__ – Auction/Raffle prize
+* __Puddleducks Cambridge__ – Auction/Raffle prize
+* __Wylde Sky Brewing, Linton__ – Auction/Raffle prize
+* __Lucy's Blooms__ – Auction/Raffle prize
+* __Classic wings Duxford__ – Auction/Raffle prize
+* __Bassingbourn rifle and pistol club__ – Auction/Raffle prize
+* __Leicester Tigers__ - Auction/Raffle prize
+* __Everards__ - Auction/Raffle prize
+* __Bill Johnson__ - Auction/Raffle prize
+* __Molson Coors__ - Auction/Raffle prize
+* __Kingsway Golf__ - Auction/Raffle prize
+
+We especially thank BBC Radio Cambridgshire, Star Radio, Cambridge Independent, Radio X, Gerry Weatherhead and Paul Ellwood for their coverage of the day.
+
 ## 2023 Soap Box Derby supporters and helpers
 
 * __The marshalls__
