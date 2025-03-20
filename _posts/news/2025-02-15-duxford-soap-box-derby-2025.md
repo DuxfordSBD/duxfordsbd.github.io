@@ -21,6 +21,6 @@ The 2025 derby will follow the same format as the 2024 event. There will be 3 ra
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category is for teams that have previously, or predict they will, complete the 1.4 mile race route in less than 10 minutes. Please ensure ages on the day are as per the general rules,
 
-Race entries are not open just yet but you can pre-register your interest to take part by sending us an email through our [contact page]({{ "/contact" | absolute_url }}). All the information that you should need to know about how get involved is [here]({{ "/participating" | absolute_url }}).
+You can enter a team now [by clicking here]({{ "/participating/register" | absolute_url }}) and filling out our registration form.
 
 For now, pencil the date into your diaries and keep an eye on our [Facebook page](https://www.facebook.com/DuxfordSoapBoxDerby) and this site for updates on what we have planned for this years event.
