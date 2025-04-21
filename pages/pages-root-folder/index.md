@@ -7,26 +7,31 @@
 layout: frontpage
 header:
   image_fullwidth: duxford-soapbox-derby-header.jpg
+# widget1:
+#   title: "Weekend events"
+#   url: '/about/programme-of-events-2025'
+#   image: widget-1-alternative.png
+#   text: "Find out what's happening at the 2025 Duxford Soap Box Derby"
 widget1:
-  title: "Weekend events"
-  url: '/about/programme-of-events-2024'
-  image: widget-1-alternative.png
-  text: "Find out what's happening at the 2024 Duxford Soap Box Derby"
+  title: "About the Derby"
+  url: '/about/'
+  image: widget-1.jpg
+  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £93,543! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath"
 widget2:
   title: "Taking part"
   url: '/participating'
   image: widget-2.jpg
   text: "Fancy being part of the derby? See how you can participate from racing to volunteering. Race registrations are open."
 widget3:
-  title: "About the Derby"
-  url: '/about/'
-  image: widget-1.jpg
-  text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £86,350! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath"
+ title: "Photo and Video Gallery"
+ url: '/gallery/2024-photos-powter'
+ text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
+ video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
 # widget3:
-#  title: "Photo and Video Gallery"
-#  url: '/gallery/2023-photos-weatherhead'
-#  text: 'We have lots of photos and videos from our previous events. Take a look and see if you can get some inspiration for your own cart design!'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.duxfordsoapboxderby.co.uk/images/widget-3.png"" width="302" height="200" alt=""/></a>'
+#   title: "About the Derby"
+#   url: '/about/'
+#   image: widget-1.jpg
+#   text: "The Duxford Soapbox Derby was established in 2013 to raise money for Cancer Research UK in memory of Phill Hill. To date we have raised £93,543! The main event is a wonderful chaotic dash around the village by would be grand prix stars racing in anything from a wheelbarrow to an old iron bath"
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -7,27 +7,29 @@ meta_title: "Programme of events"
 permalink: "/about/committee"
 ---
 
-## 2024 committee, treasurer and Cancer Research UK representatives
+## 2025 committee, treasurer and Cancer Research UK representatives
 
+- Lucie Abercrombie
 - Kate Auger
-- Gill Burgess (CRUK representative)
+- Nicole Brennan (CRUK representative)
 - Dale Butler
-- Eddie Copeland
 - Barry Dean (Treasurer)
 - Kevin Foot
-- Nic Hill (shadow Chair)
+- Nic Hill (Chair)
 - Pam Hill
+- Kirsty Keegan
 - Greg Nunn
 - Zoey Rigaut
 - Clive Smith
 - Graeme Spence
 - Claire Stribling
-- Andy Yates (Chair)
+- Andy Yates
 - Beth Yates
 
 ## Past committee members and Cancer Research UK representatives
 
 - Frank Bailey
+- Gill Burgess (CRUK representative)
 - Pete Dee
 - Leah Hill
 - Laura Holland (CRUK representative)
@@ -40,3 +42,4 @@ permalink: "/about/committee"
 
 - Pete Dee
 - Liz Kingsley
+- Malcolm Hyde
