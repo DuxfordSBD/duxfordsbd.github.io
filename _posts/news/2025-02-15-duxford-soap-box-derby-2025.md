@@ -5,9 +5,9 @@ description:
 layout: page
 header: no
 image: 
-    title: 2023-competitors.jpg
-    thumb: 2023-competitors-thumb.jpg
-    homepage: 2023-competitors.jpg
+    title: 2024-competitors.jpg
+    thumb: 2024-competitors-thumb.jpg
+    homepage: 2024-competitors.jpg
 categories:
     - news
 tags:
