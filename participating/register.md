@@ -21,7 +21,7 @@ By entering you confirm that you will abide by [our general rules][general_rules
 
 You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure to include your team name and that the donation is for race entry in the message you provide. Alternatively payment by cheque is possible. Please contact us for more information. Payment should be recieved no later than {{ site.data.sbd_details.entry_deadline }}.
 
-<form name="register" method="POST" action="https://submit-form.com/WQEa3uDPQ">
+<form name="register" method="POST" action="https://submit-form.com/WQEa3uDPQ" data-botpoison-public-key="pk_2fb35d48-8e71-4eb2-a7f6-f805ced3db85">
 <!-- <form name="register" method="POST" action="https://submit-form.com/echo"> -->
 	<h4>Team details.</h4>
 	<br />
