@@ -31,10 +31,6 @@ The Duxford Soap Box Derby will take place on the 31st August 2025 in [Duxford, 
 
 **All events will happen at the Plough, Duxford, 57-59 St Peter's St, Duxford, Cambridge CB22 4RP**
 
-<!-- 
-**Parking is avaialble from [Welch’s Transport Ltd](https://maps.app.goo.gl/QXSBTD9VCYxHZ4FS8), Moorfield Rd, Cambridge CB22 4PS. [///duet.never.comedy](https://w3w.co/duet.never.comedy). Please avoid parking on the derby route.**
--->
-
 * __10:00 am - 11:20 am__
 * Registration of vehicles, scrutineering and racers briefing
 * Please attend the farmyard across from the Plough
