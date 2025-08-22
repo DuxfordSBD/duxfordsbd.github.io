@@ -41,7 +41,7 @@ The Duxford Soap Box Derby will take place on the 31st August 2025 in [Duxford, 
 * __11:40 am__
 Starting at registration, departing down towards the war memorial and finishing at the Plough
 
-### Sunday 1st September Duxford Soap Box Derby Races
+### Duxford Soap Box Derby Races
 [The Plough, Duxford](https://www.facebook.com/theploughatduxford/), St Peter's St
 
 * __12:00 Noon Children’s Race__
