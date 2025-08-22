@@ -22,3 +22,12 @@ Commit the changes to a branch.
 4. Update `frontpage.html` with the fact that the entries are open
 5. Create a new form for entries. Previous years used Google Forms but this has not worked well in the past, especially on mobile devices, and might need reviewing
 6. Check terms and conditions of entry with CRUK
+
+## Building a container image to test this site
+
+```bash
+docker run -v $(pwd):/site -rm -it -p4000:4000 --entrypoint bash bretfisher/jekyll
+# Now wait until container starts
+bundle install --retry 5 --jobs 20
+bundle exec jekyll server --force_polling --incremental --watch --trace --future --livereload -H 0.0.0.0 --port 4000
+```
