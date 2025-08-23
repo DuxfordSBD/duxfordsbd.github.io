@@ -26,7 +26,7 @@ Commit the changes to a branch.
 ## Building a container image to test this site
 
 ```bash
-docker run -v $(pwd):/site -rm -it -p4000:4000 --entrypoint bash bretfisher/jekyll
+docker run -v $(pwd):/site --rm -it -p4000:4000 --entrypoint bash bretfisher/jekyll
 # Now wait until container starts
 bundle install --retry 5 --jobs 20
 bundle exec jekyll server --force_polling --incremental --watch --trace --future --livereload -H 0.0.0.0 --port 4000
