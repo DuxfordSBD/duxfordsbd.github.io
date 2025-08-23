@@ -13,6 +13,10 @@ permalink: "/participating"
 
 What's a Soap Box Derby without Soap Boxes and racers? If you would like to enter into this year's Duxford Soap Box Derby then please [take a look at our registration page][1]. We have both childrens and adults races and accept comptitors of all abiltiies. Entries are subject to our [general rules][general_rules], [childrens rules][childrens_rules] and [adult rules][adults_rules]. Why not build a dual purpose cart so you can watch your children take part before taking your turn in the adult race?
 
+## Race information for 2025
+
+Please find our 2025 racer [information for participants here][pdf].
+
 ## Help out as a volunteer
 
 ![The 2018 volunteers][volunteers]
@@ -26,3 +30,4 @@ Volunteers are the reason why the Duxford Soap Box Derby happens. Each year we n
 [general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
 [childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
 [adults_rules]: {{site.url}}{{site.baseurl}}/participating/adult-rules
+[pdf]: {{site.url}}{{site.baseurl}}/participating/2025-information-racers-v1.pdf

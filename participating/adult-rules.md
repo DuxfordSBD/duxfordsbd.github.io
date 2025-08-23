@@ -7,7 +7,7 @@ meta_title: "Rules for the adults race in the Duxford Soapbox Derby"
 permalink: "/participating/adult-rules"
 ---
 
-* The race starts at the John Barleycorn Public House and will finish at The Plough Public House (see route map)
+* The race starts at the Plough Public House and will finish at The Plough Public House (see route map)
 * There will be a standing start with Soap Boxes lined up in grid positions
 * Your starting position will be determined by a lottery conducted on the day
 * Those who submitted as an elite entry, completing the course in less than 10 minutes, will be positioned at the back of the grid via lottery once all other competitors have drawn a starting position.

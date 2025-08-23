@@ -10,7 +10,7 @@ There will be 3 races on the day, two childrens races and the adult race. The fi
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category was new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
 
-Both races will start at the John Barleycorn with the childrens race starting at 12 pm and the adults race at 1:30pm.
+Both races will start at the Plough with the childrens race starting at 12 pm and the adults race at 1:30pm.
 
 Places are limited and will be allocated on a first come first serve basis. Entry costs are as follows:
 

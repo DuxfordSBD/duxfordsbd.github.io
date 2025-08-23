@@ -21,6 +21,8 @@
   dropdown:
   - title: "Register a team"
     url: "/participating/register"
+  - title: "2025 Participant Information"
+    url: "/participating/2025-information-racers-v1.pdf"
   - title: "Register as a volunteer"
     url: "/participating/volunteer"
   - title: "Sponsorship"
