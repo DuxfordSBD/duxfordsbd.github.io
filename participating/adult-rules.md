@@ -14,7 +14,7 @@ permalink: "/participating/adult-rules"
 * A team consists of two people only, one pushing and one driving/steering
 * The pushing/driving position can be swapped multiple times at any point during the race. The vehicle must be stopped when this is done and not in a position, which blocks the way for other teams
 * No back up teams allowed
-* Competitors must be ready to race by 13:00
+* Competitors must be ready to race by 13:20
 * Minimum age in adult race is 16 years
 * Head protection is advised
 * All participants enter the race at their own risk

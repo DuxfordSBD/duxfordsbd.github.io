@@ -30,4 +30,4 @@ Volunteers are the reason why the Duxford Soap Box Derby happens. Each year we n
 [general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
 [childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
 [adults_rules]: {{site.url}}{{site.baseurl}}/participating/adult-rules
-[pdf]: {{site.url}}{{site.baseurl}}/participating/2025-information-racers-v1.pdf
+[pdf]: {{site.url}}{{site.baseurl}}/participating/2025-information-racers-v2.pdf
