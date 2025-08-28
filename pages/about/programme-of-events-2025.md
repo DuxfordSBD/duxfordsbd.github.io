@@ -21,11 +21,7 @@ The Duxford Soap Box Derby will take place on the 31st August 2025 in [Duxford, 
 * Much much more
 
 ### Friday 29th August
-[Silent Disco & Street Food hosted by The Lodge, Duxford](https://www.facebook.com/thelodgeduxford/posts/pfbid0244kXp29R27Q4Yb3WcTmcrweJq6YRRCHcGqo7bLXLNiZqQnFanzkUYS5nH4GRo6c4l)
-* 7–10:30PM
-* Book Now: <hello@thelodgeduxford.com> / 01223 755677
-* Ickleton Rd, Duxford, Cambridge CB22 4RT
-* All donations go directly to supporting the Soap Box Derby
+**Unfortunately the Silent Disco & Street Food event hosted by The Lodge, Duxford has been cancelled.**
 
 ### Sunday 31st August
 
