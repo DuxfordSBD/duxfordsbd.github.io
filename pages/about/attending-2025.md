@@ -23,6 +23,16 @@ Please see our [order of events for this year's derby]({% link pages/about/progr
 
 No ticket is required to attend
 
+## Food and refreshments 
+
+We have three options for food and refreshments on the day
+
+- The Duxford Hog Roast Company will be serving breakfast items, burgers and loaded fries at the Plough
+- Café 19 at the Duxford Community Centre will be serving hot and cold food from their popular menu with specials, coffee and cakes
+- Four is our village's newest cafe serving coffee, cake and sandwiches 
+
+In addition our yearly ice cream van will be here. The Plough will be serving drinks and our local shop will be open for all your essentials. 
+
 ## Road closures
 
 Roads will be closed at 11:30am and re-opened at 2:30pm.
