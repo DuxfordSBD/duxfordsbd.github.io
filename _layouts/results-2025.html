@@ -1,0 +1,87 @@
+---
+layout: page-fullwidth
+---
+
+<h2>Childrens Race Results</h2>
+
+<table>
+<tr>
+  <th>First Childrens Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Position</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.fourtoseven] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.position }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<table>
+<tr>
+  <th>Second Childrens Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Position</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.eighttoeleven] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.position }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<table>
+<tr>
+  <th>Third Childrens Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Position</th>
+        <th>Extra Awards</th>
+    </tr>
+{% for res in site.data[page.twelvetofifteen] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.position }}</td>
+        <td>{{ res.awards }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<h2>Adults Race Results</h2>
+
+<table>
+<tr>
+  <th>Adults Race Entries</th>
+        <th>Age Group</th>
+        <th>Team Name</th>
+        <th>Finishing Position</th>
+        <th>Extra Awards</th>
+        {% if page.times %}
+        <th>Lap Time</th>
+        {% endif %}
+    </tr>
+{% for res in site.data[page.adults] %}
+    <tr>
+        <td>{{ res.names }}</td>
+        <td>{{ res.age }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.position }}</td>
+        <td>{{ res.awards }}</td>
+        {% if page.times and res.time %}<td>{{ res.time }}</td>{% endif %}
+    </tr>
+{% endfor %}
+</table>
