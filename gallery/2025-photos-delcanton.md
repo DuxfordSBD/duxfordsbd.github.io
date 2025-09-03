@@ -5,5 +5,5 @@ header:
 gallery_source: "2025-photos-delcanton"
 title: Duxford Soap Box Derby 2025 Photo Gallery
 ---
-Photos provided courtesy of Fabiana Delcanton.
+Photos provided courtesy of [Fabiana Delcanton](https://www.fabianadelcanton.com/).
 {% include google-gallery %}
