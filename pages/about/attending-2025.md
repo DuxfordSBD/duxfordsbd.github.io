@@ -17,7 +17,7 @@ Other public transport options include the [132 Sunday service bus](https://bust
 
 ## What's going on?
 
-Please see our [order of events for this year's derby]({% link pages/about/programme-of-events-2025.md %}). If you're interested in our raffle and auction we have [published our list of prizes]({% post_url 2025-08-23-charity-auction-raffle-2025 %}).
+Please see our [order of events for this year's derby]({% link pages/about/programme-of-events-2025.md %}). If you're interested in our raffle and auction we have [published our list of prizes]({% post_url news/2025-08-23-charity-auction-raffle-2025 %}).
 
 ## Tickets
 

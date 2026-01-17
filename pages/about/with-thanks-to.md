@@ -7,6 +7,47 @@ meta_title: "With Thanks to"
 permalink: "/about/with-thanks-to"
 ---
 
+## 2025 Soap Box Derby supporters and helpers
+
+* __The marshalls, support staff and volunteers for the event__
+* __Phoenix Events (East) Limited__ - Road closure enactment
+* __Malcolm Hyde__ - Road closure plans
+* __The Plough__ - Venue
+* __Four, Duxford__ - Venue
+* __GT Trax__ – Road closure sponsor
+* __Kieran James__ - Walkie talkies
+* __Cooke Curtis & Co__ – Advertising boards
+* __Louise Hulland__ - BBC Radio Cambridgeshire
+* __Keith Heppell__ - Cambridge Independent
+* __Fabiana Delcanton__ - Photographer
+* __Red Graphic Ltd__ - Poster and banner design
+* __Jim Welch & team at Welches Transport__ – Car parking, race support & auction prize
+* __Tony Bridgeman__ – PA System, staging and catering at the Plough
+* __Classic Wings__ - Auction/Raffle prize(s)
+* __Scudamores__ - Auction/Raffle prize(s)
+* __Huws Gray Pampisford & The Committee__ - Auction/Raffle prize(s)
+* __Red Lion Hinxton__ - Auction/Raffle prize(s)
+* __The Lodge Duxford__ - Auction/Raffle prize(s)
+* __Paul Behan and Café 19__ - Auction/Raffle prize(s)
+* __Malcolm Hyde__ - Auction/Raffle prize(s)
+* __Bourn Golf Club__ - Auction/Raffle prize(s)
+* __Holroyd Components LTD__ - Auction/Raffle prize(s)
+* __Cambridge Country Club__ - Auction/Raffle prize(s)
+* __Xtreme360 Trampoline Park__ - Auction/Raffle prize(s)
+* __Bill Johnson__ - Auction/Raffle prize(s)
+* __Steven Taylor and The Paddocks__ - Auction/Raffle prize(s)
+* __Brown and May__ - Auction/Raffle prize(s)
+* __The Green Man, Lindsell__ - Auction/Raffle prize(s)
+* __Shepreth Wildlife Park__ - Auction/Raffle prize(s)
+* __Scotsdales__ - Auction/Raffle prize(s)
+* __Coton Garden Centre__ - Auction/Raffle prize(s)
+* __Anglian Leisure Sawston__ - Auction/Raffle prize(s)
+* __Everards__ - Auction/Raffle prize(s)
+* __Smiths Farms and Savoursmiths__ - Auction/Raffle prize(s)
+* __All other prize donations__ - Auction/Raffle prize(s)
+
+We especially thank BBC Radio Cambridgshire, Cambridge Independent and Paul Ellwood for their coverage of the day.
+
 ## 2024 Soap Box Derby supporters and helpers
 
 * __The marshalls, support staff and volunteers for the event__
