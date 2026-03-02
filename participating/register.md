@@ -6,6 +6,8 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
+{% if site.entries_open %}
+
 There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them. No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories.
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category was new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
@@ -39,10 +41,10 @@ You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure
 			Childrens race - Aged 12-15
 		</option>
 		<option value="adults">
-			Adults race - aged 16+ 
+			Adults race - aged 16+
 		</option>
 		<option value="elite">
-			Adults race - elite, for teams expecting to complete the 1.4 mile course in under 10 minutes 
+			Adults race - elite, for teams expecting to complete the 1.4 mile course in under 10 minutes
 		</option>
 		<option value="veterans">
 			Adults race - veterans, 55+
@@ -100,6 +102,12 @@ For further information if needed, please contact: [duxfordsoapboxderby@outlook.
 <br />
 
 For our privacy policy see [here]({{ site.url }}{{ site.baseurl }}/privacy_policy).
+
+{% else %}
+
+Entries for the Duxford Soap Box Derby are currently closed. Please keep an eye on our [news page]({{ site.url }}{{ site.baseurl }}/news) and social media for announcements about when entries will open.
+
+{% endif %}
 
 [1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map
