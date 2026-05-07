@@ -9,3 +9,4 @@ _site/
 /bundle_cache/*
 /.hypothesis
 service_account.json
+.vscode/settings.json

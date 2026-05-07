@@ -6,7 +6,7 @@ title: "Register a team"
 permalink: "/participating/register"
 ---
 
-{% if site.entries_open %}
+{% if site.data.sbd_details.entries_open %}
 
 There will be 3 races on the day, two childrens races and the adult race. The first childrens race is for children aged 4 –7 or 8-11, these must have a responsible adult accompanying them throughout the race. The second childrens race is for children aged 12-15, they will complete two circuits of the [childrens race route][1] and do not require an adult to run with them. No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories.
 

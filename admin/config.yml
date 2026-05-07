@@ -1,0 +1,270 @@
+# Sveltia CMS configuration.
+# Editors visit /admin/, click "Sign In with Token", and paste a fine-grained
+# GitHub Personal Access Token scoped to this repo with Contents: Read & write.
+# No OAuth proxy needed.
+
+backend:
+  name: github
+  repo: DuxfordSBD/duxfordsbd.github.io
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: 'Upload "{{path}}"'
+    deleteMedia: 'Delete "{{path}}"'
+
+site_url: https://www.duxfordsoapboxderby.co.uk
+display_url: https://www.duxfordsoapboxderby.co.uk
+logo_url: https://www.duxfordsoapboxderby.co.uk/images/Duxford-SBD-logo-header.png
+
+# Where uploads land in the repo, and the URL prefix for new asset references.
+# Per-field overrides below force image fields on posts to store just the
+# filename (e.g. "foo.jpg"), matching the existing convention where templates
+# prepend site.urlimg.
+media_folder: images
+public_folder: /images
+
+collections:
+  - name: settings
+    label: Site settings
+    editor:
+      preview: false
+    files:
+      - name: event
+        label: Current event details
+        file: _data/sbd_details.yml
+        description: >-
+          Edit this to roll over to a new year, change the entry deadline,
+          or open/close race entries.
+        fields:
+          - { name: year, label: Event year, widget: string, hint: 'e.g. 2026' }
+          - { name: entry_deadline, label: Entry deadline, widget: string, hint: 'e.g. 30th August 2026' }
+          - name: entries_open
+            label: Race entries open
+            widget: boolean
+            default: false
+            hint: >-
+              Toggle the registration form on /participating/register and the
+              call-to-action on /participating. Set to ON when entries open,
+              OFF the rest of the year.
+          - name: homepage_banner
+            label: Homepage banner
+            widget: object
+            collapsed: false
+            hint: The message shown above the news on the homepage.
+            fields:
+              - name: enabled
+                label: Show banner
+                widget: boolean
+                default: true
+                hint: Turn the whole banner on or off.
+              - name: highlight
+                label: Use red highlight colour
+                widget: boolean
+                default: false
+                hint: For urgent or time-sensitive notices.
+              - name: text
+                label: Banner text
+                widget: string
+                hint: The main message, e.g. Race entries are now open for 2026.
+              - name: link_url
+                label: Link URL
+                widget: string
+                required: false
+                hint: Optional. The path the banner links to, e.g. /news/duxford-soap-box-needs-you-2026
+              - name: link_text
+                label: Link text
+                widget: string
+                required: false
+                hint: Wording for the link, e.g. Find out more in our blog post
+          - name: cruk
+            label: Cancer Research UK fundraising URLs
+            widget: object
+            collapsed: true
+            hint: >-
+              CRUK creates new fundraising pages each year — paste the new URLs
+              here when rolling over to a new event year.
+            fields:
+              - name: donate_url
+                label: General donation page URL
+                widget: string
+                hint: e.g. https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2026
+              - name: team_fundraising_url
+                label: Team fundraising page URL
+                widget: string
+                hint: Used by the sponsorship page. e.g. https://fundraise.cancerresearchuk.org/team/duxford-soap-box-derby-2026s-team
+              - name: race_entry_fee_url
+                label: Race entry fee payment URL
+                widget: string
+                hint: e.g. https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2026-race-entry-fees
+              - name: auction_payment_url
+                label: Auction item payment URL
+                widget: string
+                hint: e.g. https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-auction
+      - name: committee
+        label: Committee, helpers and CRUK representatives
+        file: _data/committee.yml
+        description: >-
+          Edit the lists shown on the /about/committee page. Use the role
+          field for chair, treasurer, CRUK representative — leave blank for
+          ordinary members.
+        fields:
+          - name: current
+            label: Current committee
+            widget: list
+            fields:
+              - { name: name, label: Name, widget: string }
+              - { name: role, label: Role, widget: string, required: false, hint: 'Optional. e.g. Chair, Treasurer, CRUK representative' }
+          - name: past
+            label: Past committee members
+            widget: list
+            fields:
+              - { name: name, label: Name, widget: string }
+              - { name: role, label: Role, widget: string, required: false }
+          - name: helpers
+            label: Committee helpers
+            widget: list
+            fields:
+              - { name: name, label: Name, widget: string }
+              - { name: role, label: Role, widget: string, required: false }
+
+  - name: news
+    label: News posts
+    label_singular: News post
+    folder: _posts/news
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: md
+    format: yaml-frontmatter
+    summary: '{{title}} ({{year}}-{{month}}-{{day}})'
+    sortable_fields: [title, date]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: teaser, label: Teaser, widget: string, required: false, hint: 'Short tagline shown on the homepage and listings' }
+      - { name: description, label: SEO description, widget: string, required: false }
+      - name: layout
+        label: Layout
+        widget: select
+        default: page
+        options: [page, auction, video]
+        hint: 'Use "page" for normal posts. "auction" / "video" only for special posts.'
+      - { name: permalink, label: Custom permalink, widget: string, required: false, hint: 'Optional. e.g. /news/my-custom-url' }
+      - { name: header, label: Header style, widget: string, required: false, hint: 'Set to "no" to hide the page header on the post.' }
+      - name: image
+        label: Images
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: title, label: Main image, widget: image, required: false, media_folder: /images, public_folder: '' }
+          - { name: thumb, label: Thumbnail, widget: image, required: false, media_folder: /images, public_folder: '' }
+          - { name: homepage, label: Homepage image, widget: image, required: false, media_folder: /images, public_folder: '' }
+      - { name: categories, label: Categories, widget: list, default: [news] }
+      - { name: tags, label: Tags, widget: list, default: [news] }
+      - { name: body, label: Body, widget: markdown }
+
+  # Top-level pages: about, contact, donate, info, privacy_policy, thanks, etc.
+  - name: pages
+    label: Information pages
+    label_singular: Information page
+    folder: pages
+    create: true
+    extension: md
+    format: yaml-frontmatter
+    summary: '{{title}}'
+    sortable_fields: [title]
+    description: >-
+      Top-level pages such as About, Contact, Donate, Privacy Policy, Thanks.
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: meta_title, label: SEO title, widget: string, required: false, hint: 'Optional. Shown in search results / browser tabs.' }
+      - { name: teaser, label: Teaser, widget: string, required: false }
+      - { name: subheadline, label: Subheadline, widget: string, required: false }
+      - { name: permalink, label: Permalink, widget: string, required: false, hint: 'The URL path for this page, e.g. /about/. Avoid changing on existing pages — it breaks links.' }
+      - name: layout
+        label: Layout
+        widget: select
+        default: page
+        options: [page, redirect, page-fullwidth]
+        hint: 'Use "page" for normal content. "redirect" sends the visitor elsewhere.'
+      - name: header
+        label: Header image
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: image_fullwidth, label: Full-width header image, widget: image, required: false, media_folder: /images, public_folder: '' }
+      - { name: redirect, label: Redirect URL, widget: string, required: false, hint: 'Used by the "redirect" layout. The external URL to send visitors to.' }
+      - { name: redirect_to, label: Redirect target (alt), widget: string, required: false, hint: 'Alternative redirect field used by some legacy pages.' }
+      - { name: sitemap, label: Include in sitemap, widget: boolean, required: false, default: true, hint: 'Untick for utility pages you do not want indexed.' }
+      - { name: body, label: Body, widget: markdown }
+
+  # Pages under pages/about: committee list, with-thanks-to, programme of events.
+  - name: pages-about
+    label: About pages
+    label_singular: About page
+    folder: pages/about
+    create: true
+    extension: md
+    format: yaml-frontmatter
+    summary: '{{title}}'
+    sortable_fields: [title]
+    description: >-
+      Pages under /pages/about/ — committee list, "with thanks to",
+      programme of events, attending information.
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: meta_title, label: SEO title, widget: string, required: false }
+      - { name: teaser, label: Teaser, widget: string, required: false }
+      - { name: subheadline, label: Subheadline, widget: string, required: false }
+      - { name: permalink, label: Permalink, widget: string, required: false }
+      - name: layout
+        label: Layout
+        widget: select
+        default: page
+        options: [page, redirect, page-fullwidth]
+      - name: header
+        label: Header image
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: image_fullwidth, label: Full-width header image, widget: image, required: false, media_folder: /images, public_folder: '' }
+      - { name: sitemap, label: Include in sitemap, widget: boolean, required: false, default: true }
+      - { name: body, label: Body, widget: markdown }
+
+  # Pages under participating: rules, registration, sponsorship, volunteer, route maps.
+  - name: participating
+    label: Participating pages
+    label_singular: Participating page
+    folder: participating
+    create: true
+    extension: md
+    format: yaml-frontmatter
+    summary: '{{title}}'
+    sortable_fields: [title]
+    description: >-
+      Pages under /participating/ — rules, registration, sponsorship,
+      volunteer info, route maps, terms and conditions.
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: meta_title, label: SEO title, widget: string, required: false }
+      - { name: teaser, label: Teaser, widget: string, required: false }
+      - { name: subheadline, label: Subheadline, widget: string, required: false }
+      - { name: permalink, label: Permalink, widget: string, required: false, hint: 'The URL path. Avoid changing on existing pages — it breaks links.' }
+      - name: layout
+        label: Layout
+        widget: select
+        default: page
+        options: [page, redirect, page-fullwidth]
+      - name: header
+        label: Header image
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: image_fullwidth, label: Full-width header image, widget: image, required: false, media_folder: /images, public_folder: '' }
+      - { name: redirect, label: Redirect URL, widget: string, required: false, hint: 'Used by the "redirect" layout, e.g. on the "Pay race entry fee" page.' }
+      - { name: sitemap, label: Include in sitemap, widget: boolean, required: false, default: true }
+      - { name: body, label: Body, widget: markdown }

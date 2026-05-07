@@ -10,8 +10,8 @@
 # Title of your website
 title: 'Duxford Soapbox Derby'
 
-# Set to true to open race entries, false to close them
-entries_open: false
+# Yearly / editorial toggles (entries_open, year, entry_deadline) live in
+# _data/sbd_details.yml so they can be edited from the CMS at /admin/.
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'News, Photos, videos and more!'
