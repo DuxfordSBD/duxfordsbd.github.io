@@ -1,0 +1,47 @@
+# Committee members, helpers and CRUK representatives.
+# Edit via the CMS at /admin/ → Site settings → Committee.
+#
+# Each entry has a `name` (required) and an optional `role` (rendered in
+# brackets, e.g. "Nic Hill (Chair)"). Leave `role` blank for ordinary
+# committee members.
+
+current:
+  - name: "Lucie Abercrombie"
+  - name: "Kate Auger"
+  - name: "Nicole Brennan"
+    role: "CRUK representative"
+  - name: "Dale Butler"
+  - name: "Barry Dean"
+    role: "Treasurer"
+  - name: "Kevin Foot"
+  - name: "Nic Hill"
+    role: "Chair"
+  - name: "Pam Hill"
+  - name: "Kirsty Keegan"
+  - name: "Greg Nunn"
+  - name: "Zoey Rigaut"
+  - name: "Clive Smith"
+  - name: "Graeme Spence"
+  - name: "Claire Stribling"
+  - name: "Andy Yates"
+  - name: "Beth Yates"
+
+past:
+  - name: "Frank Bailey"
+  - name: "Gill Burgess"
+    role: "CRUK representative"
+  - name: "Pete Dee"
+  - name: "Leah Hill"
+  - name: "Laura Holland"
+    role: "CRUK representative"
+  - name: "Malcolm Hyde"
+  - name: "Jo Marriot"
+    role: "CRUK representative"
+  - name: "Pete Stribling"
+    role: "Chair"
+  - name: "Trevor Turner"
+
+helpers:
+  - name: "Pete Dee"
+  - name: "Liz Kingsley"
+  - name: "Malcolm Hyde"

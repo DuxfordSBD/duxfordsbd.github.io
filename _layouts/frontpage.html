@@ -9,15 +9,14 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% assign banner = site.data.sbd_details.homepage_banner %}
+{% if banner and banner.enabled %}
 <div style="text-align: center;" class="row">
  <div style="display: inline-block;">
-	<!-- <h3 style="color: #de4d32;">The 2025 Duxford Soap Box Derby will run on the 31st August 2025. <a href="{% post_url news/2025-02-15-duxford-soap-box-derby-2025 %}">See our news article for more information.</a></h3> -->
-    <!-- <h3 style="color: #de4d32;">Important changes to our route and events. <a href="{% post_url news/2025-08-15-important-info-2025 %}">Click for more information.</a></h3> -->
-    <!-- <h3 style="color: #de4d32;">Interested in attending the Derby? <a href="{% link pages/about/attending-2025.md %}">Click for more information.</a></h3> -->
-    <!-- <h3>We have raised £100,249 in aid of Cancer Research UK since 2013! <a href="{% post_url news/2026-01-17-total-is-announced %}">Find out more in our blog post</a></h3> -->
-    <h3>Want to be part of something special? Why not volunteer and help run the 2026 derby. <a href="{% post_url news/2026-02-03-Soap-Box-Needs-You-2026 %}">Find out more in our blog post</a></h3>
+    <h3{% if banner.highlight %} style="color: #de4d32;"{% endif %}>{{ banner.text }}{% if banner.link_url %} <a href="{{ banner.link_url }}">{{ banner.link_text | default: 'Find out more' }}</a>{% endif %}</h3>
  </div>
 </div>
+{% endif %}
 
 {% comment %}
 *
@@ -62,7 +61,7 @@ format: frontpage
 {% endif %}
 <div class="row t30 b30">
     <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" {% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ callforaction_text }}</a>
+        <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" {% if page.callforaction.url contains 'http' %} target="_blank" rel="noopener noreferrer" {% endif %}>{{ callforaction_text }}</a>
     </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 {% endif %}

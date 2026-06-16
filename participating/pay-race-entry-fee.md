@@ -2,7 +2,7 @@
 layout: page
 title: Redirecting to our online race entry fee payment page
 permalink: /participating/pay-race-entry-fee
-redirect: https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2025-race-entry-fees
+redirect_cruk: race_entry_fee_url
 ---
 
-Redirecting you to our online race entry fee payment page. If this does not happen then [click here]({{page.redirect}}).
+Redirecting you to our online race entry fee payment page. If this does not happen then [click here]({{ site.data.sbd_details.cruk.race_entry_fee_url }}).

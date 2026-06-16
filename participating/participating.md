@@ -11,7 +11,7 @@ permalink: "/participating"
 
 ![The 2018 podium][podium]
 
-{% if site.entries_open %}
+{% if site.data.sbd_details.entries_open %}
 What's a Soap Box Derby without Soap Boxes and racers? If you would like to enter into this year's Duxford Soap Box Derby then please [take a look at our registration page][1]. We have both childrens and adults races and accept comptitors of all abiltiies. Entries are subject to our [general rules][general_rules], [childrens rules][childrens_rules] and [adult rules][adults_rules]. Why not build a dual purpose cart so you can watch your children take part before taking your turn in the adult race?
 {% else %}
 Entries for the Duxford Soap Box Derby are currently closed. Please keep an eye on our [news page]({{ site.url }}{{ site.baseurl }}/news) and social media for announcements about when entries will open.
