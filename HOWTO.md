@@ -12,7 +12,14 @@ Each editor signs in with their own GitHub Personal Access Token. The token
 lives only in the editor's browser; nothing is shared.
 
 1. Make sure your GitHub account is a collaborator on <https://github.com/DuxfordSBD/duxfordsbd.github.io>. Ask the website maintainer to add you if not.
-2. Generate a fine-grained Personal Access Token: - Go to GitHub → click your avatar (top right) → **Settings**. - Scroll to the bottom of the left sidebar → **Developer settings**. - **Personal access tokens** → **Fine-grained tokens** → **Generate new   token**. - **Token name**: anything, e.g. "Duxford Soap Box CMS". - **Expiration**: pick up to 1 year. (You will be asked to regenerate   when it expires — that's normal.) - **Repository access** → **Only select repositories** → choose   `DuxfordSBD/duxfordsbd.github.io`. - **Permissions** → **Repository permissions** → set **Contents** to   **Read and write**. (Metadata: Read is added automatically.) - Click **Generate token** and **copy the token** immediately. It will   never be shown again.
+2. Generate a classic security token
+    - Go to GitHub → click your avatar (top right) → **Settings**. - Scroll to the bottom of the left sidebar → **Developer settings**.
+    - **Personal access tokens** → **Tokens (classic)** → **Generate new token (classic)**. 
+    - **One time password**: give your one time password if asked for 
+    - **Note**: anything, e.g. "Duxford Soap Box CMS". 
+    - **Expiration**: pick up to 1 year. (You will be asked to regenerate when it expires — that's normal)
+    - **Select scopes**: click the `repo` scope
+    - Click **Generate token** and **copy the token** immediately. It will never be shown again.
 3. Visit <https://www.duxfordsoapboxderby.co.uk/admin/>.
 4. Click **Sign In with Token**, paste the token, press OK.
 

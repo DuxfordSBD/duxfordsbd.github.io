@@ -4,8 +4,8 @@
 #   - opening or closing race entries
 #   - changing the homepage banner
 
-year: "2025"
-entry_deadline: "30th August 2025"
+year: "2026"
+entry_deadline: "5th September 2026"
 
 # Set to true to open race entries, false to close them.
 # Controls the registration form on /participating/register and
@@ -18,7 +18,7 @@ entries_open: false
 homepage_banner:
   enabled: true
   highlight: false  # true uses the red attention-grabbing colour
-  text: "Want to be part of something special? Why not volunteer and help run the 2026 derby."
+  text: "Entries will be open very soon. Keep your eyes peeled on this site"
   link_url: "/news/duxford-soap-box-needs-you-2026"
   link_text: "Find out more in our blog post"
 
@@ -26,7 +26,7 @@ homepage_banner:
 # update these whenever you roll over to a new event year.
 # Used by: /donate, /participating/sponsorship, /participating/pay-race-entry-fee
 cruk:
-  donate_url: "https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2025"
-  team_fundraising_url: "https://fundraise.cancerresearchuk.org/team/duxford-soap-box-derby-2025s-team"
-  race_entry_fee_url: "https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2025-race-entry-fees"
+  donate_url: "https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2026"
+  team_fundraising_url: "https://fundraise.cancerresearchuk.org/team/duxford-soap-box-derby-2026s-team"
+  race_entry_fee_url: "https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-2026-race-entry-fees"
   auction_payment_url: "https://fundraise.cancerresearchuk.org/page/duxford-soap-box-derby-auction"
