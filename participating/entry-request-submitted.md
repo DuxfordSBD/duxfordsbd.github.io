@@ -15,10 +15,6 @@ Once your place in the event is confirmed you will be required to pay the entran
 * £10 for the adults race,
 * £5 for the childrens race.
 
-You can use our [CRUK fundraising page][1] to pay the entry fee, just be sure to include your team name and that the donation is for race entry in the message you provide.
-
-If you wish to pay via an alternative method please email to organise delivery details. Payment must be recieved before the {{ site.data.sbd_details.entry_deadline }}.
+Entry fees are paid in cash or by card on the day of the Event only. Please bring payment with you when you arrive to register your Soap Box. We are unable to accept entry fee payments in advance.
 
 ### Thank you for registering to enter the {{ site.data.sbd_details.year }} Duxford Soap Box Derby and good luck on race day
-
-[1]: {{ site.url }}{{ site.baseurl }}/participating/pay-race-entry-fee

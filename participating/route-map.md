@@ -7,30 +7,34 @@ meta_title: "Route for the races in the Duxford Soapbox Derby"
 permalink: "/participating/route-map"
 ---
 
-[All routes are available online at Plot A Route](https://www.plotaroute.com/routecollection/18061).
-
-# Adults race route
-
-The adults race begins and ends the Plough. Prior to the race the carts will gather at the farmwyard across from the Plough, parade down St Peter's St and back up to the farmyard. You will be called to the grid at the appropriate time. Your route departs down St Peter's Street, towards Green Street to meet up with Moorfield Road and then to continue the traditional Soap Box Derby route.
-<br />
-
-![Race 3: adults race route](/images/Race-3-Duxford-Soap-Box-Derby-2025.png)
-
 <p id="childrens-route"></p>
-# Childrens race route: 4 to 7 and 8 to 11 year olds
+# Race 1: Childrens race route (4 to 7 and 8 to 11 year olds)
 
-The childrens race starts and finishes at the Plough. You will depart from the Plough, head down St Peter's Street, towards the war memorial and back to finish at The Plough. Keep to the left at all times. Before the race you will be asked to follow the same route and will be invited to form up on the grid. Follow instructions by our marshalls.
+Race 1 starts and finishes on Moorfield Road just outside the John Barleycorn. This age group completes a **single lap** of the childrens route. Before the race the childrens teams will gather at Graystones before parading to the starting grid.
 <br />
 
-![Race 1: 4 to 7 and 8 to 11 year olds race route](/images/Race-1-Duxford-Soap-Box-Derby-2025.png)
+![Childrens course map: start and finish outside the John Barleycorn, looping via Saint John's Street and Green Street](/images/childrens-route-map-2026.jpg)
+
+*Route shown is indicative, based on OpenStreetMap data — exact road closure boundaries will be confirmed by the committee.*
 
 <p id="childrens-route-older"></p>
-# Childrens race route: 12 to 15 year olds
+# Race 2: Childrens race route (12 to 15 year olds)
 
-The older childrens race starts and finishes at the Plough. You will depart from the Plough, head down St Peter's Street, along Chapel Street, around the triangle at Green Street and following the route back to finish at The Plough. Keep to the left at all times. Before the race you will be asked to follow the same route and will be invited to form up on the grid. Follow instructions by our marshalls.
+Race 2 starts and finishes outside the John Barleycorn, over the same route as Race 1 but completed as **two laps**. As with Race 1, teams gather at Graystones before parading to the starting grid.
 <br />
 
-![Race 2: 12 to 15 year olds race route](/images/Race-2-Duxford-Soap-Box-Derby-2025.png)
+![Childrens course map: start and finish outside the John Barleycorn, looping via Saint John's Street and Green Street](/images/childrens-route-map-2026.jpg)
+
+*Route shown is indicative, based on OpenStreetMap data — exact road closure boundaries will be confirmed by the committee.*
+
+# Race 3: adults race route
+
+Race 3 starts outside the John Barleycorn. The route heads along St John's Street, down Hunts Road towards Ickleton, along Rectory Road and Hinxton Road, then finishes by coming up St Peter's Street to The Plough. Prior to the race the carts will gather at Graystones before parading to the starting grid.
+<br />
+
+![Adults course map: start outside the John Barleycorn, via St John's Street, Hunts Road, Rectory Road and Hinxton Road, finishing up St Peter's Street at The Plough](/images/adults-route-map-2026.jpg)
+
+*Route shown is indicative, based on OpenStreetMap data — exact road closure boundaries will be confirmed by the committee.*
 
 # Road closures
 
@@ -45,4 +49,5 @@ The following roads in Duxford are closed to traffic during the Soap Box Derby.
 - Rectory Road
 - Green Street
 
-Roads ajoining onto these roads will have their access suspended except for critical situations. Please respect the marshalls at all times and their instructions.
+Roads ajoining onto these roads will have their access suspended except for critical situations.
+Please respect the marshalls at all times and their instructions.
