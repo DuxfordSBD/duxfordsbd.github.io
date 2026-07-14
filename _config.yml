@@ -80,6 +80,9 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - CLAUDE.md
+    - HOWTO.md
+    - 2026Entries-plan.md
     - bin
     - docker-compose.yml
 
