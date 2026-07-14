@@ -6,13 +6,12 @@
   url: "/about/"
   side: left
   dropdown:
-  # - title: "Race Day 2025"
-  #   url: "/about/programme-of-events-2025"
-  - title: "Attending the Derby 2025"
-    url: "/about/attending-2025"
-    enabled: false  # flip to true to show in the menu
-  # - title: "Charity Auction and Raffle 2025"
-  #   url: "/news/charity-auction-raffle-2025"
+  - title: "Race Day 2026"
+    url: "/about/programme-of-events-2026"
+  # TODO: no 2026 "Attending the Derby" page exists yet — create one and
+  # link it here before race day (see HOWTO.md programme-of-events section).
+  # - title: "Charity Auction and Raffle 2026"
+  #   url: "/news/charity-auction-raffle-2026"
   - title: "With Thanks To"
     url: "/about/with-thanks-to"
   - title: "Committee Members"
@@ -22,12 +21,14 @@
   url: "/participating"
   side: left
   dropdown:
-  # - title: "Register a team"
-  #   url: "/participating/register"
-  # - title: "2025 Participant Information"
-  #   url: "/participating/2025-information-racers-v2.pdf"
-  # - title: "Register as a volunteer"
-  #   url: "/participating/volunteer"
+  - title: "Register a team"
+    url: "/participating/register"
+  # TODO: no 2026 Participant Information PDF exists yet — upload it and
+  # uncomment the entry below (see HOWTO.md).
+  # - title: "2026 Participant Information"
+  #   url: "/participating/2026-information-racers-v1.pdf"
+  - title: "Register as a volunteer"
+    url: "/participating/volunteer"
   - title: "Sponsorship"
     url: "/participating/sponsorship"
   - title: "General Rules"

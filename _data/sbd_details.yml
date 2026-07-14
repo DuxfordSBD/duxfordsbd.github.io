@@ -10,16 +10,16 @@ entry_deadline: "5th September 2026"
 # Set to true to open race entries, false to close them.
 # Controls the registration form on /participating/register and
 # the call-to-action on /participating.
-entries_open: false
+entries_open: true
 
 # Banner shown above the news on the homepage. Set enabled: false to hide it.
 # When changing the message, just edit the text/link below — there is no need
 # to touch the HTML in _layouts/frontpage.html.
 homepage_banner:
   enabled: true
-  highlight: false  # true uses the red attention-grabbing colour
-  text: "Entries will be open very soon. Keep your eyes peeled on this site"
-  link_url: "/news/duxford-soap-box-needs-you-2026"
+  highlight: true  # true uses the red attention-grabbing colour
+  text: "Race entries are now open!"
+  link_url: "/news/race-entries-are-open-2026"
   link_text: "Find out more in our blog post"
 
 # Cancer Research UK fundraising URLs. CRUK creates new pages each year, so

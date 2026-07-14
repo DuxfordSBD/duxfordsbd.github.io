@@ -6,30 +6,29 @@
 # committee members.
 
 current:
-  - name: "Lucie Abercrombie"
   - name: "Kate Auger"
   - name: "Nicole Brennan"
     role: "CRUK representative"
   - name: "Dale Butler"
-  - name: "Barry Dean"
-    role: "Treasurer"
+
   - name: "Kevin Foot"
   - name: "Nic Hill"
     role: "Chair"
   - name: "Pam Hill"
+    role: "Treasurer"
   - name: "Kirsty Keegan"
   - name: "Greg Nunn"
   - name: "Zoey Rigaut"
-  - name: "Clive Smith"
   - name: "Graeme Spence"
+  - name: "Clive Smith"
   - name: "Claire Stribling"
-  - name: "Andy Yates"
-  - name: "Beth Yates"
 
 past:
+  - name: "Lucie Abercrombie"
   - name: "Frank Bailey"
   - name: "Gill Burgess"
     role: "CRUK representative"
+  - name: "Barry Dean"
   - name: "Pete Dee"
   - name: "Leah Hill"
   - name: "Laura Holland"
@@ -40,6 +39,9 @@ past:
   - name: "Pete Stribling"
     role: "Chair"
   - name: "Trevor Turner"
+  - name: "Andy Yates"
+    role: "Chair"
+  - name: "Beth Yates"
 
 helpers:
   - name: "Pete Dee"

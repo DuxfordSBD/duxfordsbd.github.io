@@ -12,7 +12,7 @@ There will be 3 races on the day, two childrens races and the adult race. The fi
 
 The adults race has three categories: aged 16+, elite and veterans (55+). The elite category was new for 2019 and is for teams that have previously, or predict they will, complete the [1.4 mile race route][2] in less than 10 minutes. Please ensure ages on the day are [as per the general rules][general_rules].
 
-Both races will start at the Plough with the childrens race starting at 12 pm and the adults race at 1:30pm.
+Both races will start at the John Barleycorn with the childrens race starting at 12 pm and the adults race at 1:30pm.
 
 Places are limited and will be allocated on a first come first serve basis. Entry costs are as follows:
 
@@ -21,7 +21,7 @@ Places are limited and will be allocated on a first come first serve basis. Entr
 
 By entering you confirm that you will abide by [our general rules][general_rules] and [childrens rules][childrens_rules] or [adult rules][adults_rules], depending on which race you will compete in.
 
-You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure to include your team name and that the donation is for race entry in the message you provide. Alternatively payment by cheque is possible. Please contact us for more information. Payment should be recieved no later than {{ site.data.sbd_details.entry_deadline }}.
+Entry fees are payable in cash or by card on the day of the Event only, when you attend registration on the day. We cannot accept entry fee payments in advance. Please submit this registration form no later than {{ site.data.sbd_details.entry_deadline }}.
 
 <form name="register" method="POST" action="https://submit-form.com/WQEa3uDPQ" data-botpoison-public-key="pk_2fb35d48-8e71-4eb2-a7f6-f805ced3db85">
 <!-- <form name="register" method="POST" action="https://submit-form.com/echo"> -->
@@ -57,7 +57,7 @@ You can pay your entry fee by using our [CRUK fundraising page][4]. Just be sure
 	Address: <input type ="text" name="address" placeholder="Contact address" required />
 	Telephone Number: <input type ="text" name="phone" placeholder="Your telephone number" required />
 	Email: <input type="email" name="email" placeholder="Your email" required />
-	Did you enter the race in 2024: <select name="previousCompetitor" required>
+	Did you enter the race in 2025: <select name="previousCompetitor" required>
     <option value="no">No</option>
     <option value="yes">Yes</option>
   </select>
@@ -109,9 +109,8 @@ Entries for the Duxford Soap Box Derby are currently closed. Please keep an eye 
 
 {% endif %}
 
-[1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route
+[1]: {{ site.url }}{{ site.baseurl }}/participating/route-map#childrens-route-older
 [2]: {{ site.url }}{{ site.baseurl }}/participating/route-map
-[4]: {{ site.url }}{{ site.baseurl }}/participating/pay-race-entry-fee
 [general_rules]: {{site.url}}{{site.baseurl}}/participating/rules
 [childrens_rules]: {{site.url}}{{site.baseurl}}/participating/childrens-rules
 [adults_rules]: {{site.url}}{{site.baseurl}}/participating/adult-rules

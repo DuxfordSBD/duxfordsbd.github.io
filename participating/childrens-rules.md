@@ -11,13 +11,13 @@ permalink: "/participating/childrens-rules"
   * 4-7 years (an adult must accompany the team around the course)
   * 8-11 years (an adult must accompany the team around the course)
   * 12-15 years
-* Three races will be run; one for 4-7, one for 8-11 year olds and a third for 12-15 year olds
-* The races will start and finish at The Plough Public House
+* Three races will be run; one for 4-7 and 8-11 year olds held at the same time and a third for 12-15 year olds
+* The races will start and finish outside The John Barleycorn Public House
 * The 4-7 and 8-11 year old age categories race involves **1 lap** of the children's route (as per map)
-* The 12-15 year old category involves **1 lap** of the 12-15 year old route
+* The 12-15 year old category involves **2 laps** of the children's route (as per map)
 * No one over the age of 15 is allowed to be a team member in any of the children's races, and if the two team member's ages fall into two different age groups categories we would expect the team to enter into the older of the two categories. 
 * Competitors must be ready to race by 12:00
-* There will be a standing start outside of the Plough Public House with grid position assigned by a lottery conducted on the day
+* There will be a standing start outside of the John Barleycorn Public House with grid position assigned by a lottery conducted on the day
 * Teams to consist of two people only, one pushing and one driving/steering
 * The pushing/driving position can be swapped multiple times at any point during the race. The vehicle must be stopped when this is done and not in a position, which blocks the way for other teams
 * All participants are responsible for their own safety and their team member’s. They are responsible for their vehicles at all times and must be aware of other people and vehicles on the route

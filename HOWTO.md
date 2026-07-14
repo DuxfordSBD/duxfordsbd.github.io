@@ -90,7 +90,7 @@ CRUK creates new fundraising pages each year, with the year baked into the URL. 
 3. Paste the new URLs into the four fields:
    - **General donation page URL** — the page `/donate` redirects to, also linked from `/donate`.
    - **Team fundraising page URL** — used on `/participating/sponsorship`.
-   - **Race entry fee payment URL** — the page `/participating/pay-race-entry-fee` redirects to.
+   - **Race entry fee payment URL** — not currently used while entries are pay-on-the-day-only (see "Open race entries" below); kept up to date in case a future year reverts to advance payment.
    - **Auction item payment URL** — used on `/donate` for paying for auction lots.
 4. **Save**.
 
@@ -252,6 +252,15 @@ The CMS does **not** edit gallery pages, the JSON manifests, or `captions.yml` �
 2. **News posts → New news post**: announce that entries are open (model on previous years' posts).
 3. Update the **Homepage banner** to advertise that entries are open and link to the new news post.
 4. Check terms and conditions with CRUK before publishing.
+5. Confirm the payment method for entry fees. From 2026 onwards, entry fees
+   (£5 children's / £10 adults) are payable in cash or by card **on the day
+   only** at registration — advance payment is not accepted.
+   `participating/register.md`, `participating/rules.md`,
+   `participating/entry-request-submitted.md` and
+   `participating/pay-race-entry-fee.md` all reflect this. If a future year
+   reverts to advance payment, update those four pages back and reinstate
+   the `redirect_cruk: race_entry_fee_url` redirect on
+   `pay-race-entry-fee.md`.
 
 ### Close race entries after the deadline
 
@@ -294,6 +303,7 @@ The goal is to have the site truthful for the new year before any announcements 
 - [ ] **CMS — News posts → New news post**: announce that entries are open. Set a tidy permalink like `/news/race-entries-are-open-2026`.
 - [ ] **CMS — Site settings → Current event details → Homepage banner**: change to "Race entries are now open!" with the link pointing at the announcement post. Optionally turn on **Use red highlight colour** for the first couple of weeks.
 - [ ] Cross-check **Participating pages → Register a team**: open `/participating/register` in a browser, walk through the form once. Confirm the entry-fee link goes to the right CRUK page.
+- [ ] Confirm whether this year's entry fees are pre-paid or pay-on-the-day-only (2026 is pay-on-the-day-only — see "Open race entries" above) and make sure `participating/register.md`, `participating/rules.md`, `participating/entry-request-submitted.md` and `participating/pay-race-entry-fee.md` all say the right thing.
 
 ### Phase 3 — Closer to race day
 
