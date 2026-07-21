@@ -45,7 +45,7 @@ collections:
             widget: string
             hint: >-
               Shown on the homepage "About the Derby" widget by using the
-              {{total_raised}} placeholder in that widget's text, e.g. '£100,249'.
+              %%TOTAL_RAISED%% placeholder in that widget's text, e.g. '£100,249'.
           - name: entries_open
             label: Race entries open
             widget: boolean
