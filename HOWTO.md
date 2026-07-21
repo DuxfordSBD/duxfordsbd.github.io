@@ -35,7 +35,7 @@ The CMS sidebar lists the editable areas:
 
 | Section in CMS | What it edits | Files in the repo |
 | --- | --- | --- |
-| **Site settings → Current event details** | Year, entry deadline, race-entries-open toggle, homepage banner, CRUK fundraising URLs | `_data/sbd_details.yml` |
+| **Site settings → Current event details** | Year, entry deadline, race-entries-open toggle, homepage banner, total raised so far, CRUK fundraising URLs | `_data/sbd_details.yml` |
 | **Site settings → Committee, helpers and CRUK representatives** | The lists rendered on `/about/committee` | `_data/committee.yml` |
 | **News posts** | Every news article on the site | `_posts/news/*.md` |
 | **Information pages** | About, Contact, Donate, Privacy Policy, Thanks, etc. | `pages/*.md` |

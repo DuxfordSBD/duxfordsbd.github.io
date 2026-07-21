@@ -40,6 +40,12 @@ collections:
         fields:
           - { name: year, label: Event year, widget: string, hint: 'e.g. 2026' }
           - { name: entry_deadline, label: Entry deadline, widget: string, hint: 'e.g. 30th August 2026' }
+          - name: total_raised
+            label: Total raised so far
+            widget: string
+            hint: >-
+              Shown on the homepage "About the Derby" widget by using the
+              {{total_raised}} placeholder in that widget's text, e.g. '£100,249'.
           - name: entries_open
             label: Race entries open
             widget: boolean

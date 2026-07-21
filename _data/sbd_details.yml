@@ -12,6 +12,10 @@ entry_deadline: "5th September 2026"
 # the call-to-action on /participating.
 entries_open: true
 
+# Total raised for Cancer Research UK to date. Shown on the homepage
+# "About the Derby" widget. Update as fundraising totals come in.
+total_raised: "£100,249"
+
 # Banner shown above the news on the homepage. Set enabled: false to hide it.
 # When changing the message, just edit the text/link below — there is no need
 # to touch the HTML in _layouts/frontpage.html.
