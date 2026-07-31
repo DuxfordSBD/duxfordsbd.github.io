@@ -22,7 +22,7 @@ total_raised: "£100,249"
 homepage_banner:
   enabled: true
   highlight: true  # true uses the red attention-grabbing colour
-  text: "Race entries are now open for the Soap Box Derby on the 5th September 2026!"
+  text: "Race entries are now open for the Soap Box Derby on the 6th September 2026!"
   link_url: "/news/race-entries-are-open-2026"
   link_text: "Find out more in our blog post"
 
