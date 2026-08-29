@@ -37,3 +37,5 @@ The Duxford Soap Box Derby will take place on the 6th September 2026 in [Duxford
 <br />
 
 An amazing thank you to our venue hosts Gen Restelica of Four Duxford, Danny and Francesca Hennessey of The John Barleycorn, and Mario and Tracey Demartino of The Plough. Also a huge thank you to their amazing teams who make the derby into the huge event it is.
+
+[location]: https://maps.app.goo.gl/6pVnRMnUYC1UbpzG8
