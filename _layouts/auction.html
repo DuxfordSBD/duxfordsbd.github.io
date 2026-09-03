@@ -4,7 +4,9 @@ layout: page
 
 <h2>Auction Lots</h2>
 <p> Below is the list of items that will feature in our charity auction following the adults race on Sunday. The auction will take place at the Plough at approximately {{ page.auctionStart }}. Please be aware the following list is subject to change.
-</p>	
+</p>
+
+{% if page.auctionImage %}<img src="{{ site.urlimg }}{{ page.auctionImage }}" style="max-width:400px; width:100%; height:auto;" alt="Auction prizes">{% endif %}
 
 <ul type='none' style="margin-left:0px">
 {% for res in site.data[page.data] %}
@@ -19,16 +21,15 @@ layout: page
 <h2>Raffle prizes</h2> 
 
 The raffle draw will take place at the Plough and will start at {{ page.raffleStart }}. There are likely to be additional prizes availaible on the day. This list is subject to change.
+{% if page.raffleTicketPrice %}Raffle tickets are {{ page.raffleTicketPrice }} each.{% endif %}
 <br />
 <br />
 
+{% if page.raffleImage %}<img src="{{ site.urlimg }}{{ page.raffleImage }}" style="max-width:400px; width:100%; height:auto;" alt="Raffle prizes"><br /><br />{% endif %}
+
 <ul>
 {% for res in site.data[page.raffle] %}
-{% if forloop.index0 == 0 %}
-<li><strong>1st place: {{res.item}}</strong>{% if res.provided %}, provided by {{res.provided}}{% endif %}</li>
-{% else %}
 <li><strong>{{res.item}}</strong>{% if res.provided %}, provided by {{res.provided}}{% endif %}</li>
-{% endif %}
 {% endfor %}
 </ul>
 {% endif %}
