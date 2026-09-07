@@ -22,9 +22,9 @@ total_raised: "£100,249"
 homepage_banner:
   enabled: true
   highlight: true  # true uses the red attention-grabbing colour
-  text: "What a fantastic day! The 2026 Duxford Soap Box Derby was a huge success. "
+  text: "What a fantastic day! "
   link_url: "/news/2026-race-results"
-  link_text: "Find out who won here."
+  link_text: "Find out who won in the 2026 Duxford Soap Box Derby here."
 
 # Cancer Research UK fundraising URLs. CRUK creates new pages each year, so
 # update these whenever you roll over to a new event year.
